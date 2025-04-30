@@ -1,16 +1,27 @@
 {
-    "version": 2,
-    "builds": [
-      {
-        "src": "api/index.js",
-        "use": "@vercel/node"
+  "version": 2,
+  "builds": [
+    {
+      "src": "server.js",
+      "use": "@vercel/node",
+      "config": {
+        "includeFiles": ["db.json"]
       }
-    ],
-    "routes": [
-      {
-        "src": "/(.*)",
-        "dest": "api/index.js"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "server.js",
+      "headers": {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET,OPTIONS,PATCH,DELETE,POST,PUT",
+        "Cross-Origin-Resource-Policy": "*",
+        "Vercel-CDN-Cache-Control": "max-age=3600",
+        "CDN-Cache-Control": "max-age=60",
+        "Cache-Control": "max-age=10",
+        "x-vidyback": "ABC:123"
       }
-    ]
-  }
-  
+    }
+  ]
+}
