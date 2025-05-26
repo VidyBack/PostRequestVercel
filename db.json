@@ -3021,6 +3021,538 @@
       "bgImageUrl": [
         ""
       ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": true,
+      "createdOn": "2025-05-23T11:00:58.443Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_r6jsh_1747998055146_01-promotional-portrait-template.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "01-promotional-portrait-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_basicPromo"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qgM28_1747998055150_01-promotional-portrait-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VaCI6_1747998055148_01-promotional-portrait-template.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 1,
+      "month": "january",
+      "isMultipleTemplate": true,
+      "previews": [],
+      "id": "Ds10tH5lEFgdL6AWG9JF2",
+      "templateId": "Ds10tH5lEFgdL6AWG9JF2"
+    },
+        {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": true,
+      "createdOn": "2025-05-23T11:00:58.443Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_r6jsh_1747998055146_01-promotional-portrait-template.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "01-promotional-portrait-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_basicPromo"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qgM28_1747998055150_01-promotional-portrait-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VaCI6_1747998055148_01-promotional-portrait-template.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 1,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "Ds10tH5lEFgdL6AWG9JF2",
+      "templateId": "Ds10tH5lEFgdL6AWG9JF2"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Am050_1705389444280_break-away-85.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-04-17T06:38:15.451Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_CdpXS_1744871892695_04-wellness-portrait-template-updated-new-v2.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "04-wellness-portrait-template-updated-new-v2",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_basicPromo"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rfINS_1744871892698_04-wellness-portrait-template-updated-new-v2.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bvDMf_1744871892696_04-wellness-portrait-template-updated-new-v2.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 1,
+      "month": "january",
+      "isMultipleTemplate": true,
+      "previews": [],
+      "id": "4-gX_5gZWXTW4OM6KPFT9",
+      "templateId": "4-gX_5gZWXTW4OM6KPFT9"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Am050_1705389444280_break-away-85.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-04-17T06:38:15.451Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_CdpXS_1744871892695_04-wellness-portrait-template-updated-new-v2.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "04-wellness-portrait-template-updated-new-v2",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_basicPromo"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rfINS_1744871892698_04-wellness-portrait-template-updated-new-v2.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bvDMf_1744871892696_04-wellness-portrait-template-updated-new-v2.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 1,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "4-gX_5gZWXTW4OM6KPFT9",
+      "templateId": "4-gX_5gZWXTW4OM6KPFT9"
+    },
+     {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_dbFx9_1725270169685_im-so-in-love-with-you-958.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-04-10T07:41:27.716Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_8pT4C_1744270759241_07-promotional-portrait-template-updated.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "07-promotional-portrait-template-updated",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_basicPromo"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZMUPV_1744270759244_07-promotional-portrait-template-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lkzQ1_1744270759243_07-promotional-portrait-template-updated.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 0.9,
+      "month": "january",
+      "isMultipleTemplate": true,
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_K02e8_1744270874600_07-promotional-portrait-template-updated-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ViP01_1744270878074_07-promotional-portrait-template-updated-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Mercedes_AMG_GT_Photoshoot__Sydney_Australia___Car_Photography.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_DvL-a_1744270874602_07-promotional-portrait-template-updated-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_j073Z_1744270878078_07-promotional-portrait-template-updated-Travel.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Explore_a_tranquil_pathway_amidst_Bali_s_lush_green_hills_under_a_vibrant_morning_sky_.jpg-Travel-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pRVMY_1744270874603_07-promotional-portrait-template-updated-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QlL2A_1744270878080_07-promotional-portrait-template-updated-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-gabby-k-7144326-min.jpg-Food-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Technology": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sEyuZ_1744270874605_07-promotional-portrait-template-updated-Technology.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4Ve48_1744270878083_07-promotional-portrait-template-updated-Technology.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/A_sleek_smartphone_with_a_blank_screen_on_a_wooden_stand__styled_with_a_decorative_plant_and_open_notebook_.jpg-Technology-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Ecommerce": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_HMqt0_1744270874607_07-promotional-portrait-template-updated-Ecommerce.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_urvGY_1744270878086_07-promotional-portrait-template-updated-Ecommerce.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/resized_pexels-shvetsa-3986993.jpg-Ecommerce-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jobs": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6cfVp_1744270874608_07-promotional-portrait-template-updated-Jobs.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hQ31c_1744270878089_07-promotional-portrait-template-updated-Jobs.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Young_man_in_a_white_shirt_sitting_in_an_office__smiling_warmly_at_the_camera_.jpg-Jobs-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8abcI_1744270874609_07-promotional-portrait-template-updated-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xaV9o_1744270878091_07-promotional-portrait-template-updated-Finance.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/crypto_currency_financial_market_chart_graphic_tablet_display.jpg-Finance-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pHiVe_1744270874611_07-promotional-portrait-template-updated-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ykcdp_1744270878094_07-promotional-portrait-template-updated-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Contemporary_house_in_Poole_featuring_a_striking_mix_of_stone_and_wood_facade_with_large_windows_.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "ftrNJ9_tG7_Hu5rYcpvQp",
+      "templateId": "ftrNJ9_tG7_Hu5rYcpvQp"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_dbFx9_1725270169685_im-so-in-love-with-you-958.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-04-10T07:41:27.716Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_8pT4C_1744270759241_07-promotional-portrait-template-updated.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "07-promotional-portrait-template-updated",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_basicPromo"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZMUPV_1744270759244_07-promotional-portrait-template-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lkzQ1_1744270759243_07-promotional-portrait-template-updated.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 0.9,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_K02e8_1744270874600_07-promotional-portrait-template-updated-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ViP01_1744270878074_07-promotional-portrait-template-updated-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Mercedes_AMG_GT_Photoshoot__Sydney_Australia___Car_Photography.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_DvL-a_1744270874602_07-promotional-portrait-template-updated-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_j073Z_1744270878078_07-promotional-portrait-template-updated-Travel.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Explore_a_tranquil_pathway_amidst_Bali_s_lush_green_hills_under_a_vibrant_morning_sky_.jpg-Travel-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pRVMY_1744270874603_07-promotional-portrait-template-updated-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QlL2A_1744270878080_07-promotional-portrait-template-updated-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-gabby-k-7144326-min.jpg-Food-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Technology": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sEyuZ_1744270874605_07-promotional-portrait-template-updated-Technology.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4Ve48_1744270878083_07-promotional-portrait-template-updated-Technology.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/A_sleek_smartphone_with_a_blank_screen_on_a_wooden_stand__styled_with_a_decorative_plant_and_open_notebook_.jpg-Technology-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Ecommerce": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_HMqt0_1744270874607_07-promotional-portrait-template-updated-Ecommerce.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_urvGY_1744270878086_07-promotional-portrait-template-updated-Ecommerce.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/resized_pexels-shvetsa-3986993.jpg-Ecommerce-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jobs": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6cfVp_1744270874608_07-promotional-portrait-template-updated-Jobs.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hQ31c_1744270878089_07-promotional-portrait-template-updated-Jobs.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Young_man_in_a_white_shirt_sitting_in_an_office__smiling_warmly_at_the_camera_.jpg-Jobs-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8abcI_1744270874609_07-promotional-portrait-template-updated-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xaV9o_1744270878091_07-promotional-portrait-template-updated-Finance.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/crypto_currency_financial_market_chart_graphic_tablet_display.jpg-Finance-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pHiVe_1744270874611_07-promotional-portrait-template-updated-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ykcdp_1744270878094_07-promotional-portrait-template-updated-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Contemporary_house_in_Poole_featuring_a_striking_mix_of_stone_and_wood_facade_with_large_windows_.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "ftrNJ9_tG7_Hu5rYcpvQp",
+      "templateId": "ftrNJ9_tG7_Hu5rYcpvQp"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_vNo4p_1706013764520_im-fine-1002.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -3622,140 +4154,6 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2025-05-23T11:00:58.443Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_r6jsh_1747998055146_01-promotional-portrait-template.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "01-promotional-portrait-template",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_basicPromo"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qgM28_1747998055150_01-promotional-portrait-template.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VaCI6_1747998055148_01-promotional-portrait-template.jpg",
-      "imageType": "1200x800",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 1,
-      "month": "january",
-      "isMultipleTemplate": true,
-      "previews": [],
-      "id": "Ds10tH5lEFgdL6AWG9JF2",
-      "templateId": "Ds10tH5lEFgdL6AWG9JF2"
-    },
-        {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2025-05-23T11:00:58.443Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_r6jsh_1747998055146_01-promotional-portrait-template.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "01-promotional-portrait-template",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_basicPromo"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qgM28_1747998055150_01-promotional-portrait-template.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VaCI6_1747998055148_01-promotional-portrait-template.jpg",
-      "imageType": "1200x800",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 1,
-      "month": "january",
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "Ds10tH5lEFgdL6AWG9JF2",
-      "templateId": "Ds10tH5lEFgdL6AWG9JF2"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_rQa3v_1706013571827_classical-vibes-4-684.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -3875,404 +4273,6 @@
       ],
       "id": "xzzRyKwMkkIgaIF0PAOt1",
       "templateId": "xzzRyKwMkkIgaIF0PAOt1"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_dbFx9_1725270169685_im-so-in-love-with-you-958.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-04-10T07:41:27.716Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_8pT4C_1744270759241_07-promotional-portrait-template-updated.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "07-promotional-portrait-template-updated",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_basicPromo"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZMUPV_1744270759244_07-promotional-portrait-template-updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lkzQ1_1744270759243_07-promotional-portrait-template-updated.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 0.9,
-      "month": "january",
-      "isMultipleTemplate": true,
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_K02e8_1744270874600_07-promotional-portrait-template-updated-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ViP01_1744270878074_07-promotional-portrait-template-updated-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Mercedes_AMG_GT_Photoshoot__Sydney_Australia___Car_Photography.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_DvL-a_1744270874602_07-promotional-portrait-template-updated-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_j073Z_1744270878078_07-promotional-portrait-template-updated-Travel.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Explore_a_tranquil_pathway_amidst_Bali_s_lush_green_hills_under_a_vibrant_morning_sky_.jpg-Travel-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pRVMY_1744270874603_07-promotional-portrait-template-updated-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QlL2A_1744270878080_07-promotional-portrait-template-updated-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-gabby-k-7144326-min.jpg-Food-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Technology": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sEyuZ_1744270874605_07-promotional-portrait-template-updated-Technology.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4Ve48_1744270878083_07-promotional-portrait-template-updated-Technology.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/A_sleek_smartphone_with_a_blank_screen_on_a_wooden_stand__styled_with_a_decorative_plant_and_open_notebook_.jpg-Technology-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Ecommerce": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_HMqt0_1744270874607_07-promotional-portrait-template-updated-Ecommerce.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_urvGY_1744270878086_07-promotional-portrait-template-updated-Ecommerce.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/resized_pexels-shvetsa-3986993.jpg-Ecommerce-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jobs": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6cfVp_1744270874608_07-promotional-portrait-template-updated-Jobs.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hQ31c_1744270878089_07-promotional-portrait-template-updated-Jobs.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Young_man_in_a_white_shirt_sitting_in_an_office__smiling_warmly_at_the_camera_.jpg-Jobs-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Finance": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8abcI_1744270874609_07-promotional-portrait-template-updated-Finance.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xaV9o_1744270878091_07-promotional-portrait-template-updated-Finance.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/crypto_currency_financial_market_chart_graphic_tablet_display.jpg-Finance-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pHiVe_1744270874611_07-promotional-portrait-template-updated-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ykcdp_1744270878094_07-promotional-portrait-template-updated-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Contemporary_house_in_Poole_featuring_a_striking_mix_of_stone_and_wood_facade_with_large_windows_.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "ftrNJ9_tG7_Hu5rYcpvQp",
-      "templateId": "ftrNJ9_tG7_Hu5rYcpvQp"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_dbFx9_1725270169685_im-so-in-love-with-you-958.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-04-10T07:41:27.716Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_8pT4C_1744270759241_07-promotional-portrait-template-updated.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "07-promotional-portrait-template-updated",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_basicPromo"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZMUPV_1744270759244_07-promotional-portrait-template-updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lkzQ1_1744270759243_07-promotional-portrait-template-updated.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 0.9,
-      "month": "january",
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_K02e8_1744270874600_07-promotional-portrait-template-updated-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ViP01_1744270878074_07-promotional-portrait-template-updated-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Mercedes_AMG_GT_Photoshoot__Sydney_Australia___Car_Photography.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_DvL-a_1744270874602_07-promotional-portrait-template-updated-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_j073Z_1744270878078_07-promotional-portrait-template-updated-Travel.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Explore_a_tranquil_pathway_amidst_Bali_s_lush_green_hills_under_a_vibrant_morning_sky_.jpg-Travel-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pRVMY_1744270874603_07-promotional-portrait-template-updated-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QlL2A_1744270878080_07-promotional-portrait-template-updated-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-gabby-k-7144326-min.jpg-Food-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Technology": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sEyuZ_1744270874605_07-promotional-portrait-template-updated-Technology.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4Ve48_1744270878083_07-promotional-portrait-template-updated-Technology.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/A_sleek_smartphone_with_a_blank_screen_on_a_wooden_stand__styled_with_a_decorative_plant_and_open_notebook_.jpg-Technology-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Ecommerce": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_HMqt0_1744270874607_07-promotional-portrait-template-updated-Ecommerce.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_urvGY_1744270878086_07-promotional-portrait-template-updated-Ecommerce.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/resized_pexels-shvetsa-3986993.jpg-Ecommerce-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jobs": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6cfVp_1744270874608_07-promotional-portrait-template-updated-Jobs.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hQ31c_1744270878089_07-promotional-portrait-template-updated-Jobs.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Young_man_in_a_white_shirt_sitting_in_an_office__smiling_warmly_at_the_camera_.jpg-Jobs-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Finance": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8abcI_1744270874609_07-promotional-portrait-template-updated-Finance.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xaV9o_1744270878091_07-promotional-portrait-template-updated-Finance.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/crypto_currency_financial_market_chart_graphic_tablet_display.jpg-Finance-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pHiVe_1744270874611_07-promotional-portrait-template-updated-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ykcdp_1744270878094_07-promotional-portrait-template-updated-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/Contemporary_house_in_Poole_featuring_a_striking_mix_of_stone_and_wood_facade_with_large_windows_.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "ftrNJ9_tG7_Hu5rYcpvQp",
-      "templateId": "ftrNJ9_tG7_Hu5rYcpvQp"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Am050_1705389444280_break-away-85.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-04-17T06:38:15.451Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_CdpXS_1744871892695_04-wellness-portrait-template-updated-new-v2.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "04-wellness-portrait-template-updated-new-v2",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_basicPromo"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rfINS_1744871892698_04-wellness-portrait-template-updated-new-v2.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bvDMf_1744871892696_04-wellness-portrait-template-updated-new-v2.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 1,
-      "month": "january",
-      "isMultipleTemplate": true,
-      "previews": [],
-      "id": "4-gX_5gZWXTW4OM6KPFT9",
-      "templateId": "4-gX_5gZWXTW4OM6KPFT9"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Am050_1705389444280_break-away-85.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-04-17T06:38:15.451Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_CdpXS_1744871892695_04-wellness-portrait-template-updated-new-v2.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "04-wellness-portrait-template-updated-new-v2",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_basicPromo"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rfINS_1744871892698_04-wellness-portrait-template-updated-new-v2.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bvDMf_1744871892696_04-wellness-portrait-template-updated-new-v2.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 1,
-      "month": "january",
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "4-gX_5gZWXTW4OM6KPFT9",
-      "templateId": "4-gX_5gZWXTW4OM6KPFT9"
     },
     {
       "version": 2,
