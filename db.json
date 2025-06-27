@@ -15832,7 +15832,7 @@
       "id": "0-VMdBJ3zzWUt0boYYw9o",
       "templateId": "0-VMdBJ3zzWUt0boYYw9o"
     },
-    {
+        {
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -15844,11 +15844,11 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_z7KCJ_1666164835041_mixkit-classical-vibes-5-688.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_vNo4p_1706013764520_im-fine-1002.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2025-05-09T05:03:13.484Z",
+      "createdOn": "2025-06-26T14:15:09.004Z",
       "extraComps": [
         {
           "index": 2,
@@ -15864,7 +15864,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_fBFoL_1746766990454_16-world-social-media-day-greeting-portrait.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_kg-cX_1750947305527_16-world-social-media-day-greeting-portrait.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -15878,8 +15878,8 @@
       "category": [
         "p_fest"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6PlLo_1746766990457_16-world-social-media-day-greeting-portrait.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9VVeN_1746766990455_16-world-social-media-day-greeting-portrait.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_oYfg3_1750947305533_16-world-social-media-day-greeting-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T-Aex_1750947305530_16-world-social-media-day-greeting-portrait.jpg",
       "imageType": "Post 4:5",
       "outroType": null,
       "introType": null,
@@ -15894,13 +15894,13 @@
       "volume": 1,
       "noBlur": false,
       "month": "june",
-      "date": 30,
+       "date": 30,
       "isMultipleTemplate": false,
       "previews": [],
-      "id": "4BXTvE2xNcq97RYPRCZGc",
-      "templateId": "4BXTvE2xNcq97RYPRCZGc"
+      "id": "_uvL5a0eWkvo4nHnRNjle",
+      "templateId": "_uvL5a0eWkvo4nHnRNjle"
     },
-        {
+    {
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -93359,7 +93359,7 @@
       "volume": 0.8,
       "noBlur": false,
       "month": "january",
-      "isMultipleTemplate": true,
+      "isMultipleTemplate": false,
       "previews": [
         {
           "Accessories": {
