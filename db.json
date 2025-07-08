@@ -126862,6 +126862,141 @@
 
  
   "p_nauto_tip": [
+    
+        {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-07-08T08:22:19.317Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705389346749_19- brand outro-post-wth-elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_YEKZI_1751962934263_02-linkedin-square-new-template.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "02-linkedin-square-new-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_tip"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VDI6P_1751962934266_02-linkedin-square-new-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Vi2f0_1751962934265_02-linkedin-square-new-template.jpg",
+      "imageType": "Youtube Videos",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 1,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "UQyF2UzEKY3T1lisTojK1",
+      "templateId": "UQyF2UzEKY3T1lisTojK1"
+    },
+        {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-07-08T07:48:33.141Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705389346749_19- brand outro-post-wth-elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_WrxDE_1751960909672_04-linkedin-square-new-template.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "04-linkedin-square-new-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_tip"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kPdbg_1751960909676_04-linkedin-square-new-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_aawcF_1751960909673_04-linkedin-square-new-template.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 1,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "63LWwDa49-ZimGpFppJOX",
+      "templateId": "63LWwDa49-ZimGpFppJOX"
+    },
     {
       "version": 2,
       "gifUrl": "",
@@ -126929,7 +127064,74 @@
       "id": "3JxachEHLt8o9oVRwJOWn",
       "templateId": "3JxachEHLt8o9oVRwJOWn"
     },
-      {
+        {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-07-08T07:45:08.811Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705389346749_19- brand outro-post-wth-elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_l_qzU_1751960704797_03-linkedin-square-new-template.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "03-linkedin-square-new-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_tip"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_I_Qh0_1751960704803_03-linkedin-square-new-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TDwmD_1751960704800_03-linkedin-square-new-template.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 1,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "MOTDkp_8ZTkoBps861azC",
+      "templateId": "MOTDkp_8ZTkoBps861azC"
+    },
+    {
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -126996,7 +127198,7 @@
       "id": "6ZtLvfg8PI0hyQamA7Mfx",
       "templateId": "6ZtLvfg8PI0hyQamA7Mfx"
     },
-      {
+        {
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -127012,7 +127214,7 @@
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2025-07-07T10:39:38.718Z",
+      "createdOn": "2025-07-08T10:48:07.830Z",
       "extraComps": [
         {
           "index": 3,
@@ -127028,7 +127230,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_qpzgg_1751884773800_02-linkedin-portrait-new-template.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_8usA3_1751971684198_02-linkedin-portrait-new-template.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -127042,8 +127244,8 @@
       "category": [
         "p_nauto_tip"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_mkcvF_1751884773803_02-linkedin-portrait-new-template.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CJp_B_1751884773802_02-linkedin-portrait-new-template.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_G-tCh_1751971684201_02-linkedin-portrait-new-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_49Mzg_1751971684199_02-linkedin-portrait-new-template.jpg",
       "imageType": "Youtube Videos",
       "outroType": null,
       "introType": null,
@@ -127060,10 +127262,10 @@
       "month": "january",
       "isMultipleTemplate": false,
       "previews": [],
-      "id": "PRJFW_Mx_2niCARGkoz-t",
-      "templateId": "PRJFW_Mx_2niCARGkoz-t"
+      "id": "ATaHKN2EAj2LBZ7qi-X7D",
+      "templateId": "ATaHKN2EAj2LBZ7qi-X7D"
     },
-       {
+    {
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
