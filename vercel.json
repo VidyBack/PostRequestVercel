@@ -91,32 +91,6 @@
       "dest": "/static/p_nauto_quote__page=1__limit=12_isMultipleTemplate_like=false_type_like=Post-204-5.json"
     },
     {
-      "src": "p_na",
-      "has": [
-        {
-          "type": "query",
-          "key": "_page",
-          "value": "1"
-        },
-        {
-          "type": "query",
-          "key": "_limit",
-          "value": "12"
-        },
-        {
-          "type": "query",
-          "key": "isMultipleTemplate_like",
-          "value": "false"
-        },
-        {
-          "type": "query",
-          "key": "type_like",
-          "value": "Post%204:5"
-        }
-      ],
-      "dest": "/static/p_na__page=1__limit=12_isMultipleTemplate_like=false_type_like=Post-204-5.json"
-    },
-    {
       "src": "p+mp",
       "has": [
         {
@@ -143,6 +117,32 @@
       "dest": "/static/p+mp__page=1__limit=12_isMultipleTemplate_like=false_type_like=Post-204-5.json"
     },
     {
+      "src": "p_na",
+      "has": [
+        {
+          "type": "query",
+          "key": "_page",
+          "value": "1"
+        },
+        {
+          "type": "query",
+          "key": "_limit",
+          "value": "12"
+        },
+        {
+          "type": "query",
+          "key": "version_ne",
+          "value": "2"
+        },
+        {
+          "type": "query",
+          "key": "isMultipleTemplate_like",
+          "value": "false"
+        }
+      ],
+      "dest": "/static/p_na__page=1__limit=12_version_ne=2_isMultipleTemplate_like=false.json"
+    },
+    {
       "src": "p_mp",
       "has": [
         {
@@ -157,16 +157,16 @@
         },
         {
           "type": "query",
-          "key": "isMultipleTemplate_like",
-          "value": "false"
+          "key": "version_ne",
+          "value": "2"
         },
         {
           "type": "query",
-          "key": "type_like",
-          "value": "Post 4:5"
+          "key": "isMultipleTemplate_like",
+          "value": "false"
         }
       ],
-      "dest": "/static/p_mp__page=1__limit=12_isMultipleTemplate_like=false_type_like=Post-204-5.json"
+      "dest": "/static/p_mp__page=1__limit=12_version_ne=2_isMultipleTemplate_like=false.json"
     },
     {
       "src": "/(.*)",
