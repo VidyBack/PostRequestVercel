@@ -36,7 +36,7 @@
           "value": "Post%204:5"
         }
       ],
-      "dest": "/static/p_basicPromo__page=1__limit=30_isMultipleTemplate_like=false_type_like=Post-204-5.json"
+      "dest": "/static/p_basicPromo__page=1__limit=12_isMultipleTemplate_like=false_type_like=Post-204-5.json"
     },
     {
       "src": "p_nauto_tip",
