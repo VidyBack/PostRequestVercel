@@ -4817,6 +4817,279 @@
     }
   ],
   "p_occasional": [
+       {
+      "latest": true,
+      "version": 1,
+      "gifUrl": "",
+      "id": "mlpn_323_cftyrs",
+      "templateId": "mlpn_323_cftyrs",
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RJKKf_1702275569992_mixkit-stay-with-me-838-updated.mp3.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": true,
+      "createdOn": "2024-05-08T07:44:34.998Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705405173163_21-outro-portrait-with-elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_r8WI-_1715154005993_14-festive-offers-us-independence-day-portrait.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "14-festive-offers-us-independence-day-portrait",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": ["p_occasional"],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_AqM39_1715154005999_14-festive-offers-us-independence-day-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7Pnks_1715154005997_14-festive-offers-us-independence-day-portrait.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.6,
+      "noBlur": true,
+      "month": "july",
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bNkGK_1715154266413_14-festive-offers-us-independence-day-portrait-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dmfnv_1715154269983_14-festive-offers-us-independence-day-portrait-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_DKMMi_1715154266414_14-festive-offers-us-independence-day-portrait-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_SvCg5_1715154269984_14-festive-offers-us-independence-day-portrait-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1-sWN_1715154266416_14-festive-offers-us-independence-day-portrait-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_f4w9y_1715154269986_14-festive-offers-us-independence-day-portrait-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Wickz_1715154266417_14-festive-offers-us-independence-day-portrait-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EZNLd_1715154269987_14-festive-offers-us-independence-day-portrait-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NlUkn_1715154266418_14-festive-offers-us-independence-day-portrait-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yW_Gm_1715154269989_14-festive-offers-us-independence-day-portrait-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_e5A_R_1715154266419_14-festive-offers-us-independence-day-portrait-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_GXtxR_1715154269990_14-festive-offers-us-independence-day-portrait-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IgRd7_1715154266421_14-festive-offers-us-independence-day-portrait-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_RvbGD_1715154269992_14-festive-offers-us-independence-day-portrait-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6wSxd_1715154266422_14-festive-offers-us-independence-day-portrait-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fCca5_1715154269994_14-festive-offers-us-independence-day-portrait-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Ojhfa_1715154266423_14-festive-offers-us-independence-day-portrait-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WY-yB_1715154269995_14-festive-offers-us-independence-day-portrait-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6U9CQ_1715154266424_14-festive-offers-us-independence-day-portrait-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BQwIg_1715154269997_14-festive-offers-us-independence-day-portrait-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wnOf9_1715154266425_14-festive-offers-us-independence-day-portrait-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_E1F0v_1715154269999_14-festive-offers-us-independence-day-portrait-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "speedXfortwoImage": 1.25,
+      "speedX": 2
+    },
+     {
+      "version": 1,
+      "gifUrl": "",
+      "id": "mlpn_313_cftyrs",
+      "templateId": "mlpn_313_cftyrs",
+      "isAllRecommendSupported": true,
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Am050_1705389444280_break-away-85.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": true,
+      "createdOn": "2024-05-02T08:13:27.141Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705320145920_19-brnad Outro-with elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_LQaIZ_1714637357081_13-festive-offers-us-independence-day-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "13-festive-offers-us-independence-day-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": ["p_occasional"],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_C_mtd_1714637357084_13-festive-offers-us-independence-day-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FMVuh_1714637357083_13-festive-offers-us-independence-day-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.7,
+      "noBlur": true,
+      "month": "july",
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yTnTJ_1714637595825_13-festive-offers-us-independence-day-story-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gdEXT_1714637602073_13-festive-offers-us-independence-day-story-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_9rGMX_1714637595827_13-festive-offers-us-independence-day-story-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_y0N2N_1714637602075_13-festive-offers-us-independence-day-story-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_PptBq_1714637595828_13-festive-offers-us-independence-day-story-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_md2JX_1714637602077_13-festive-offers-us-independence-day-story-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_AlsDo_1714637595829_13-festive-offers-us-independence-day-story-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_P9Iiy_1714637602078_13-festive-offers-us-independence-day-story-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QN6Cc_1714637595831_13-festive-offers-us-independence-day-story-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Gm15f_1714637602080_13-festive-offers-us-independence-day-story-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WM9T__1714637595832_13-festive-offers-us-independence-day-story-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_d3UL2_1714637602082_13-festive-offers-us-independence-day-story-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_aDv-2_1714637595834_13-festive-offers-us-independence-day-story-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_c30e2_1714637602084_13-festive-offers-us-independence-day-story-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_9gdyi_1714637595835_13-festive-offers-us-independence-day-story-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_JPbgc_1714637602085_13-festive-offers-us-independence-day-story-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NfXa7_1714637595837_13-festive-offers-us-independence-day-story-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xi5y__1714637602087_13-festive-offers-us-independence-day-story-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_blgIP_1714637595838_13-festive-offers-us-independence-day-story-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_V2jnr_1714637602089_13-festive-offers-us-independence-day-story-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "speedXfortwoImage": 1.25,
+      "speedX": 2
+    },
     {
       "speedXfortwoImage": 1,
       "speedX": 1.25,
@@ -5106,139 +5379,7 @@
       "speedXfortwoImage": 1.25,
       "speedX": 2
     },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "id": "mlpn_313_cftyrs",
-      "templateId": "mlpn_313_cftyrs",
-      "isAllRecommendSupported": true,
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Am050_1705389444280_break-away-85.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2024-05-02T08:13:27.141Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1705320145920_19-brnad Outro-with elements"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_LQaIZ_1714637357081_13-festive-offers-us-independence-day-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "13-festive-offers-us-independence-day-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": ["p_occasional"],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_C_mtd_1714637357084_13-festive-offers-us-independence-day-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FMVuh_1714637357083_13-festive-offers-us-independence-day-story.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.7,
-      "noBlur": true,
-      "month": "july",
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Toys": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yTnTJ_1714637595825_13-festive-offers-us-independence-day-story-Toys.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gdEXT_1714637602073_13-festive-offers-us-independence-day-story-Toys.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_9rGMX_1714637595827_13-festive-offers-us-independence-day-story-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_y0N2N_1714637602075_13-festive-offers-us-independence-day-story-HealthFitness.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_PptBq_1714637595828_13-festive-offers-us-independence-day-story-Perfumes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_md2JX_1714637602077_13-festive-offers-us-independence-day-story-Perfumes.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_AlsDo_1714637595829_13-festive-offers-us-independence-day-story-BagPurse.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_P9Iiy_1714637602078_13-festive-offers-us-independence-day-story-BagPurse.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QN6Cc_1714637595831_13-festive-offers-us-independence-day-story-HealthBeauty.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Gm15f_1714637602080_13-festive-offers-us-independence-day-story-HealthBeauty.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WM9T__1714637595832_13-festive-offers-us-independence-day-story-Clothings.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_d3UL2_1714637602082_13-festive-offers-us-independence-day-story-Clothings.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Footwear": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_aDv-2_1714637595834_13-festive-offers-us-independence-day-story-Footwear.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_c30e2_1714637602084_13-festive-offers-us-independence-day-story-Footwear.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_9gdyi_1714637595835_13-festive-offers-us-independence-day-story-Jewellery.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_JPbgc_1714637602085_13-festive-offers-us-independence-day-story-Jewellery.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Wearables": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NfXa7_1714637595837_13-festive-offers-us-independence-day-story-Wearables.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xi5y__1714637602087_13-festive-offers-us-independence-day-story-Wearables.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HomeDecor": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_blgIP_1714637595838_13-festive-offers-us-independence-day-story-HomeDecor.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_V2jnr_1714637602089_13-festive-offers-us-independence-day-story-HomeDecor.mp4",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "speedXfortwoImage": 1.25,
-      "speedX": 2
-    },
+   
     {
       "version": 1,
       "id": "mlpn_320_cftyrs",
@@ -7650,146 +7791,7 @@
       "speedX": 2
     },
 
-    {
-      "latest": true,
-      "version": 1,
-      "gifUrl": "",
-      "id": "mlpn_323_cftyrs",
-      "templateId": "mlpn_323_cftyrs",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RJKKf_1702275569992_mixkit-stay-with-me-838-updated.mp3.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2024-05-08T07:44:34.998Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1705405173163_21-outro-portrait-with-elements"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_r8WI-_1715154005993_14-festive-offers-us-independence-day-portrait.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "14-festive-offers-us-independence-day-portrait",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": ["p_occasional"],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_AqM39_1715154005999_14-festive-offers-us-independence-day-portrait.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7Pnks_1715154005997_14-festive-offers-us-independence-day-portrait.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.6,
-      "noBlur": true,
-      "month": "july",
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Accessories": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bNkGK_1715154266413_14-festive-offers-us-independence-day-portrait-Accessories.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dmfnv_1715154269983_14-festive-offers-us-independence-day-portrait-Accessories.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Toys": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_DKMMi_1715154266414_14-festive-offers-us-independence-day-portrait-Toys.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_SvCg5_1715154269984_14-festive-offers-us-independence-day-portrait-Toys.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1-sWN_1715154266416_14-festive-offers-us-independence-day-portrait-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_f4w9y_1715154269986_14-festive-offers-us-independence-day-portrait-HealthFitness.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Wickz_1715154266417_14-festive-offers-us-independence-day-portrait-Perfumes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EZNLd_1715154269987_14-festive-offers-us-independence-day-portrait-Perfumes.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NlUkn_1715154266418_14-festive-offers-us-independence-day-portrait-BagPurse.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yW_Gm_1715154269989_14-festive-offers-us-independence-day-portrait-BagPurse.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_e5A_R_1715154266419_14-festive-offers-us-independence-day-portrait-HealthBeauty.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_GXtxR_1715154269990_14-festive-offers-us-independence-day-portrait-HealthBeauty.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IgRd7_1715154266421_14-festive-offers-us-independence-day-portrait-MobileElec.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_RvbGD_1715154269992_14-festive-offers-us-independence-day-portrait-MobileElec.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Footwear": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6wSxd_1715154266422_14-festive-offers-us-independence-day-portrait-Footwear.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fCca5_1715154269994_14-festive-offers-us-independence-day-portrait-Footwear.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Ojhfa_1715154266423_14-festive-offers-us-independence-day-portrait-Jewellery.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WY-yB_1715154269995_14-festive-offers-us-independence-day-portrait-Jewellery.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Wearables": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6U9CQ_1715154266424_14-festive-offers-us-independence-day-portrait-Wearables.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BQwIg_1715154269997_14-festive-offers-us-independence-day-portrait-Wearables.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HomeDecor": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wnOf9_1715154266425_14-festive-offers-us-independence-day-portrait-HomeDecor.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_E1F0v_1715154269999_14-festive-offers-us-independence-day-portrait-HomeDecor.mp4",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "speedXfortwoImage": 1.25,
-      "speedX": 2
-    },
+ 
     {
       "latest": true,
       "version": 1,
@@ -12768,6 +12770,195 @@
     }
   ],
   "p_fest": [
+       {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
+      "bgMusicUrl": "https://cdn.hootout.com/behtarads/music/predefined/mixkit-playground-fun-12-[AudioTrimmer.com].aac",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-06-20T05:52:55.217Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1705320145920_19-brnad Outro-with elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_BkZAr_1750398771899_27-international-friendship-day-festive-greeting-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "27-international-friendship-day-festive-greeting-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": ["p_fest"],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_dPag0_1750398771902_27-international-friendship-day-festive-greeting-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9pMAn_1750398771900_27-international-friendship-day-festive-greeting-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.7,
+      "noBlur": false,
+      "month": "july",
+      "date": 30,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "uB2lTY9-ttesr_-Hp_Hff",
+      "templateId": "uB2lTY9-ttesr_-Hp_Hff"
+    },
+         {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Exciting/mixkit-hazy-after-hours-132.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-07-16T11:00:04.038Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1705320145920_19-brnad Outro-with elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_YGo13_1752663598729_33-parents-day-greeting-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "33-parents-day-greeting-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_buoit_1752663598735_33-parents-day-greeting-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_IQKK4_1752663598732_33-parents-day-greeting-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.8,
+      "noBlur": false,
+      "month": "july",
+      "date": 27,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "9yrYnWIStuWjnbhVrG4qE",
+      "templateId": "9yrYnWIStuWjnbhVrG4qE"
+    },
+       {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
+      "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Exciting/mixkit-motivation-gets-in-the-way-519.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-06-20T10:09:58.352Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1705320145920_19-brnad Outro-with elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_oISeU_1750414194266_30-kargil-vijay-diwas-festive-greeting-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "30-kargil-vijay-diwas-festive-greeting-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": ["p_fest"],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__ilBU_1750414194270_30-kargil-vijay-diwas-festive-greeting-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_winuH_1750414194268_30-kargil-vijay-diwas-festive-greeting-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.8,
+      "noBlur": false,
+      "month": "july",
+      "date": 26,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "wwXjFXMHsPxNeou2XyTiZ",
+      "templateId": "wwXjFXMHsPxNeou2XyTiZ"
+    },
+
     {
       "version": 1,
       "gifUrl": "",
@@ -14789,66 +14980,7 @@
       "id": "q3A0ZRRqD5wb-rcB42IyP",
       "templateId": "q3A0ZRRqD5wb-rcB42IyP"
     },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/behtarads/music/predefined/mixkit-playground-fun-12-[AudioTrimmer.com].aac",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-06-20T05:52:55.217Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1705320145920_19-brnad Outro-with elements"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_BkZAr_1750398771899_27-international-friendship-day-festive-greeting-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "27-international-friendship-day-festive-greeting-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": ["p_fest"],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_dPag0_1750398771902_27-international-friendship-day-festive-greeting-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9pMAn_1750398771900_27-international-friendship-day-festive-greeting-story.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.7,
-      "noBlur": false,
-      "month": "july",
-      "date": 30,
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "uB2lTY9-ttesr_-Hp_Hff",
-      "templateId": "uB2lTY9-ttesr_-Hp_Hff"
-    },
+ 
     {
       "version": 1,
       "gifUrl": "",
@@ -15569,66 +15701,7 @@
       "id": "D9zD2OCNQjvzBMj08k9WG",
       "templateId": "D9zD2OCNQjvzBMj08k9WG"
     },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Exciting/mixkit-motivation-gets-in-the-way-519.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-06-20T10:09:58.352Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1705320145920_19-brnad Outro-with elements"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_oISeU_1750414194266_30-kargil-vijay-diwas-festive-greeting-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "30-kargil-vijay-diwas-festive-greeting-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": ["p_fest"],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__ilBU_1750414194270_30-kargil-vijay-diwas-festive-greeting-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_winuH_1750414194268_30-kargil-vijay-diwas-festive-greeting-story.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.8,
-      "noBlur": false,
-      "month": "july",
-      "date": 26,
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "wwXjFXMHsPxNeou2XyTiZ",
-      "templateId": "wwXjFXMHsPxNeou2XyTiZ"
-    },
+ 
     {
       "version": 1,
       "gifUrl": "",
@@ -16345,74 +16418,7 @@
       "id": "0STkhQYgsGwPGYB5dpmdR",
       "templateId": "0STkhQYgsGwPGYB5dpmdR"
     },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Exciting/mixkit-hazy-after-hours-132.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-07-16T11:00:04.038Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1705320145920_19-brnad Outro-with elements"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_YGo13_1752663598729_33-parents-day-greeting-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "33-parents-day-greeting-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_fest"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_buoit_1752663598735_33-parents-day-greeting-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_IQKK4_1752663598732_33-parents-day-greeting-story.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.8,
-      "noBlur": false,
-      "month": "july",
-      "date": 27,
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "9yrYnWIStuWjnbhVrG4qE",
-      "templateId": "9yrYnWIStuWjnbhVrG4qE"
-    },
+   
     {
       "version": 1,
       "gifUrl": "",
