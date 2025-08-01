@@ -3153,140 +3153,6 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2025-05-23T11:00:58.443Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_rldbN_1748263649278_01-promotional-portrait-template.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "01-promotional-portrait-template",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_basicPromo"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qgM28_1747998055150_01-promotional-portrait-template.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VaCI6_1747998055148_01-promotional-portrait-template.jpg",
-      "imageType": "1200x800",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 1,
-      "month": "january",
-      "isMultipleTemplate": true,
-      "previews": [],
-      "id": "Ds10tH5lEFgdL6AWG9JF2",
-      "templateId": "Ds10tH5lEFgdL6AWG9JF2"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2025-05-23T11:00:58.443Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_rldbN_1748263649278_01-promotional-portrait-template.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "01-promotional-portrait-template",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_basicPromo"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qgM28_1747998055150_01-promotional-portrait-template.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VaCI6_1747998055148_01-promotional-portrait-template.jpg",
-      "imageType": "1200x800",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 1,
-      "month": "january",
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "Ds10tH5lEFgdL6AWG9JF2",
-      "templateId": "Ds10tH5lEFgdL6AWG9JF2"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Am050_1705389444280_break-away-85.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -3341,6 +3207,140 @@
       "previews": [],
       "id": "4-gX_5gZWXTW4OM6KPFT9",
       "templateId": "4-gX_5gZWXTW4OM6KPFT9"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_vNo4p_1706013764520_im-fine-1002.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": true,
+      "createdOn": "2025-04-17T10:34:08.868Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705396128575_20-brand-outro-portrait-design 2"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_I-7y2_1744886045469_07-did-you-know-portrait-v2.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "07-did-you-know-portrait-v2",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_basicPromo"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QGNIV_1744886045472_07-did-you-know-portrait-v2.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FeivI_1744886045470_07-did-you-know-portrait-v2.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 1,
+      "month": "january",
+      "isMultipleTemplate": true,
+      "previews": [],
+      "id": "Q92PylyXrt_KEQiTcaPBk",
+      "templateId": "Q92PylyXrt_KEQiTcaPBk"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_vNo4p_1706013764520_im-fine-1002.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": true,
+      "createdOn": "2025-04-17T10:34:08.868Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705396128575_20-brand-outro-portrait-design 2"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_I-7y2_1744886045469_07-did-you-know-portrait-v2.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "07-did-you-know-portrait-v2",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_basicPromo"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QGNIV_1744886045472_07-did-you-know-portrait-v2.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FeivI_1744886045470_07-did-you-know-portrait-v2.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 1,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "Q92PylyXrt_KEQiTcaPBk",
+      "templateId": "Q92PylyXrt_KEQiTcaPBk"
     },
     {
       "version": 2,
@@ -3672,140 +3672,6 @@
       ],
       "id": "ftrNJ9_tG7_Hu5rYcpvQp",
       "templateId": "ftrNJ9_tG7_Hu5rYcpvQp"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_vNo4p_1706013764520_im-fine-1002.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2025-04-17T10:34:08.868Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705396128575_20-brand-outro-portrait-design 2"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_I-7y2_1744886045469_07-did-you-know-portrait-v2.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "07-did-you-know-portrait-v2",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_basicPromo"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QGNIV_1744886045472_07-did-you-know-portrait-v2.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FeivI_1744886045470_07-did-you-know-portrait-v2.jpg",
-      "imageType": "1200x800",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 1,
-      "month": "january",
-      "isMultipleTemplate": true,
-      "previews": [],
-      "id": "Q92PylyXrt_KEQiTcaPBk",
-      "templateId": "Q92PylyXrt_KEQiTcaPBk"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_vNo4p_1706013764520_im-fine-1002.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2025-04-17T10:34:08.868Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705396128575_20-brand-outro-portrait-design 2"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_I-7y2_1744886045469_07-did-you-know-portrait-v2.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "07-did-you-know-portrait-v2",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_basicPromo"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QGNIV_1744886045472_07-did-you-know-portrait-v2.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FeivI_1744886045470_07-did-you-know-portrait-v2.jpg",
-      "imageType": "1200x800",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 1,
-      "month": "january",
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "Q92PylyXrt_KEQiTcaPBk",
-      "templateId": "Q92PylyXrt_KEQiTcaPBk"
     },
     {
       "version": 2,
@@ -4206,6 +4072,140 @@
       "previews": [],
       "id": "eoI3FsdzNQq1jZ9T8lfkL",
       "templateId": "eoI3FsdzNQq1jZ9T8lfkL"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": true,
+      "createdOn": "2025-05-23T11:00:58.443Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_rldbN_1748263649278_01-promotional-portrait-template.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "01-promotional-portrait-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_basicPromo"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qgM28_1747998055150_01-promotional-portrait-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VaCI6_1747998055148_01-promotional-portrait-template.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 1,
+      "month": "january",
+      "isMultipleTemplate": true,
+      "previews": [],
+      "id": "Ds10tH5lEFgdL6AWG9JF2",
+      "templateId": "Ds10tH5lEFgdL6AWG9JF2"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": true,
+      "createdOn": "2025-05-23T11:00:58.443Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_rldbN_1748263649278_01-promotional-portrait-template.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "01-promotional-portrait-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_basicPromo"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qgM28_1747998055150_01-promotional-portrait-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VaCI6_1747998055148_01-promotional-portrait-template.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 1,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "Ds10tH5lEFgdL6AWG9JF2",
+      "templateId": "Ds10tH5lEFgdL6AWG9JF2"
     },
     {
       "version": 2,
@@ -13848,6 +13848,7 @@
       "noBlur": false,
       "volume": 1,
       "month": "september",
+      "date": 5,
       "isMultipleTemplate": false,
       "previews": []
     },
@@ -13863,14 +13864,14 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rQa3v_1706013571827_classical-vibes-4-684.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_rQa3v_1706013571827_classical-vibes-4-684.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
-      "createdOn": "2024-09-04T12:41:37.448Z",
+      "pro": false,
+      "createdOn": "2025-08-01T06:54:49.482Z",
       "extraComps": [
         {
-          "index": 3,
+          "index": 2,
           "compId": "1705320145920_19-brnad Outro-with elements"
         }
       ],
@@ -13883,7 +13884,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_gNz5b_1725453693286_18-ganesh-chaturthi-festive-greeting-update.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_IOoiH_1754031279314_18-ganesh-chaturthi-festive-greeting-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -13891,14 +13892,14 @@
         }
       ],
       "type": "Instagram Stories",
-      "name": "18-ganesh-chaturthi-festive-greeting-update",
+      "name": "18-ganesh-chaturthi-festive-greeting-updated",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
         "p_fest"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1NkaO_1725453693291_18-ganesh-chaturthi-festive-greeting-update.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0ufBu_1725453693288_18-ganesh-chaturthi-festive-greeting-update.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Bl-0__1754031279318_18-ganesh-chaturthi-festive-greeting-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SWng7_1754031279316_18-ganesh-chaturthi-festive-greeting-updated.jpg",
       "imageType": "Instagram Stories",
       "outroType": null,
       "introType": null,
@@ -13909,14 +13910,15 @@
       "introId": null,
       "outroId": null,
       "isTransparent": false,
-      "id": "0vvgj-00iukl0",
-      "templateId": "0vvgj-00iukl0",
       "AddId": "",
+      "volume": 0.9,
       "noBlur": false,
-      "volume": 1,
-      "month": "september",
+      "month": "august",
+      "date": 27,
       "isMultipleTemplate": false,
-      "previews": []
+      "previews": [],
+      "id": "e9JWb4H_g6DR9mxo1z3bW",
+      "templateId": "e9JWb4H_g6DR9mxo1z3bW"
     },
     {
       "version": 1,
@@ -14048,6 +14050,7 @@
       "noBlur": false,
       "volume": 1,
       "month": "september",
+      "date": 5,
       "isMultipleTemplate": false,
       "previews": [],
       "id": "-FQLMNO-CMlcp1_9oJ--xxX123",
@@ -14115,10 +14118,79 @@
       "noBlur": false,
       "volume": 1,
       "month": "september",
+      "date": 29,
       "id": "-FQLMNO-CMlcp_OgTy",
       "templateId": "-FQLMNO-CMlcp_OgTy",
       "isMultipleTemplate": false,
       "previews": []
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_ZzyCr_1706012158932_a-fathers-magic-1017.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-07-31T12:02:27.236Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_eGSuN_1753963344064_29-grandparents-day-greeting-portrait.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "29-grandparents-day-greeting-portrait",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CPW3F_1753963344068_29-grandparents-day-greeting-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Th5LZ_1753963344066_29-grandparents-day-greeting-portrait.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "september",
+      "date": 7,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "AdE_smeyS9PoS_TCtSvKy",
+      "templateId": "AdE_smeyS9PoS_TCtSvKy"
     },
     {
       "version": 1,
@@ -14184,6 +14256,7 @@
       "noBlur": false,
       "volume": 1,
       "month": "september",
+      "date": 27,
       "isMultipleTemplate": false,
       "previews": []
     },
@@ -14251,6 +14324,7 @@
       "noBlur": false,
       "volume": 1,
       "month": "september",
+      "date": 27,
       "isMultipleTemplate": false,
       "previews": []
     },
@@ -14318,6 +14392,7 @@
       "noBlur": false,
       "volume": 1,
       "month": "september",
+      "date": 8,
       "isMultipleTemplate": false,
       "previews": []
     },
@@ -14333,14 +14408,14 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_dbFx9_1725270169685_im-so-in-love-with-you-958.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_T5cyO_1698064554265_forever-love.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
-      "createdOn": "2024-09-05T08:31:41.435Z",
+      "pro": false,
+      "createdOn": "2025-07-31T08:50:40.824Z",
       "extraComps": [
         {
-          "index": 3,
+          "index": 2,
           "compId": "1705320145920_19-brnad Outro-with elements"
         }
       ],
@@ -14353,7 +14428,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_DnosO_1725525096431_57-onam-festive-greeting-png-update.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_WCU2l_1753951836119_37-krishna-janmashtami-festive-greeting-story.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -14361,14 +14436,14 @@
         }
       ],
       "type": "Instagram Stories",
-      "name": "57-onam-festive-greeting-png-update",
+      "name": "37-krishna-janmashtami-festive-greeting-story",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
         "p_fest"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_J3Yze_1725525096437_57-onam-festive-greeting-png-update.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OkVDU_1725525096436_57-onam-festive-greeting-png-update.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tIPol_1753951836124_37-krishna-janmashtami-festive-greeting-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_vBvcW_1753951836122_37-krishna-janmashtami-festive-greeting-story.jpg",
       "imageType": "Instagram Stories",
       "outroType": null,
       "introType": null,
@@ -14380,13 +14455,14 @@
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "noBlur": false,
       "volume": 1,
-      "month": "september",
+      "noBlur": false,
+      "month": "august",
+      "date": 16,
       "isMultipleTemplate": false,
-      "id": "ggppbFndL_1LZtS6hps99s",
-      "templateId": "ggppbFndL_1LZtS6hps99s",
-      "previews": []
+      "previews": [],
+      "id": "TvJnE8ntxJc5sVQwXA_Wm",
+      "templateId": "TvJnE8ntxJc5sVQwXA_Wm"
     },
     {
       "version": 1,
@@ -14727,6 +14803,74 @@
       "previews": [],
       "id": "JADMLLx_CHNG1nGx_kbs5",
       "templateId": "JADMLLx_CHNG1nGx_kbs5"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_ItE5h_1662711774656_Angel Watching.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-07-31T13:19:22.078Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1705320145920_19-brnad Outro-with elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_fROn5_1753967957666_36-qixi-festive-greeting-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "36-qixi-festive-greeting-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pFMgZ_1753967957670_36-qixi-festive-greeting-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_gJyew_1753967957668_36-qixi-festive-greeting-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.8,
+      "noBlur": false,
+      "month": "august",
+      "date": 2,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "6wO3RlqgoN9I5lOXfL534",
+      "templateId": "6wO3RlqgoN9I5lOXfL534"
     },
     {
       "version": 1,
