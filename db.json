@@ -3086,11 +3086,11 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Am050_1705389444280_break-away-85.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2025-07-09T07:33:42.950Z",
+      "createdOn": "2025-04-17T06:38:15.451Z",
       "extraComps": [
         {
           "index": 3,
@@ -3106,7 +3106,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_b6mKQ_1752046420033_02-promotional-portrait-template.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_CdpXS_1744871892695_04-wellness-portrait-template-updated-new-v2.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -3114,15 +3114,15 @@
         }
       ],
       "type": "Post 4:5",
-      "name": "02-promotional-portrait-template",
+      "name": "04-wellness-portrait-template-updated-new-v2",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
         "p_basicPromo"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3DjBQ_1752046420036_02-promotional-portrait-template.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LjZNm_1752046420034_02-promotional-portrait-template.jpg",
-      "imageType": "1200x800",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rfINS_1744871892698_04-wellness-portrait-template-updated-new-v2.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bvDMf_1744871892696_04-wellness-portrait-template-updated-new-v2.jpg",
+      "imageType": "Instagram Posts",
       "outroType": null,
       "introType": null,
       "Height": 1350,
@@ -3138,8 +3138,8 @@
       "month": "january",
       "isMultipleTemplate": false,
       "previews": [],
-      "id": "1k4kk3brXTit_GCYUrqhC",
-      "templateId": "1k4kk3brXTit_GCYUrqhC"
+      "id": "4-gX_5gZWXTW4OM6KPFT9",
+      "templateId": "4-gX_5gZWXTW4OM6KPFT9"
     },
     {
       "version": 2,
@@ -3341,73 +3341,6 @@
       "previews": [],
       "id": "Q92PylyXrt_KEQiTcaPBk",
       "templateId": "Q92PylyXrt_KEQiTcaPBk"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Am050_1705389444280_break-away-85.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-04-17T06:38:15.451Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_CdpXS_1744871892695_04-wellness-portrait-template-updated-new-v2.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "04-wellness-portrait-template-updated-new-v2",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_basicPromo"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rfINS_1744871892698_04-wellness-portrait-template-updated-new-v2.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bvDMf_1744871892696_04-wellness-portrait-template-updated-new-v2.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 1,
-      "month": "january",
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "4-gX_5gZWXTW4OM6KPFT9",
-      "templateId": "4-gX_5gZWXTW4OM6KPFT9"
     },
     {
       "version": 2,
@@ -3739,6 +3672,73 @@
       "previews": [],
       "id": "aOgRHth3v-39Bwz6bmz4M",
       "templateId": "aOgRHth3v-39Bwz6bmz4M"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-07-09T07:33:42.950Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_b6mKQ_1752046420033_02-promotional-portrait-template.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "02-promotional-portrait-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_basicPromo"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3DjBQ_1752046420036_02-promotional-portrait-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LjZNm_1752046420034_02-promotional-portrait-template.jpg",
+      "imageType": "1200x800",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 1,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "1k4kk3brXTit_GCYUrqhC",
+      "templateId": "1k4kk3brXTit_GCYUrqhC"
     },
     {
       "version": 2,
@@ -14000,14 +14000,14 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_dbFx9_1725270169685_im-so-in-love-with-you-958.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_rQa3v_1706013571827_classical-vibes-4-684.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2024-09-05T05:25:06.603Z",
+      "createdOn": "2025-08-01T11:54:36.411Z",
       "extraComps": [
         {
-          "index": 3,
+          "index": 2,
           "compId": "1705320145920_19-brnad Outro-with elements"
         }
       ],
@@ -14020,7 +14020,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_4yNyP_1725513901646_16-teachers-day-festive-greeting-png-update.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_NI7cN_1754049272418_39-teachers-day-festive-story-greeting.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -14028,14 +14028,14 @@
         }
       ],
       "type": "Instagram Stories",
-      "name": "16-teachers-day-festive-greeting-png-update",
+      "name": "39-teachers-day-festive-story-greeting",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
         "p_fest"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yvwOF_1725513901650_16-teachers-day-festive-greeting-png-update.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8UfnP_1725513901648_16-teachers-day-festive-greeting-png-update.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_a4lAf_1754049272422_39-teachers-day-festive-story-greeting.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_NMhDO_1754049272420_39-teachers-day-festive-story-greeting.jpg",
       "imageType": "Instagram Stories",
       "outroType": null,
       "introType": null,
@@ -14047,14 +14047,14 @@
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "noBlur": false,
       "volume": 1,
+      "noBlur": false,
       "month": "september",
       "date": 5,
       "isMultipleTemplate": false,
       "previews": [],
-      "id": "-FQLMNO-CMlcp1_9oJ--xxX123",
-      "templateId": "-FQLMNO-CMlcp1_9oJ--xxX123"
+      "id": "vhrF0oxHN8brBLOsXzGrF",
+      "templateId": "vhrF0oxHN8brBLOsXzGrF"
     },
     {
       "version": 1,
@@ -14123,74 +14123,6 @@
       "templateId": "-FQLMNO-CMlcp_OgTy",
       "isMultipleTemplate": false,
       "previews": []
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_ZzyCr_1706012158932_a-fathers-magic-1017.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-07-31T12:02:27.236Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_eGSuN_1753963344064_29-grandparents-day-greeting-portrait.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "29-grandparents-day-greeting-portrait",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_fest"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CPW3F_1753963344068_29-grandparents-day-greeting-portrait.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Th5LZ_1753963344066_29-grandparents-day-greeting-portrait.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 1,
-      "noBlur": false,
-      "month": "september",
-      "date": 7,
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "AdE_smeyS9PoS_TCtSvKy",
-      "templateId": "AdE_smeyS9PoS_TCtSvKy"
     },
     {
       "version": 1,
@@ -14412,7 +14344,7 @@
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2025-07-31T08:50:40.824Z",
+      "createdOn": "2025-08-01T12:00:13.698Z",
       "extraComps": [
         {
           "index": 2,
@@ -14428,7 +14360,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_WCU2l_1753951836119_37-krishna-janmashtami-festive-greeting-story.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_wSKeS_1754049610143_37-krishna-janmashtami-festive-greeting-story-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -14436,14 +14368,14 @@
         }
       ],
       "type": "Instagram Stories",
-      "name": "37-krishna-janmashtami-festive-greeting-story",
+      "name": "37-krishna-janmashtami-festive-greeting-story-updated",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
         "p_fest"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tIPol_1753951836124_37-krishna-janmashtami-festive-greeting-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_vBvcW_1753951836122_37-krishna-janmashtami-festive-greeting-story.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-8cLD_1754049610146_37-krishna-janmashtami-festive-greeting-story-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fuXAp_1754049610144_37-krishna-janmashtami-festive-greeting-story-updated.jpg",
       "imageType": "Instagram Stories",
       "outroType": null,
       "introType": null,
@@ -14458,11 +14390,11 @@
       "volume": 1,
       "noBlur": false,
       "month": "august",
-      "date": 16,
+      "date": 15,
       "isMultipleTemplate": false,
       "previews": [],
-      "id": "TvJnE8ntxJc5sVQwXA_Wm",
-      "templateId": "TvJnE8ntxJc5sVQwXA_Wm"
+      "id": "hB-BvFuSJUBv_iqufb4c1",
+      "templateId": "hB-BvFuSJUBv_iqufb4c1"
     },
     {
       "version": 1,
