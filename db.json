@@ -13864,6 +13864,210 @@
       "bgImageUrl": [
         ""
       ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_faxIs_1756449145451_Onam Instrumental.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-08-29T07:58:10.984Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_fw13e_1756454284387_32-onam-festive-portrait-greeting.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "32-onam-festive-portrait-greeting",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CK-yR_1756454284390_32-onam-festive-portrait-greeting.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_riJsF_1756454284389_32-onam-festive-portrait-greeting.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.7,
+      "noBlur": false,
+      "month": "september",
+      "date": 5,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "DCKOD8vIN5HWMG_sFsBy-",
+      "templateId": "DCKOD8vIN5HWMG_sFsBy-"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0eV_T_1756449886202_Onam Music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-08-29T08:23:01.914Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1705320145920_19-brnad Outro-with elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_oBPz-_1756455777814_38-onam-festive-story-greeting.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "38-onam-festive-story-greeting",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wMJhi_1756455777818_38-onam-festive-story-greeting.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_elcvY_1756455777816_38-onam-festive-story-greeting.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.8,
+      "noBlur": false,
+      "month": "september",
+      "date": 5,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "INsRKKos8kaAVM1qIa69d",
+      "templateId": "INsRKKos8kaAVM1qIa69d"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xbJa7_1756452837997_Im Excited 1067.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-08-29T07:52:19.898Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_liCcI_1756453935871_33-usa-labor-day-festive-portrait-greeting.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "33-usa-labor-day-festive-portrait-greeting",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XQEzw_1756453935876_33-usa-labor-day-festive-portrait-greeting.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_oOddZ_1756453935874_33-usa-labor-day-festive-portrait-greeting.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "september",
+      "date": 1,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "ZnCD3_A2ki4BeoVsdDHf0",
+      "templateId": "ZnCD3_A2ki4BeoVsdDHf0"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Viaxt_1756215954386_Sukhkarta Dukhharta.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -14068,7 +14272,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_rQa3v_1706013571827_classical-vibes-4-684.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OI2st_1756464032591_A Special Feeling 1087.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -14123,6 +14327,74 @@
       "previews": [],
       "id": "vhrF0oxHN8brBLOsXzGrF",
       "templateId": "vhrF0oxHN8brBLOsXzGrF"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xbJa7_1756452837997_Im Excited 1067.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-08-29T08:45:04.788Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_-3zQf_1756457101390_29-grandparents-day-greeting-portrait-updated.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "29-grandparents-day-greeting-portrait-updated",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ln5vR_1756457101395_29-grandparents-day-greeting-portrait-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OBSTX_1756457101393_29-grandparents-day-greeting-portrait-updated.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.7,
+      "noBlur": false,
+      "month": "september",
+      "date": 7,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "mHFZ2ty9ZdMimxPZM9el3",
+      "templateId": "mHFZ2ty9ZdMimxPZM9el3"
     },
     {
       "version": 1,
@@ -14612,11 +14884,11 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_RJKKf_1702275569992_mixkit-stay-with-me-838-updated.mp3.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OI2st_1756464032591_A Special Feeling 1087.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2025-07-18T11:12:50.262Z",
+      "createdOn": "2025-08-29T10:59:39.545Z",
       "extraComps": [
         {
           "index": 2,
@@ -14632,7 +14904,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_RzJxd_1752837166142_27-national-sports-day-greeting-portrait.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_qqsLK_1756465175231_27-national-sports-day-greeting-portrait.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -14646,8 +14918,8 @@
       "category": [
         "p_fest"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PKX8x_1752837166146_27-national-sports-day-greeting-portrait.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tXhCD_1752837166144_27-national-sports-day-greeting-portrait.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TTXjf_1756465175236_27-national-sports-day-greeting-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_g8xRV_1756465175233_27-national-sports-day-greeting-portrait.jpg",
       "imageType": "Post 4:5",
       "outroType": null,
       "introType": null,
@@ -14659,14 +14931,14 @@
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "volume": 0.9,
+      "volume": 1,
       "noBlur": false,
       "month": "august",
       "date": 29,
       "isMultipleTemplate": false,
       "previews": [],
-      "id": "7UycyfbESs2F24qWgwmLh",
-      "templateId": "7UycyfbESs2F24qWgwmLh"
+      "id": "BuzPThNcne7AGE0kYvg8d",
+      "templateId": "BuzPThNcne7AGE0kYvg8d"
     },
     {
       "version": 1,
@@ -14748,11 +15020,11 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_bRaoQ_1705389742089_goals-are-ahead-146.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xbJa7_1756452837997_Im Excited 1067.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2025-07-18T11:08:13.064Z",
+      "createdOn": "2025-08-29T11:14:16.534Z",
       "extraComps": [
         {
           "index": 2,
@@ -14768,7 +15040,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_aS7KD_1752836887290_35-sports-day-greeting-story.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_qlAql_1756466051717_35-sports-day-greeting-story.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -14782,8 +15054,8 @@
       "category": [
         "p_fest"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZRD29_1752836887294_35-sports-day-greeting-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_BtV8P_1752836887292_35-sports-day-greeting-story.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_I_a0k_1756466051721_35-sports-day-greeting-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ix5LH_1756466051719_35-sports-day-greeting-story.jpg",
       "imageType": "Instagram Stories",
       "outroType": null,
       "introType": null,
@@ -14795,14 +15067,14 @@
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "volume": 0.8,
+      "volume": 0.9,
       "noBlur": false,
       "month": "august",
       "date": 29,
       "isMultipleTemplate": false,
       "previews": [],
-      "id": "JADMLLx_CHNG1nGx_kbs5",
-      "templateId": "JADMLLx_CHNG1nGx_kbs5"
+      "id": "qFVIRE0nwcLq3W0W7Eg8n",
+      "templateId": "qFVIRE0nwcLq3W0W7Eg8n"
     },
     {
       "version": 1,
@@ -14816,7 +15088,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_dbFx9_1725270169685_im-so-in-love-with-you-958.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xbJa7_1756452837997_Im Excited 1067.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
