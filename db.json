@@ -13799,15 +13799,15 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GRqTc_1725265545873_jihad-962(rename-).mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_aVZc4_1756795011116_Eid Special.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2024-09-04T12:22:05.538Z",
+      "createdOn": "2025-09-03T12:35:38.389Z",
       "extraComps": [
         {
-          "index": 3,
-          "compId": "1705320145920_19-brnad Outro-with elements"
+          "index": 2,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
         }
       ],
       "widgetsDefinition": [
@@ -13819,41 +13819,41 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_6Io6M_1725452522278_56-eid-e-milad-festive-greeting.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_DeC_O_1756902934907_34-eid-e-milad-greeting-portrait-template.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
           "duration": 10
         }
       ],
-      "type": "Instagram Stories",
-      "name": "56-eid-e-milad-festive-greeting",
+      "type": "Post 4:5",
+      "name": "34-eid-e-milad-greeting-portrait-template",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
         "p_fest"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_x4wM6_1725452522282_56-eid-e-milad-festive-greeting.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iJsFF_1725452522280_56-eid-e-milad-festive-greeting.jpg",
-      "imageType": "Instagram Stories",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_th8rl_1756902934912_34-eid-e-milad-greeting-portrait-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_KGi0w_1756902934910_34-eid-e-milad-greeting-portrait-template.jpg",
+      "imageType": "Post 4:5",
       "outroType": null,
       "introType": null,
-      "Height": 1920,
+      "Height": 1350,
       "Width": 1080,
-      "height": 1920,
+      "height": 1350,
       "width": 1080,
       "introId": null,
       "outroId": null,
       "isTransparent": false,
-      "id": "-FQLMNO-CMlcp_jjkl",
-      "templateId": "-FQLMNO-CMlcp_jjkl",
       "AddId": "",
+      "volume": 0.9,
       "noBlur": false,
-      "volume": 1,
       "month": "september",
       "date": 5,
       "isMultipleTemplate": false,
-      "previews": []
+      "previews": [],
+      "id": "tuXZcrbmVPgk-VKz5pBAv",
+      "templateId": "tuXZcrbmVPgk-VKz5pBAv"
     },
     {
       "version": 1,
@@ -14207,14 +14207,14 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bRaoQ_1705389742089_goals-are-ahead-146.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xDJT__1756901920267_Happy Love.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2024-09-04T11:07:44.391Z",
+      "createdOn": "2025-09-03T12:21:04.204Z",
       "extraComps": [
         {
-          "index": 3,
+          "index": 2,
           "compId": "1705320145920_19-brnad Outro-with elements"
         }
       ],
@@ -14227,7 +14227,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_m1pUk_1725448060371_53-grandparents-day-festive-greeting-png-update.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_YNPlG_1756902060171_42-grandparents-day-greeting-story.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -14235,14 +14235,14 @@
         }
       ],
       "type": "Instagram Stories",
-      "name": "53-grandparents-day-festive-greeting-png-update",
+      "name": "42-grandparents-day-greeting-story",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
         "p_fest"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pIrRq_1725448060375_53-grandparents-day-festive-greeting-png-update.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_50CHq_1725448060373_53-grandparents-day-festive-greeting-png-update.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_dZxRq_1756902060175_42-grandparents-day-greeting-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wZScr_1756902060173_42-grandparents-day-greeting-story.jpg",
       "imageType": "Instagram Stories",
       "outroType": null,
       "introType": null,
@@ -14254,14 +14254,14 @@
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "noBlur": false,
       "volume": 1,
+      "noBlur": false,
       "month": "september",
       "date": 7,
-      "id": "-FQLMNO-CMlcp_9oJ--xxX",
-      "templateId": "-FQLMNO-CMlcp_9oJ--xxX",
       "isMultipleTemplate": false,
-      "previews": []
+      "previews": [],
+      "id": "XVkrzEngIQDKcaMknzJag",
+      "templateId": "XVkrzEngIQDKcaMknzJag"
     },
     {
       "version": 1,
@@ -14411,15 +14411,15 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3Ey0E_1697606292701_mixkit-love-and-trust-1034.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iQUIl_1756901839889_Happy Everyday.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2024-09-04T11:50:49.661Z",
+      "createdOn": "2025-09-03T12:23:35.779Z",
       "extraComps": [
         {
-          "index": 3,
-          "compId": "1705320145920_19-brnad Outro-with elements"
+          "index": 2,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
         }
       ],
       "widgetsDefinition": [
@@ -14431,41 +14431,41 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_wd3Mu_1725450646579_55-world-heart-day-festive-greeting-png-update.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_L40uI_1756902212273_37-heart-day-greeting-portrait.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
           "duration": 10
         }
       ],
-      "type": "Instagram Stories",
-      "name": "55-world-heart-day-festive-greeting-png-update",
+      "type": "Post 4:5",
+      "name": "37-heart-day-greeting-portrait",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
         "p_fest"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CstJG_1725450646582_55-world-heart-day-festive-greeting-png-update.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TYE6__1725450646580_55-world-heart-day-festive-greeting-png-update.jpg",
-      "imageType": "Instagram Stories",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zyZJj_1756902212276_37-heart-day-greeting-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LBowZ_1756902212275_37-heart-day-greeting-portrait.jpg",
+      "imageType": "Post 4:5",
       "outroType": null,
       "introType": null,
-      "Height": 1920,
+      "Height": 1350,
       "Width": 1080,
-      "height": 1920,
+      "height": 1350,
       "width": 1080,
       "introId": null,
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "noBlur": false,
       "volume": 1,
+      "noBlur": false,
       "month": "september",
       "date": 29,
-      "id": "-FQLMNO-CMlcp_OgTy",
-      "templateId": "-FQLMNO-CMlcp_OgTy",
       "isMultipleTemplate": false,
-      "previews": []
+      "previews": [],
+      "id": "oljEhZhca_Xu2KFlF4Cwp",
+      "templateId": "oljEhZhca_Xu2KFlF4Cwp"
     },
     {
       "version": 1,
@@ -14479,15 +14479,15 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_x6g5h_1719917202471_back-to-you-790.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xbJa7_1756452837997_Im Excited 1067.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
-      "createdOn": "2024-09-05T09:12:23.017Z",
+      "pro": false,
+      "createdOn": "2025-09-03T11:23:15.623Z",
       "extraComps": [
         {
-          "index": 3,
-          "compId": "1705320145920_19-brnad Outro-with elements"
+          "index": 2,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
         }
       ],
       "widgetsDefinition": [
@@ -14499,46 +14499,44 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ITr_c_1725527539076_54-world-tourism-day-festive-greeting-png-update.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_G5jJH_1756898585980_36-world-tourism-day-greeting-portrait.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
           "duration": 10
         }
       ],
-      "type": "Instagram Stories",
-      "name": "54-world-tourism-day-festive-greeting-png-update",
+      "type": "Post 4:5",
+      "name": "36-world-tourism-day-greeting-portrait",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
         "p_fest"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CuWVG_1725527539080_54-world-tourism-day-festive-greeting-png-update.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_WXZCV_1725527539078_54-world-tourism-day-festive-greeting-png-update.jpg",
-      "imageType": "Instagram Stories",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_k--Lc_1756898585983_36-world-tourism-day-greeting-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_cYdXe_1756898585982_36-world-tourism-day-greeting-portrait.jpg",
+      "imageType": "Post 4:5",
       "outroType": null,
       "introType": null,
-      "Height": 1920,
+      "Height": 1350,
       "Width": 1080,
-      "height": 1920,
+      "height": 1350,
       "width": 1080,
       "introId": null,
-      "id": "Znnjsw3hzr9QnO7y1rZ9V3M",
-      "templateId": "Znnjsw3hzr9QnO7y1rZ9V3M",
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "noBlur": false,
       "volume": 1,
+      "noBlur": false,
       "month": "september",
       "date": 27,
       "isMultipleTemplate": false,
-      "previews": []
+      "previews": [],
+      "id": "E-ZhT7uAzxIAJJVRe2b5p",
+      "templateId": "E-ZhT7uAzxIAJJVRe2b5p"
     },
     {
       "version": 1,
-      "id": "OMMbFndL_1LZtS6hps99s",
-      "templateId": "OMMbFndL_1LZtS6hps99s",
       "gifUrl": "",
       "bgVideoUrl": [
         ""
@@ -14549,15 +14547,15 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rQa3v_1706013571827_classical-vibes-4-684.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_mdMQq_1756881004049_Educational music.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2024-09-05T08:26:57.993Z",
+      "createdOn": "2025-09-03T11:18:53.680Z",
       "extraComps": [
         {
-          "index": 3,
-          "compId": "1705320145920_19-brnad Outro-with elements"
+          "index": 2,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
         }
       ],
       "widgetsDefinition": [
@@ -14569,39 +14567,41 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_LaQ8F_1725524813359_52-international-literacy-day-festive-greeting-png-update.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_weUoW_1756898329472_35-world-literacy-day-greeting-portrait.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
           "duration": 10
         }
       ],
-      "type": "Instagram Stories",
-      "name": "52-international-literacy-day-festive-greeting-png-update",
+      "type": "Post 4:5",
+      "name": "35-world-literacy-day-greeting-portrait",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
         "p_fest"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_BMHV3_1725524813363_52-international-literacy-day-festive-greeting-png-update.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_52ZkD_1725524813361_52-international-literacy-day-festive-greeting-png-update.jpg",
-      "imageType": "Instagram Stories",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3v2eK_1756898329476_35-world-literacy-day-greeting-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RyuOd_1756898329474_35-world-literacy-day-greeting-portrait.jpg",
+      "imageType": "Post 4:5",
       "outroType": null,
       "introType": null,
-      "Height": 1920,
+      "Height": 1350,
       "Width": 1080,
-      "height": 1920,
+      "height": 1350,
       "width": 1080,
       "introId": null,
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "noBlur": false,
       "volume": 1,
+      "noBlur": false,
       "month": "september",
       "date": 8,
       "isMultipleTemplate": false,
-      "previews": []
+      "previews": [],
+      "id": "QR3il76kG-Eg9IRj4zeEr",
+      "templateId": "QR3il76kG-Eg9IRj4zeEr"
     },
     {
       "version": 1,
