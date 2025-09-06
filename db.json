@@ -147374,74 +147374,7 @@
       "id": "UQyF2UzEKY3T1lisTojK1",
       "templateId": "UQyF2UzEKY3T1lisTojK1"
     },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_rQa3v_1706013571827_classical-vibes-4-684.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-09-05T12:17:11.502Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_7MeLm_1757074615552_05-linkedin-portrait-textual-template.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "05-linkedin-portrait-textual-template",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_linkedin"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_r2r9O_1757074615557_05-linkedin-portrait-textual-template.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TgJJ2_1757074615556_05-linkedin-portrait-textual-template.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 1,
-      "month": "january",
-      "isMultipleTemplate": true,
-      "previews": [],
-      "variantCount": 3,
-      "id": "ZvXU1SYajd96_exaSDKU5",
-      "templateId": "ZvXU1SYajd96_exaSDKU5"
-    },
+   
     {
       "version": 2,
       "gifUrl": "",
@@ -147508,6 +147441,74 @@
       "previews": [],
       "id": "T7Bk7iZaRAFN47nKABas0",
       "templateId": "T7Bk7iZaRAFN47nKABas0"
+    },
+     {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_rQa3v_1706013571827_classical-vibes-4-684.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-09-05T12:17:11.502Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_7MeLm_1757074615552_05-linkedin-portrait-textual-template.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "05-linkedin-portrait-textual-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_linkedin"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_r2r9O_1757074615557_05-linkedin-portrait-textual-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TgJJ2_1757074615556_05-linkedin-portrait-textual-template.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 1,
+      "month": "january",
+      "isMultipleTemplate": true,
+      "previews": [],
+      "variantCount": 3,
+      "id": "ZvXU1SYajd96_exaSDKU5",
+      "templateId": "ZvXU1SYajd96_exaSDKU5"
     },
     {
       "version": 2,
