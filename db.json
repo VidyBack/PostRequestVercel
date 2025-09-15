@@ -148387,7 +148387,6 @@
       "id": "y319Ehc7lnZaL8AiHcRXQ",
       "templateId": "y319Ehc7lnZaL8AiHcRXQ"
     },
-   
     {
       "version": 2,
       "gifUrl": "",
@@ -148404,7 +148403,7 @@
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2025-09-10T10:06:11.911Z",
+      "createdOn": "2025-09-11T07:26:07.783Z",
       "extraComps": [
         {
           "index": 3,
@@ -148420,7 +148419,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_xT7ZB_1757498767752_06-linkedin-portrait-textual-template.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_LbUsK_1757575561402_06-linkedin-portrait-textual-template.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -148434,8 +148433,8 @@
       "category": [
         "p_linkedin"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Guhjs_1757498767754_06-linkedin-portrait-textual-template.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_G3rp7_1757498767753_06-linkedin-portrait-textual-template.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2G4W7_1757575561406_06-linkedin-portrait-textual-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pEKpi_1757575561404_06-linkedin-portrait-textual-template.jpg",
       "imageType": "Post 4:5",
       "outroType": null,
       "introType": null,
@@ -148448,13 +148447,13 @@
       "isTransparent": false,
       "AddId": "",
       "noBlur": false,
-      "volume": 0.8,
+      "volume": 0.9,
       "month": "january",
-      "isMultipleTemplate": true,
+      "isMultipleTemplate": false,
       "previews": [],
       "variantCount": 2,
-      "id": "dFkUaitqBVCpyEvMrJ8F-",
-      "templateId": "dFkUaitqBVCpyEvMrJ8F-"
+      "id": "nR3PHL-V1kgmMmNDgqgQq",
+      "templateId": "nR3PHL-V1kgmMmNDgqgQq"
     },
     {
       "version": 2,
@@ -148472,7 +148471,7 @@
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2025-09-10T10:06:11.911Z",
+      "createdOn": "2025-09-11T07:26:07.783Z",
       "extraComps": [
         {
           "index": 3,
@@ -148488,7 +148487,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_xT7ZB_1757498767752_06-linkedin-portrait-textual-template.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_LbUsK_1757575561402_06-linkedin-portrait-textual-template.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -148502,8 +148501,8 @@
       "category": [
         "p_linkedin"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Guhjs_1757498767754_06-linkedin-portrait-textual-template.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_G3rp7_1757498767753_06-linkedin-portrait-textual-template.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2G4W7_1757575561406_06-linkedin-portrait-textual-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pEKpi_1757575561404_06-linkedin-portrait-textual-template.jpg",
       "imageType": "Post 4:5",
       "outroType": null,
       "introType": null,
@@ -148516,13 +148515,13 @@
       "isTransparent": false,
       "AddId": "",
       "noBlur": false,
-      "volume": 0.8,
+      "volume": 0.9,
       "month": "january",
-      "isMultipleTemplate": false,
+      "isMultipleTemplate": true,
       "previews": [],
       "variantCount": 2,
-      "id": "dFkUaitqBVCpyEvMrJ8F-",
-      "templateId": "dFkUaitqBVCpyEvMrJ8F-"
+      "id": "nR3PHL-V1kgmMmNDgqgQq",
+      "templateId": "nR3PHL-V1kgmMmNDgqgQq"
     },
     {
       "version": 2,
