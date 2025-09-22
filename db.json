@@ -11,7 +11,7 @@
       "forWebsites": [],
         "id": "XAsp7PuFdH-mango-gshfgdshfgsdjgfjhgfj",
       "templateId": "XAsp7PuFdH-mango-gshfgdshfgsdjgfjhgfj",
-      "pro": false,
+      "pro": true,
       "createdOn": "2025-09-19T11:18:52.691Z",
       "extraComps": [
         { "index": 4, "compId": "1705581297322_23 Outro Portrait" }
@@ -36,7 +36,7 @@
       "name": "04-promotional-portrait-features",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": ["p_basicPromo"],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_O69Gc_1758280728616_04-promotional-portrait-features.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_5FM7-_1758280728613_04-promotional-portrait-features.jpg",
       "imageType": "Post 4:5",
@@ -67,7 +67,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Y0re1_1726052810237_solitude-179.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2025-09-19T10:32:21.416Z",
       "extraComps": [
         { "index": 4, "compId": "1705578045857_22 Outro Portrait" }
@@ -92,7 +92,7 @@
       "name": "05-promotional-portrait-features",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": ["p_basicPromo"],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_jp1O3_1758277935846_05-promotional-portrait-features.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_JdEFZ_1758277935843_05-promotional-portrait-features.jpg",
       "imageType": "Post 4:5",
