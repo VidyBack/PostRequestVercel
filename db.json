@@ -1,4 +1,119 @@
 {
+  "p_nauto_jobs": [
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_WwXKt_1726052481503_please-816.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+        "id": "XAsp7PuFdH-mango-gshfgdshfgsdjgfjhgfj",
+      "templateId": "XAsp7PuFdH-mango-gshfgdshfgsdjgfjhgfj",
+      "pro": false,
+      "createdOn": "2025-09-19T11:18:52.691Z",
+      "extraComps": [
+        { "index": 4, "compId": "1705581297322_23 Outro Portrait" }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ubD4T_1758280728609_04-promotional-portrait-features.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "04-promotional-portrait-features",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": ["p_basicPromo"],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_O69Gc_1758280728616_04-promotional-portrait-features.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_5FM7-_1758280728613_04-promotional-portrait-features.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 1,
+      "month": "january",
+      "isMultipleTemplate": true,
+      "previews": []
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
+         "id": "XAsp7PuFdH-berry-gshfgdshfgsdjgfjhgfj",
+      "templateId": "XAsp7PuFdH-berry-gshfgdshfgsdjgfjhgfj",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Y0re1_1726052810237_solitude-179.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-09-19T10:32:21.416Z",
+      "extraComps": [
+        { "index": 4, "compId": "1705578045857_22 Outro Portrait" }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_eJpeK_1758277935839_05-promotional-portrait-features.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "05-promotional-portrait-features",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": ["p_basicPromo"],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_jp1O3_1758277935846_05-promotional-portrait-features.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_JdEFZ_1758277935843_05-promotional-portrait-features.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 1,
+      "month": "january",
+      "isMultipleTemplate": true,
+      "previews": []
+    }
+  ],
+
   "p_didUKnow": [
     {
       "version": 2,
@@ -14186,15 +14301,9 @@
     {
       "version": 1,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iCkf1_1758112214769_Durga Pooja.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -14226,9 +14335,7 @@
       "name": "43-durga-pooja-greeting-story",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_fest"
-      ],
+      "category": ["p_fest"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9H8Ve_1758113873153_43-durga-pooja-greeting-story.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fCkEE_1758113873151_43-durga-pooja-greeting-story.jpg",
       "imageType": "Instagram Stories",
@@ -14245,7 +14352,7 @@
       "volume": 0.9,
       "noBlur": false,
       "month": "september",
-        "date": 24,
+      "date": 24,
       "isMultipleTemplate": false,
       "previews": [],
       "id": "cBDnGnizI7SjJi6pahFZd",
@@ -14254,15 +14361,9 @@
     {
       "version": 1,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_X2E-e_1758022534026_Happy Navratri Vagmine.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -14294,9 +14395,7 @@
       "name": "38-navratri-portrait-greeting",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_fest"
-      ],
+      "category": ["p_fest"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1R_Vk_1758089049800_38-navratri-portrait-greeting.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1UjnT_1758089049798_38-navratri-portrait-greeting.jpg",
       "imageType": "Post 4:5",
@@ -14322,15 +14421,9 @@
     {
       "version": 1,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_JkJke_1756190701118_Ganpati Special.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -14362,9 +14455,7 @@
       "name": "44-dhanteras-greeting-story",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_fest"
-      ],
+      "category": ["p_fest"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lycxv_1758113713439_44-dhanteras-greeting-story.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_niAaD_1758113713437_44-dhanteras-greeting-story.jpg",
       "imageType": "Instagram Stories",
