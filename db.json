@@ -53,7 +53,7 @@
       "noBlur": false,
       "volume": 1,
       "month": "january",
-      "isMultipleTemplate": true,
+      "isMultipleTemplate": false,
       "previews": []
     },
     {
@@ -109,7 +109,7 @@
       "noBlur": false,
       "volume": 1,
       "month": "january",
-      "isMultipleTemplate": true,
+      "isMultipleTemplate": false,
       "previews": []
     }
   ],
