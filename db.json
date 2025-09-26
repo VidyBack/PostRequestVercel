@@ -3,19 +3,13 @@
     {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2025-09-25T12:50:10.820Z",
       "extraComps": [
         {
@@ -43,9 +37,7 @@
       "name": "01-job-story-template-feature",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_dMf5F_1758804606905_01-job-story-template-feature.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_5ET1C_1758804606904_01-job-story-template-feature.jpg",
       "imageType": "Instagram Stories",
@@ -70,15 +62,9 @@
     {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -110,9 +96,7 @@
       "name": "01-job-story-template-feature",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_dMf5F_1758804606905_01-job-story-template-feature.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_5ET1C_1758804606904_01-job-story-template-feature.jpg",
       "imageType": "Instagram Stories",
@@ -134,18 +118,12 @@
       "id": "te8eE6NIMPZ2mLxHP4hFt",
       "templateId": "te8eE6NIMPZ2mLxHP4hFt"
     },
-      {
+    {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -177,9 +155,7 @@
       "name": "02-job-story-template-feature",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3LC-p_1758881568415_02-job-story-template-feature.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GBa_r_1758881568413_02-job-story-template-feature.jpg",
       "imageType": "Post 4:5",
@@ -197,23 +173,17 @@
       "volume": 1,
       "month": "january",
       "isMultipleTemplate": true,
-      "variantCount":3,
+      "variantCount": 3,
       "previews": [],
       "id": "Vo1yr2DXAEstJH0NuRCQ9",
       "templateId": "Vo1yr2DXAEstJH0NuRCQ9"
     },
-      {
+    {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -245,9 +215,7 @@
       "name": "08-job-portrait-template-feature",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_cDB24_1758806565620_08-job-portrait-template-feature.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XkBQ0_1758806565618_08-job-portrait-template-feature.jpg",
       "imageType": "Post 4:5",
@@ -266,22 +234,16 @@
       "month": "january",
       "isMultipleTemplate": false,
       "previews": [],
-      "variantCount":3,
+      "variantCount": 3,
       "id": "oD1paiEuVhIfoJvuAFPH-",
       "templateId": "oD1paiEuVhIfoJvuAFPH-"
     },
-       {
+    {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -313,9 +275,7 @@
       "name": "08-job-portrait-template-feature",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_cDB24_1758806565620_08-job-portrait-template-feature.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XkBQ0_1758806565618_08-job-portrait-template-feature.jpg",
       "imageType": "Post 4:5",
@@ -334,22 +294,16 @@
       "month": "january",
       "isMultipleTemplate": true,
       "previews": [],
-      "variantCount":3,
+      "variantCount": 3,
       "id": "oD1paiEuVhIfoJvuAFPH-",
       "templateId": "oD1paiEuVhIfoJvuAFPH-"
     },
     {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -381,9 +335,7 @@
       "name": "07-job-portrait-template-feature",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RNN2l_1758805965056_07-job-portrait-template-feature.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_V_e3U_1758805965054_07-job-portrait-template-feature.jpg",
       "imageType": "Post 4:5",
@@ -402,24 +354,17 @@
       "month": "january",
       "isMultipleTemplate": false,
       "previews": [],
-      "variantCount":3,
+      "variantCount": 3,
       "id": "VZbMClQqZ31ulYtGTFET5",
       "templateId": "VZbMClQqZ31ulYtGTFET5"
     },
-    
-    
-      {
+
+    {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -451,9 +396,7 @@
       "name": "02-job-story-template-feature",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3LC-p_1758881568415_02-job-story-template-feature.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GBa_r_1758881568413_02-job-story-template-feature.jpg",
       "imageType": "Post 4:5",
@@ -471,289 +414,11 @@
       "volume": 1,
       "month": "january",
       "isMultipleTemplate": false,
-      "variantCount":3,
+      "variantCount": 3,
       "previews": [],
       "id": "Vo1yr2DXAEstJH0NuRCQ9",
       "templateId": "Vo1yr2DXAEstJH0NuRCQ9"
-    },
-       {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-09-24T13:12:31.338Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_HiP91_1758719545848_07-job-portrait-template-feature.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "07-job-portrait-template-feature",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_teh7d_1758719545852_07-job-portrait-template-feature.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YZOWo_1758719545851_07-job-portrait-template-feature.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 1,
-      "month": "january",
-      "variantCount":3,
-      "isMultipleTemplate": true,
-      "previews": [],
-      "id": "8HdCWybuJnWsDsNijus_O",
-      "templateId": "8HdCWybuJnWsDsNijus_O"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-09-24T13:12:31.338Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_HiP91_1758719545848_07-job-portrait-template-feature.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "07-job-portrait-template-feature",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_teh7d_1758719545852_07-job-portrait-template-feature.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YZOWo_1758719545851_07-job-portrait-template-feature.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 1,
-      "month": "january",
-      "variantCount":3,
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "8HdCWybuJnWsDsNijus_O",
-      "templateId": "8HdCWybuJnWsDsNijus_O"
-    },
-        {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-09-24T11:00:18.912Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_3f830_1758711614928_08-job-portrait-template-feature.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "08-job-portrait-template-feature",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PFgCT_1758711614932_08-job-portrait-template-feature.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__IUry_1758711614930_08-job-portrait-template-feature.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 1,
-      "month": "january",
-      "isMultipleTemplate": true,
-      "previews": [],
-            "variantCount":3,
-      "id": "oFKtulj6-zfganiL3y7Gq",
-      "templateId": "oFKtulj6-zfganiL3y7Gq"
-    },
-        {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-09-24T11:00:18.912Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_3f830_1758711614928_08-job-portrait-template-feature.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "08-job-portrait-template-feature",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PFgCT_1758711614932_08-job-portrait-template-feature.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__IUry_1758711614930_08-job-portrait-template-feature.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 1,
-      "month": "january",
-      "isMultipleTemplate": false,
-      "variantCount":3,
-      "previews": [],
-      "id": "oFKtulj6-zfganiL3y7Gq",
-      "templateId": "oFKtulj6-zfganiL3y7Gq"
     }
-   
-   
-   
-   
-  
-   
   ],
 
   "p_didUKnow": [
@@ -14340,18 +14005,12 @@
     }
   ],
   "p_fest": [
-        {
+    {
       "version": 1,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qXuXu_1758690289630_Bhakti Waves.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -14383,9 +14042,7 @@
       "name": "39-dussehra-portrait-greeting",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_fest"
-      ],
+      "category": ["p_fest"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GmK_D_1758690909567_39-dussehra-portrait-greeting.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OdzdX_1758690909565_39-dussehra-portrait-greeting.jpg",
       "imageType": "Post 4:5",
