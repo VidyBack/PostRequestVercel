@@ -1,4 +1,61 @@
 {
+  "p_ecomFeature":[
+    {
+  "version": 1,
+  "gifUrl": "",
+  "bgVideoUrl": [""],
+  "fontUrl": [""],
+  "bgImageUrl": [""],
+  "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OI2st_1756464032591_A Special Feeling 1087.mp3",
+  "fillEnabled": true,
+  "forWebsites": [],
+  "pro": false,
+  "createdOn": "2025-09-29T06:34:48.198Z",
+  "extraComps": [{ "index": 5, "compId": "1705581866638_23 Outro Post" }],
+  "widgetsDefinition": [
+    {
+      "mappingKeyMandatory": false,
+      "Height": "100%",
+      "Width": "100%",
+      "StartTime": 0,
+      "EndTime": -1,
+      "URLS": [],
+      "mappingKeyValue": "",
+      "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Ldhe9_1759127684518_08-new-arrival-square-features.json",
+      "X": "0.0%",
+      "Y": "0.0%",
+      "type": "SVG_SINGLE",
+      "duration": 10
+    }
+  ],
+  "type": "Instagram Posts",
+  "name": "08-new-arrival-square-features",
+  "brandEnabled": false,
+  "brandType": "X1",
+  "category": ["p_ecomFeature"],
+  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_BDCiO_1759127684522_08-new-arrival-square-features.mp4",
+  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-k0y8_1759127684519_08-new-arrival-square-features.jpg",
+  "imageType": "Instagram Posts",
+  "outroType": null,
+  "introType": null,
+  "Height": 1080,
+  "Width": 1080,
+  "height": 1080,
+  "width": 1080,
+  "introId": null,
+  "outroId": null,
+  "isTransparent": false,
+  "AddId": "",
+  "volume": 1,
+  "noBlur": false,
+  "month": "january",
+  "isMultipleTemplate": false,
+  "previews": [],
+   "id": "oo0023fgdshjdks",
+      "templateId": "oo0023fgdshjdks"
+}
+
+  ],
   "p_nauto_jobs": [
        {
       "version": 2,
