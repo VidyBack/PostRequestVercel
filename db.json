@@ -1,74 +1,179 @@
 {
-  "p_ecomFeature":[
+  "p_ecomFeature": [
     {
-  "version": 1,
-  "gifUrl": "",
-  "bgVideoUrl": [""],
-  "fontUrl": [""],
-  "bgImageUrl": [""],
-  "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OI2st_1756464032591_A Special Feeling 1087.mp3",
-  "fillEnabled": true,
-  "forWebsites": [],
-  "pro": false,
-  "createdOn": "2025-09-29T06:34:48.198Z",
-  "extraComps": [{ "index": 5, "compId": "1705581866638_23 Outro Post" }],
-  "widgetsDefinition": [
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iQUIl_1756901839889_Happy Everyday.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+       "id": "ATaHKN2EAj2LBZ7qi-X7D-olom",
+      "templateId": "ATaHKN2EAj2LBZ7qi-X7D-olom",
+      "createdOn": "2025-09-29T13:04:35.814Z",
+      "extraComps": [
+        { "index": 5, "compId": "1705403061437_21-brandoutro-story-Design 3" }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_gFcBV_1759151072401_40-display-ads-story-features-nobrandcolors.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "40-display-ads-story-features-nobrandcolors",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": ["p_ecomFeature"],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tqThq_1759151072405_40-display-ads-story-features-nobrandcolors.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_5IKM7_1759151072403_40-display-ads-story-features-nobrandcolors.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": []
+    },
     {
-      "mappingKeyMandatory": false,
-      "Height": "100%",
-      "Width": "100%",
-      "StartTime": 0,
-      "EndTime": -1,
-      "URLS": [],
-      "mappingKeyValue": "",
-      "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Ldhe9_1759127684518_08-new-arrival-square-features.json",
-      "X": "0.0%",
-      "Y": "0.0%",
-      "type": "SVG_SINGLE",
-      "duration": 10
+      "version": 1,
+      "gifUrl": "",
+       "id": "ATaHKN2EAj2LBZ7qi-X7D-lamal",
+      "templateId": "ATaHKN2EAj2LBZ7qi-X7D-lamal",
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Dll4J_1697456631840_mixkit-babe-783.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-09-29T12:57:40.337Z",
+      "extraComps": [
+        { "index": 5, "compId": "1705403061437_21-brandoutro-story-Design 3" }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_T6Qcr_1759150654107_45-new-arrival-story-features-nobrandcolors.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "45-new-arrival-story-features-nobrandcolors",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": ["p_ecomFeature"],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zPoRs_1759150654117_45-new-arrival-story-features-nobrandcolors.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XUK_Q_1759150654110_45-new-arrival-story-features-nobrandcolors.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OI2st_1756464032591_A Special Feeling 1087.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-09-29T06:34:48.198Z",
+      "extraComps": [{ "index": 5, "compId": "1705581866638_23 Outro Post" }],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Ldhe9_1759127684518_08-new-arrival-square-features.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "08-new-arrival-square-features",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": ["p_ecomFeature"],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_BDCiO_1759127684522_08-new-arrival-square-features.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-k0y8_1759127684519_08-new-arrival-square-features.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "oo0023fgdshjdks",
+      "templateId": "oo0023fgdshjdks"
     }
   ],
-  "type": "Instagram Posts",
-  "name": "08-new-arrival-square-features",
-  "brandEnabled": false,
-  "brandType": "X1",
-  "category": ["p_ecomFeature"],
-  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_BDCiO_1759127684522_08-new-arrival-square-features.mp4",
-  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-k0y8_1759127684519_08-new-arrival-square-features.jpg",
-  "imageType": "Instagram Posts",
-  "outroType": null,
-  "introType": null,
-  "Height": 1080,
-  "Width": 1080,
-  "height": 1080,
-  "width": 1080,
-  "introId": null,
-  "outroId": null,
-  "isTransparent": false,
-  "AddId": "",
-  "volume": 1,
-  "noBlur": false,
-  "month": "january",
-  "isMultipleTemplate": false,
-  "previews": [],
-   "id": "oo0023fgdshjdks",
-      "templateId": "oo0023fgdshjdks"
-}
-
-  ],
   "p_nauto_jobs": [
-       {
+    {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -100,9 +205,7 @@
       "name": "09-job-portrait-template-feature",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tzxYu_1759151256617_09-job-portrait-template-feature.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_J7Jzh_1759151256616_09-job-portrait-template-feature.jpg",
       "imageType": "Post 4:5",
@@ -124,18 +227,12 @@
       "id": "HEkCVr1begMl8mdoKburh",
       "templateId": "HEkCVr1begMl8mdoKburh"
     },
-       {
+    {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -167,9 +264,7 @@
       "name": "09-job-portrait-template-feature",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tzxYu_1759151256617_09-job-portrait-template-feature.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_J7Jzh_1759151256616_09-job-portrait-template-feature.jpg",
       "imageType": "Post 4:5",
@@ -191,18 +286,12 @@
       "id": "HEkCVr1begMl8mdoKburh",
       "templateId": "HEkCVr1begMl8mdoKburh"
     },
-       {
+    {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -234,9 +323,7 @@
       "name": "01-job-square-template-feature",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9vC0p_1759149704698_01-job-square-template-feature.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_EpiZS_1759149704697_01-job-square-template-feature.jpg",
       "imageType": "Instagram Posts",
@@ -254,23 +341,17 @@
       "volume": 1,
       "month": "january",
       "isMultipleTemplate": true,
-      "variantCount":2,
+      "variantCount": 2,
       "previews": [],
       "id": "_rbRG1pGNghSQBg9E0yh0",
       "templateId": "_rbRG1pGNghSQBg9E0yh0"
     },
-       {
+    {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -302,9 +383,7 @@
       "name": "01-job-square-template-feature",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9vC0p_1759149704698_01-job-square-template-feature.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_EpiZS_1759149704697_01-job-square-template-feature.jpg",
       "imageType": "Instagram Posts",
@@ -322,23 +401,17 @@
       "volume": 1,
       "month": "january",
       "isMultipleTemplate": false,
-      "variantCount":2,
+      "variantCount": 2,
       "previews": [],
       "id": "_rbRG1pGNghSQBg9E0yh0",
       "templateId": "_rbRG1pGNghSQBg9E0yh0"
     },
-       {
+    {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -370,9 +443,7 @@
       "name": "01-job-story-template-feature-v3",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_V3OcS_1758894432928_01-job-story-template-feature-v3.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FdBru_1758894432927_01-job-story-template-feature-v3.jpg",
       "imageType": "Post 4:5",
@@ -394,18 +465,12 @@
       "id": "ErZOXd_0xwzVSbe9HuFwA",
       "templateId": "ErZOXd_0xwzVSbe9HuFwA"
     },
-        {
+    {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -437,9 +502,7 @@
       "name": "01-job-story-template-feature-v3",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_V3OcS_1758894432928_01-job-story-template-feature-v3.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FdBru_1758894432927_01-job-story-template-feature-v3.jpg",
       "imageType": "Post 4:5",
@@ -461,18 +524,12 @@
       "id": "ErZOXd_0xwzVSbe9HuFwA",
       "templateId": "ErZOXd_0xwzVSbe9HuFwA"
     },
-      {
+    {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -504,9 +561,7 @@
       "name": "01-job-story-template-feature-v1-v2",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SnDHH_1758894073912_01-job-story-template-feature-v1-v2.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_eadL0_1758894073910_01-job-story-template-feature-v1-v2.jpg",
       "imageType": "Instagram Stories",
@@ -524,23 +579,17 @@
       "volume": 1,
       "month": "january",
       "isMultipleTemplate": true,
-      "variantCount":2,
+      "variantCount": 2,
       "previews": [],
       "id": "yvQL84Ro6HgrN63qW8Aty",
       "templateId": "yvQL84Ro6HgrN63qW8Aty"
     },
-      {
+    {
       "version": 2,
       "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -572,9 +621,7 @@
       "name": "01-job-story-template-feature-v1-v2",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": [
-        "p_nauto_jobs"
-      ],
+      "category": ["p_nauto_jobs"],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SnDHH_1758894073912_01-job-story-template-feature-v1-v2.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_eadL0_1758894073910_01-job-story-template-feature-v1-v2.jpg",
       "imageType": "Instagram Stories",
@@ -592,7 +639,7 @@
       "volume": 1,
       "month": "january",
       "isMultipleTemplate": false,
-      "variantCount":2,
+      "variantCount": 2,
       "previews": [],
       "id": "yvQL84Ro6HgrN63qW8Aty",
       "templateId": "yvQL84Ro6HgrN63qW8Aty"
