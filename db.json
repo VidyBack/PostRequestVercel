@@ -1,76 +1,27 @@
 {
   "p_ecomFeature": [
-    {
+     {
       "version": 1,
       "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iQUIl_1756901839889_Happy Everyday.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-       "id": "ATaHKN2EAj2LBZ7qi-X7D-olom",
-      "templateId": "ATaHKN2EAj2LBZ7qi-X7D-olom",
-      "createdOn": "2025-09-29T13:04:35.814Z",
-      "extraComps": [
-        { "index": 5, "compId": "1705403061437_21-brandoutro-story-Design 3" }
+      "bgVideoUrl": [
+        ""
       ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_gFcBV_1759151072401_40-display-ads-story-features-nobrandcolors.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
+      "fontUrl": [
+        ""
       ],
-      "type": "Instagram Stories",
-      "name": "40-display-ads-story-features-nobrandcolors",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": ["p_ecomFeature"],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tqThq_1759151072405_40-display-ads-story-features-nobrandcolors.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_5IKM7_1759151072403_40-display-ads-story-features-nobrandcolors.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 1,
-      "noBlur": false,
-      "month": "january",
-      "isMultipleTemplate": false,
-      "previews": []
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-       "id": "ATaHKN2EAj2LBZ7qi-X7D-lamal",
-      "templateId": "ATaHKN2EAj2LBZ7qi-X7D-lamal",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Dll4J_1697456631840_mixkit-babe-783.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
       "createdOn": "2025-09-29T12:57:40.337Z",
       "extraComps": [
-        { "index": 5, "compId": "1705403061437_21-brandoutro-story-Design 3" }
+        {
+          "index": 5,
+          "compId": "1705403061437_21-brandoutro-story-Design 3"
+        }
       ],
       "widgetsDefinition": [
         {
@@ -92,7 +43,9 @@
       "name": "45-new-arrival-story-features-nobrandcolors",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": ["p_ecomFeature"],
+      "category": [
+        "p_ecomFeature"
+      ],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zPoRs_1759150654117_45-new-arrival-story-features-nobrandcolors.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XUK_Q_1759150654110_45-new-arrival-story-features-nobrandcolors.jpg",
       "imageType": "Instagram Stories",
@@ -110,20 +63,33 @@
       "noBlur": false,
       "month": "january",
       "isMultipleTemplate": false,
-      "previews": []
+      "previews": [],
+      "id": "b1hEboDReqTgIbcG6yl3j",
+      "templateId": "b1hEboDReqTgIbcG6yl3j"
     },
-    {
+     {
       "version": 1,
       "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OI2st_1756464032591_A Special Feeling 1087.mp3",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iQUIl_1756901839889_Happy Everyday.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2025-09-29T06:34:48.198Z",
-      "extraComps": [{ "index": 5, "compId": "1705581866638_23 Outro Post" }],
+      "createdOn": "2025-09-29T13:04:35.814Z",
+      "extraComps": [
+        {
+          "index": 5,
+          "compId": "1705403061437_21-brandoutro-story-Design 3"
+        }
+      ],
       "widgetsDefinition": [
         {
           "mappingKeyMandatory": false,
@@ -133,7 +99,275 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Ldhe9_1759127684518_08-new-arrival-square-features.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_gFcBV_1759151072401_40-display-ads-story-features-nobrandcolors.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "40-display-ads-story-features-nobrandcolors",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_ecomFeature"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tqThq_1759151072405_40-display-ads-story-features-nobrandcolors.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_5IKM7_1759151072403_40-display-ads-story-features-nobrandcolors.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "SF6T0hN78fhXGnK0CHf0R",
+      "templateId": "SF6T0hN78fhXGnK0CHf0R"
+    },
+       {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_9hmP-_1702275647929_mixkit-the-hamptons-331-updated.mp3.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-09-30T06:45:04.813Z",
+      "extraComps": [
+        {
+          "index": 5,
+          "compId": "1705581105932_23 Outro Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_JD515_1759214700848_19-new-arrival-story-k-features.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "19-new-arrival-story-k-features",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_ecomFeature"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_vdHtS_1759214700856_19-new-arrival-story-k-features.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6wefs_1759214700852_19-new-arrival-story-k-features.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "PHXSPogKkjb0g07sCU2ec",
+      "templateId": "PHXSPogKkjb0g07sCU2ec"
+    },
+     {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_1zuyG_1719921496277_young-trizzy-02-431.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-09-30T10:45:20.679Z",
+      "extraComps": [
+        {
+          "index": 5,
+          "compId": "1705578045857_22 Outro Portrait"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_HUhYu_1759229116945_31-new-arrival-portrait-features-Nobrand-colors.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "31-new-arrival-portrait-features-Nobrand-colors",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_ecomFeature"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fiAaJ_1759229116950_31-new-arrival-portrait-features-Nobrand-colors.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_BCM4X_1759229116947_31-new-arrival-portrait-features-Nobrand-colors.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "3aftjCZtowoYQGuQZ43Fa",
+      "templateId": "3aftjCZtowoYQGuQZ43Fa"
+    },
+      {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_WwXKt_1726052481503_please-816.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-09-30T11:57:17.089Z",
+      "extraComps": [
+        {
+          "index": 5,
+          "compId": "1705581297322_23 Outro Portrait"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_XGV7Q_1759233432741_21-most-popular-portrait-features-nobrandcolors.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "21-most-popular-portrait-features-nobrandcolors",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_ecomFeature"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_m6K7n_1759233432750_21-most-popular-portrait-features-nobrandcolors.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_HoDM7_1759233432746_21-most-popular-portrait-features-nobrandcolors.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "4QBaDQ7h2-gGJkEA3kIot",
+      "templateId": "4QBaDQ7h2-gGJkEA3kIot"
+    },
+     {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_7qWKv_1719918137774_island-beat-250.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-09-26T10:39:19.628Z",
+      "extraComps": [
+        {
+          "index": 5,
+          "compId": "1705406548658_21-outro-post-with-elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_9qy1__1758883155886_13-display-ads-square-post.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -141,12 +375,14 @@
         }
       ],
       "type": "Instagram Posts",
-      "name": "08-new-arrival-square-features",
+      "name": "13-display-ads-square-post",
       "brandEnabled": false,
       "brandType": "X1",
-      "category": ["p_ecomFeature"],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_BDCiO_1759127684522_08-new-arrival-square-features.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-k0y8_1759127684519_08-new-arrival-square-features.jpg",
+      "category": [
+        "p_ecomFeature"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_DlKli_1758883155894_13-display-ads-square-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ieBWH_1758883155891_13-display-ads-square-post.jpg",
       "imageType": "Instagram Posts",
       "outroType": null,
       "introType": null,
@@ -163,9 +399,76 @@
       "month": "january",
       "isMultipleTemplate": false,
       "previews": [],
-      "id": "oo0023fgdshjdks",
-      "templateId": "oo0023fgdshjdks"
-    }
+      "id": "9Uf_7PFVIvaJsSIQssUJl",
+      "templateId": "9Uf_7PFVIvaJsSIQssUJl"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OI2st_1756464032591_A Special Feeling 1087.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-09-30T12:48:43.914Z",
+      "extraComps": [
+        {
+          "index": 5,
+          "compId": "1705581866638_23 Outro Post"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_gd5e-_1759236520149_08-new-arrival-square-features-nobrandcolors.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "08-new-arrival-square-features-nobrandcolors",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_ecomFeature"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_O4fNo_1759236520157_08-new-arrival-square-features-nobrandcolors.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qbPH5_1759236520154_08-new-arrival-square-features-nobrandcolors.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "JUk8mLrYLdPWfLljO0nt5",
+      "templateId": "JUk8mLrYLdPWfLljO0nt5"
+    },
   ],
   "p_nauto_jobs": [
      {
