@@ -938,6 +938,286 @@
       "id": "ZBOkRSF_3rutDahBcWYw_",
       "templateId": "ZBOkRSF_3rutDahBcWYw_"
     },
+
+
+     {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-10-07T11:17:17.240Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_y6Vv5_1759835829062_14-job-portrait-template-feature.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "14-job-portrait-template-feature",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_jobs"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_W3kKH_1759835829066_14-job-portrait-template-feature.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wY55G_1759835829064_14-job-portrait-template-feature.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": true,
+      "previews": [],
+      "id": "1umxxYDksa2RjBm-qfhQT",
+      "templateId": "1umxxYDksa2RjBm-qfhQT"
+    },
+     {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-10-07T11:17:17.240Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_y6Vv5_1759835829062_14-job-portrait-template-feature.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "14-job-portrait-template-feature",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_jobs"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_W3kKH_1759835829066_14-job-portrait-template-feature.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wY55G_1759835829064_14-job-portrait-template-feature.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "1umxxYDksa2RjBm-qfhQT",
+      "templateId": "1umxxYDksa2RjBm-qfhQT"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-10-07T11:10:33.946Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_IzDXI_1759835430142_13-job-portrait-template-feature.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "13-job-portrait-template-feature",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_jobs"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pLoN1_1759835430147_13-job-portrait-template-feature.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2yJRB_1759835430145_13-job-portrait-template-feature.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": true,
+      "previews": [],
+      "id": "sMuPOdDLCRlwmI0ga4mMM",
+      "templateId": "sMuPOdDLCRlwmI0ga4mMM"
+    },
+     {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2025-10-07T11:10:33.946Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_IzDXI_1759835430142_13-job-portrait-template-feature.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "13-job-portrait-template-feature",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_jobs"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pLoN1_1759835430147_13-job-portrait-template-feature.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2yJRB_1759835430145_13-job-portrait-template-feature.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "sMuPOdDLCRlwmI0ga4mMM",
+      "templateId": "sMuPOdDLCRlwmI0ga4mMM"
+    },
+
+
+
+
+
+
+
+
+
+
     {
       "version": 2,
       "gifUrl": "",
