@@ -17873,6 +17873,7 @@
       "AddId": "",
       "volume": 1,
       "noBlur": false,
+      "date":30,
       "month": "november",
       "isMultipleTemplate": false,
       "previews": [],
@@ -17943,6 +17944,7 @@
       "month": "november",
       "isMultipleTemplate": false,
       "previews": [],
+      "date":30,
       "id": "lEAqFYHVYpvjkGEryJLFE",
       "templateId": "lEAqFYHVYpvjkGEryJLFE"
     },
@@ -18010,6 +18012,7 @@
       "month": "november",
       "isMultipleTemplate": false,
       "previews": [],
+      "date":30,
       "id": "4CkBDroO0zcOZCbzGta1k",
       "templateId": "4CkBDroO0zcOZCbzGta1k"
     },
@@ -18076,6 +18079,7 @@
       "noBlur": false,
       "month": "december",
       "isMultipleTemplate": false,
+      "date":30,
       "previews": [],
       "id": "Izm9xQnwtPMMEUK4B0UUK",
       "templateId": "Izm9xQnwtPMMEUK4B0UUK"
@@ -18144,6 +18148,7 @@
       "month": "december",
       "isMultipleTemplate": false,
       "previews": [],
+      "date":30,
       "id": "B1eH0lOxvMs3hst6jcCnR",
       "templateId": "B1eH0lOxvMs3hst6jcCnR"
     },
