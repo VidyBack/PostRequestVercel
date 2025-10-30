@@ -5083,64 +5083,8 @@
   "isMultipleTemplate": false,
   "previews": []
 },
-{
-  "version": 2,
-  "gifUrl": "",
-  "bgVideoUrl": [""],
-  "fontUrl": [""],
-  "bgImageUrl": [""],
-  "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-  "fillEnabled": true,
-  "forWebsites": [],
-  "pro": false,
-  "createdOn": "2025-10-28T11:03:02.900Z",
-  "extraComps": [
-    { "index": 3, "compId": "1705320145920_19-brnad Outro-with elements" }
-  ],
-  "widgetsDefinition": [
-    {
-      "mappingKeyMandatory": false,
-      "Height": "100%",
-      "Width": "100%",
-      "StartTime": 0,
-      "EndTime": -1,
-      "URLS": [],
-      "mappingKeyValue": "",
-      "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_PSb6C_1761649379974_01-promotional-story-template.json",
-      "X": "0.0%",
-      "Y": "0.0%",
-      "type": "SVG_SINGLE",
-      "duration": 10
-    }
-  ],
-  "type": "Instagram Stories",
-  "name": "01-promotional-story-template",
-  "brandEnabled": false,
-  "variantCount":2,
-  "brandType": "X1",
-  "category": ["p_basicPromo"],
-  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Yopz4_1761649379978_01-promotional-story-template.mp4",
-  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Czedr_1761649379977_01-promotional-story-template.jpg",
-  "imageType": "1200x800",
-  "outroType": null,
-  "introType": null,
-  "Height": 1920,
-  "Width": 1080,
-  "height": 1920,
-  "width": 1080,
-  "introId": null,
-  "outroId": null,
-  "isTransparent": false,
-  "AddId": "",
-  "noBlur": false,
-  "volume": 1,
-  "month": "january",
-  "id": "nBNoa1q5a-as-gniLpzLtMRJ",
-      "templateId": "nBNoa1q5a-as-gniLpzLtMRJ",
-  "isMultipleTemplate": false,
-  "previews": []
-}
-,
+
+
 {
 	"version": 2,
 	"gifUrl": "",
@@ -5281,65 +5225,8 @@
       "templateId": "ftrNJ9_tG7_00Hu5rYcpvQp",
 	"previews": []
 },
-{
-  "version": 2,
-  "gifUrl": "",
-  "bgVideoUrl": [""],
-  "fontUrl": [""],
-  "bgImageUrl": [""],
-  "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-  "fillEnabled": true,
-  "forWebsites": [],
-  "pro": false,
-  "createdOn": "2025-10-28T11:03:02.900Z",
-  "extraComps": [
-    { "index": 3, "compId": "1705320145920_19-brnad Outro-with elements" }
-  ],
-  "widgetsDefinition": [
-    {
-      "mappingKeyMandatory": false,
-      "Height": "100%",
-      "Width": "100%",
-      "StartTime": 0,
-      "EndTime": -1,
-      "URLS": [],
-      "mappingKeyValue": "",
-      "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_PSb6C_1761649379974_01-promotional-story-template.json",
-      "X": "0.0%",
-      "Y": "0.0%",
-      "type": "SVG_SINGLE",
-      "duration": 10
-    }
-  ],
-  "type": "Instagram Stories",
-  "name": "01-promotional-story-template",
-  "brandEnabled": false,
-  "variantCount":2,
-  "brandType": "X1",
-  "category": ["p_basicPromo"],
-  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Yopz4_1761649379978_01-promotional-story-template.mp4",
-  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Czedr_1761649379977_01-promotional-story-template.jpg",
-  "imageType": "1200x800",
-  "outroType": null,
-  "introType": null,
-  "Height": 1920,
-  "Width": 1080,
-  "height": 1920,
-  "width": 1080,
-  "introId": null,
-  "outroId": null,
-  "isTransparent": false,
-  "AddId": "",
-  "noBlur": false,
-  "volume": 1,
-  "month": "january",
-  
-  "id": "nBNoa1q5a-as-gniLpzLtMRJ",
-      "templateId": "nBNoa1q5a-as-gniLpzLtMRJ",
-  "isMultipleTemplate": true,
-  "previews": []
-}
-,
+
+
 {
 	"version": 2,
 	"gifUrl": "",
