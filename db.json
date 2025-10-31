@@ -17957,7 +17957,9 @@
       "isMultipleTemplate": false,
       "previews": []
     },
-    {
+   
+
+      {
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -17969,15 +17971,15 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_YE1RN_1727430981633_mixkit-billy-the-kid-399.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_CFhYT_1727431390175_howling-under-the-moon-908.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2025-10-14T11:22:25.849Z",
+      "createdOn": "2025-10-31T08:07:34.059Z",
       "extraComps": [
         {
           "index": 2,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
+          "compId": "1759221727225_01-branoutro-portrait-transparent-black-dynamic-image-testing.json"
         }
       ],
       "widgetsDefinition": [
@@ -17989,7 +17991,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ZHgNr_1760440940911_41-halloween-portrait-greeting.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_BesZW_1761898050521_43-halloween-portrait-greeting.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -17997,14 +17999,14 @@
         }
       ],
       "type": "Post 4:5",
-      "name": "41-halloween-portrait-greeting",
+      "name": "43-halloween-portrait-greeting",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
         "p_fest"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RdFf6_1760440940916_41-halloween-portrait-greeting.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_704Gz_1760440940914_41-halloween-portrait-greeting.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__hvGc_1761898050525_43-halloween-portrait-greeting.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_skWP5_1761898050523_43-halloween-portrait-greeting.jpg",
       "imageType": "Post 4:5",
       "outroType": null,
       "introType": null,
@@ -18016,14 +18018,13 @@
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "volume": 0.8,
+      "volume": 1,
       "noBlur": false,
       "month": "october",
-      "date": 31,
       "isMultipleTemplate": false,
       "previews": [],
-      "id": "DRzgjtetzjrf47QqmpPHv",
-      "templateId": "DRzgjtetzjrf47QqmpPHv"
+      "id": "xXWRUBQYaMuaoSZBg_ZRO",
+      "templateId": "xXWRUBQYaMuaoSZBg_ZRO"
     },
     {
       "version": 1,
