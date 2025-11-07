@@ -671,71 +671,7 @@
       "id": "3aftjCZtowoYQGuQZ43Fa",
       "templateId": "3aftjCZtowoYQGuQZ43Fa"
     },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_WwXKt_1726052481503_please-816.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-09-30T11:57:17.089Z",
-      "extraComps": [
-        {
-          "index": 5,
-          "compId": "1705581297322_23 Outro Portrait"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_XGV7Q_1759233432741_21-most-popular-portrait-features-nobrandcolors.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "21-most-popular-portrait-features-nobrandcolors",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_ecomFeature"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_m6K7n_1759233432750_21-most-popular-portrait-features-nobrandcolors.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_HoDM7_1759233432746_21-most-popular-portrait-features-nobrandcolors.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 1,
-      "noBlur": false,
-      "month": "january",
-      "isMultipleTemplate": true,
-      "previews": []
-    },
+  
     {
       "version": 1,
       "id": "fhgdjkfghjfks6326636",
