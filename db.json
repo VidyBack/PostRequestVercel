@@ -148646,74 +148646,7 @@
       "id": "wc3yXHet6D5r8DbmnRQGz",
       "templateId": "wc3yXHet6D5r8DbmnRQGz"
     },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_9hmP-_1702275647929_mixkit-the-hamptons-331-updated.mp3.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-04-03T08:56:30.340Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_7fT5N_1743670587098_05-quotes-portrait-updated-n-v2.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "05-quotes-portrait-updated-n-v2",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_quote"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_jhwf4_1743670587103_05-quotes-portrait-updated-n-v2.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xhijF_1743670587099_05-quotes-portrait-updated-n-v2.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 1,
-      "month": "january",
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "2pc-T2sMvXw_u53A4CNZm",
-      "templateId": "2pc-T2sMvXw_u53A4CNZm"
-    },
- 
+   
 {
 	"version": 2,
 	"gifUrl": "",
