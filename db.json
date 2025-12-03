@@ -5851,6 +5851,140 @@
 	"id": "kolthhgioujyns",
 	"previews": []
 },
+{
+	"version": 2,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2025-12-03T10:05:03.617Z",
+	"extraComps": [
+		{
+			"index": 3,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_S-BJM_1764756299916_16-promotional-portrait-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "16-promotional-portrait-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_basicPromo"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_hUUiK_1764756299922_16-promotional-portrait-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_EDJsf_1764756299921_16-promotional-portrait-template.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"noBlur": false,
+	"volume": 1,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "jdfkdonsdgsddvhbuHxsd",
+	"id": "jdfkdonsdgsddvhbuHxsd",
+	"previews": []
+},
+{
+	"version": 2,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2025-12-03T10:05:03.617Z",
+	"extraComps": [
+		{
+			"index": 3,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_S-BJM_1764756299916_16-promotional-portrait-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "16-promotional-portrait-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_basicPromo"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_hUUiK_1764756299922_16-promotional-portrait-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_EDJsf_1764756299921_16-promotional-portrait-template.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"noBlur": false,
+	"volume": 1,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "jdfkdonsdgsddvhbuHxsd",
+	"id": "jdfkdonsdgsddvhbuHxsd",
+	"previews": []
+},
     {
       "version": 2,
       "gifUrl": "",
@@ -17347,6 +17481,74 @@
       "previews": []
     },
     {
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Festive/mixkit-a-very-happy-christmas-897.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2025-12-03T06:58:57.727Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_h1onp_1764745132622_03-x-mas-festive-greeting-story.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "03-x-mas-festive-greeting-story",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_fest"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_KRcBb_1764745132626_03-x-mas-festive-greeting-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FUWde_1764745132624_03-x-mas-festive-greeting-story.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "december",
+  "date": 31,
+	"isMultipleTemplate": false,
+	"templateId": "futyolkadHxw6monlik",
+	"id": "futyolkadHxw6monlik",
+	"previews": []
+},
+    {
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [""],
@@ -19979,7 +20181,7 @@
       "noBlur": false,
       "volume": 0.9,
       "month": "december",
-      "date": 31,
+      "date": 30,
       "isMultipleTemplate": false,
       "previews": [],
       "id": "LFMnRTztvgPmIzdWZoE84",
@@ -139882,6 +140084,140 @@
 	"isMultipleTemplate": false,
 	"templateId": "jummasHxw6cQInmj",
 	"id": "jummasHxw6cQInmj",
+	"previews": []
+},
+{
+	"version": 2,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_fUq-B_1719917738202_farewell-to-you-903.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2025-12-02T09:18:05.227Z",
+	"extraComps": [
+		{
+			"index": 3,
+			"compId": "1705581297322_23 Outro Portrait"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Jth8k_1764667082180_09-quote-portrait-new-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "09-quote-portrait-new-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_nauto_quote"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wIAVB_1764667082186_09-quote-portrait-new-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Z7t7L_1764667082183_09-quote-portrait-new-template.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"noBlur": false,
+	"volume": 1,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "sdsdvhbuHxw6mons",
+	"id": "sdsdvhbuHxw6mons",
+	"previews": []
+},
+{
+	"version": 2,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_AJXRT_1718105419993_g-eazy-nba-type-403.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2025-12-02T11:09:50.459Z",
+	"extraComps": [
+		{
+			"index": 3,
+			"compId": "1705578045857_22 Outro Portrait"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_d64eS_1764673786665_10-quote-portrait-new-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "10-quote-portrait-new-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_nauto_quote"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OArKV_1764673786669_10-quote-portrait-new-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_h9DwF_1764673786666_10-quote-portrait-new-template.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"noBlur": false,
+	"volume": 1,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "gujiokoldHxw6monls",
+	"id": "gujiokoldHxw6monls",
 	"previews": []
 },
 {
