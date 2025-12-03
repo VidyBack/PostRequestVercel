@@ -140192,7 +140192,7 @@
 			"duration": 10
 		}
 	],
-	"type": "Instagram Stories",
+	"type": "Post 4:5",
 	"name": "09-quote-portrait-new-template",
 	"brandEnabled": false,
 	"brandType": "X1",
@@ -140201,12 +140201,12 @@
 	],
 	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_4esza_1764760292501_09-quote-portrait-new-template.mp4",
 	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QRAkp_1764760292497_09-quote-portrait-new-template.jpg",
-	"imageType": "Instagram Stories",
+	"imageType": "Post 4:5",
 	"outroType": null,
 	"introType": null,
-	"Height": 1920,
+	"Height": 1350,
 	"Width": 1080,
-	"height": 1920,
+	"height": 1350,
 	"width": 1080,
 	"introId": null,
 	"outroId": null,
@@ -140216,8 +140216,8 @@
 	"volume": 1,
 	"month": "january",
 	"isMultipleTemplate": false,
-	"templateId": "sdsddHxw6cQInsss",
-	"id": "sdsddHxw6cQInsss",
+	"templateId": "mddddHxw6cQInsss",
+	"id": "mddddHxw6cQInsss",
 	"previews": []
 },
 {
