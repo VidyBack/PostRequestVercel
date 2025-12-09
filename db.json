@@ -5841,6 +5841,146 @@
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": false,
+	"createdOn": "2025-12-09T13:14:18.105Z",
+	"extraComps": [
+		{
+			"index": 3,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_DqkJq_1765286054642_05-linkedin-portrait-textual-template-updated-new.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "05-linkedin-portrait-textual-template-updated-new",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_basicPromo"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZrURH_1765286054646_05-linkedin-portrait-textual-template-updated-new.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VU8rW_1765286054645_05-linkedin-portrait-textual-template-updated-new.jpg",
+	"thumbUrl_v2":"https://cdn.hootout.com/VidyBack-videos/05-linkedin-portrait-textual-template-updated-new02.jpg",
+	"thumbUrl_v3":"https://cdn.hootout.com/VidyBack-videos/05-linkedin-portrait-textual-template-updated-new03.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"noBlur": false,
+	"volume": 1,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"variantCount": 3,
+	"templateId": "ryuuikolkadHxw6cfgujd",
+	"id": "ryuuikolkadHxw6cfgujd",
+	"previews": []
+},
+{
+	"version": 2,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2025-12-09T13:14:18.105Z",
+	"extraComps": [
+		{
+			"index": 3,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_DqkJq_1765286054642_05-linkedin-portrait-textual-template-updated-new.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "05-linkedin-portrait-textual-template-updated-new",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_basicPromo"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZrURH_1765286054646_05-linkedin-portrait-textual-template-updated-new.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VU8rW_1765286054645_05-linkedin-portrait-textual-template-updated-new.jpg",
+	"thumbUrl_v2":"https://cdn.hootout.com/VidyBack-videos/05-linkedin-portrait-textual-template-updated-new02.jpg",
+	"thumbUrl_v3":"https://cdn.hootout.com/VidyBack-videos/05-linkedin-portrait-textual-template-updated-new03.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"noBlur": false,
+	"volume": 1,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"variantCount": 3,
+	"templateId": "ryuuikolkadHxw6cfgujd",
+	"id": "ryuuikolkadHxw6cfgujd",
+	"previews": []
+},
+{
+	"version": 2,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
 	"createdOn": "2025-12-08T09:54:35.109Z",
 	"extraComps": [
 		{
@@ -6158,147 +6298,6 @@
       "id": "dfsyyu5M--ZCNX7ci0affgfs",
       "previews": []
     },
-   
-{
-	"version": 2,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": false,
-	"createdOn": "2025-12-09T06:04:32.762Z",
-	"extraComps": [
-		{
-			"index": 3,
-			"compId": "1705322724854_19 Brand Outro portrait with elements "
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_u7uIA_1765260268140_05-linkedin-portrait-textual-template-updated-new.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Post 4:5",
-	"name": "05-linkedin-portrait-textual-template-updated-new",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_basicPromo"
-	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_oYZ_N_1765260268145_05-linkedin-portrait-textual-template-updated-new.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZyJZa_1765260268143_05-linkedin-portrait-textual-template-updated-new.jpg",
-	"thumbUrl_v2":"https://cdn.hootout.com/VidyBack-videos/05-linkedin-portrait-textual-template-updated-new02.jpg",
-	"thumbUrl_v3":"https://cdn.hootout.com/VidyBack-videos/05-linkedin-portrait-textual-template-updated-new03.jpg",
-	"imageType": "Instagram Posts",
-	"outroType": null,
-	"introType": null,
-	"Height": 1350,
-	"Width": 1080,
-	"height": 1350,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"noBlur": false,
-	"volume": 1,
-	"month": "january",
-	"isMultipleTemplate": true,
-	"variantCount": 3,
-	"id": "4E5tyzfr1yp3rDLLhKHDF",
-	"templateId": "4E5tyzfr1yp3rDLLhKHDF",
-	"previews": []
-},
-{
-	"version": 2,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": false,
-	"createdOn": "2025-12-09T06:04:32.762Z",
-	"extraComps": [
-		{
-			"index": 3,
-			"compId": "1705322724854_19 Brand Outro portrait with elements "
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_u7uIA_1765260268140_05-linkedin-portrait-textual-template-updated-new.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Post 4:5",
-	"name": "05-linkedin-portrait-textual-template-updated-new",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_basicPromo"
-	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_oYZ_N_1765260268145_05-linkedin-portrait-textual-template-updated-new.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZyJZa_1765260268143_05-linkedin-portrait-textual-template-updated-new.jpg",
-	"thumbUrl_v2":"https://cdn.hootout.com/VidyBack-videos/05-linkedin-portrait-textual-template-updated-new02.jpg",
-	"thumbUrl_v3":"https://cdn.hootout.com/VidyBack-videos/05-linkedin-portrait-textual-template-updated-new03.jpg",
-	"imageType": "Instagram Posts",
-	"outroType": null,
-	"introType": null,
-	"Height": 1350,
-	"Width": 1080,
-	"height": 1350,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"noBlur": false,
-	"volume": 1,
-	"month": "january",
-	"isMultipleTemplate": false,
-	"variantCount": 3,
-	"id": "4E5tyzfr1yp3rDLLhKHDF",
-	"templateId": "4E5tyzfr1yp3rDLLhKHDF",
-	"previews": []
-},
     {
 	"version": 2,
 	"gifUrl": "",
@@ -148452,146 +148451,6 @@
 	"variantCount": 3,
 	"previews": []
 },
-{
-	"version": 2,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": false,
-	"createdOn": "2025-12-09T06:04:32.762Z",
-	"extraComps": [
-		{
-			"index": 3,
-			"compId": "1705322724854_19 Brand Outro portrait with elements "
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_u7uIA_1765260268140_05-linkedin-portrait-textual-template-updated-new.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Post 4:5",
-	"name": "05-linkedin-portrait-textual-template-updated-new",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_linkedin"
-	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_oYZ_N_1765260268145_05-linkedin-portrait-textual-template-updated-new.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZyJZa_1765260268143_05-linkedin-portrait-textual-template-updated-new.jpg",
-	"thumbUrl_v2":"https://cdn.hootout.com/VidyBack-videos/05-linkedin-portrait-textual-template-updated-new02.jpg",
-	"thumbUrl_v3":"https://cdn.hootout.com/VidyBack-videos/05-linkedin-portrait-textual-template-updated-new03.jpg",
-	"imageType": "Instagram Posts",
-	"outroType": null,
-	"introType": null,
-	"Height": 1350,
-	"Width": 1080,
-	"height": 1350,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"noBlur": false,
-	"volume": 1,
-	"month": "january",
-	"isMultipleTemplate": true,
-	"variantCount": 3,
-	"id": "4E5tyzfr1yp3rDLLhKHDF",
-	"templateId": "4E5tyzfr1yp3rDLLhKHDF",
-	"previews": []
-},
-{
-	"version": 2,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": false,
-	"createdOn": "2025-12-09T06:04:32.762Z",
-	"extraComps": [
-		{
-			"index": 3,
-			"compId": "1705322724854_19 Brand Outro portrait with elements "
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_u7uIA_1765260268140_05-linkedin-portrait-textual-template-updated-new.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Post 4:5",
-	"name": "05-linkedin-portrait-textual-template-updated-new",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_linkedin"
-	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_oYZ_N_1765260268145_05-linkedin-portrait-textual-template-updated-new.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZyJZa_1765260268143_05-linkedin-portrait-textual-template-updated-new.jpg",
-	"thumbUrl_v2":"https://cdn.hootout.com/VidyBack-videos/05-linkedin-portrait-textual-template-updated-new02.jpg",
-	"thumbUrl_v3":"https://cdn.hootout.com/VidyBack-videos/05-linkedin-portrait-textual-template-updated-new03.jpg",
-	"imageType": "Instagram Posts",
-	"outroType": null,
-	"introType": null,
-	"Height": 1350,
-	"Width": 1080,
-	"height": 1350,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"noBlur": false,
-	"volume": 1,
-	"month": "january",
-	"isMultipleTemplate": false,
-	"variantCount": 3,
-	"id": "4E5tyzfr1yp3rDLLhKHDF",
-	"templateId": "4E5tyzfr1yp3rDLLhKHDF",
-	"previews": []
-},
     {
       "version": 2,
       "gifUrl": "",
@@ -148835,6 +148694,146 @@
       "id": "mhCe9YicWlT-QeE1Z2cH5",
       "templateId": "mhCe9YicWlT-QeE1Z2cH5"
     },
+    {
+	"version": 2,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2025-12-09T13:14:18.105Z",
+	"extraComps": [
+		{
+			"index": 3,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_DqkJq_1765286054642_05-linkedin-portrait-textual-template-updated-new.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "05-linkedin-portrait-textual-template-updated-new",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_linkedin"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZrURH_1765286054646_05-linkedin-portrait-textual-template-updated-new.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VU8rW_1765286054645_05-linkedin-portrait-textual-template-updated-new.jpg",
+	"thumbUrl_v2":"https://cdn.hootout.com/VidyBack-videos/05-linkedin-portrait-textual-template-updated-new02.jpg",
+	"thumbUrl_v3":"https://cdn.hootout.com/VidyBack-videos/05-linkedin-portrait-textual-template-updated-new03.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"noBlur": false,
+	"volume": 1,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"variantCount": 3,
+	"templateId": "ryuuikolkadHxw6cfgujd",
+	"id": "ryuuikolkadHxw6cfgujd",
+	"previews": []
+},
+{
+	"version": 2,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2025-12-09T13:14:18.105Z",
+	"extraComps": [
+		{
+			"index": 3,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_DqkJq_1765286054642_05-linkedin-portrait-textual-template-updated-new.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "05-linkedin-portrait-textual-template-updated-new",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_linkedin"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZrURH_1765286054646_05-linkedin-portrait-textual-template-updated-new.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VU8rW_1765286054645_05-linkedin-portrait-textual-template-updated-new.jpg",
+	"thumbUrl_v2":"https://cdn.hootout.com/VidyBack-videos/05-linkedin-portrait-textual-template-updated-new02.jpg",
+	"thumbUrl_v3":"https://cdn.hootout.com/VidyBack-videos/05-linkedin-portrait-textual-template-updated-new03.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"noBlur": false,
+	"volume": 1,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"variantCount": 3,
+	"templateId": "ryuuikolkadHxw6cfgujd",
+	"id": "ryuuikolkadHxw6cfgujd",
+	"previews": []
+},
 {
 	"version": 2,
 	"gifUrl": "",
