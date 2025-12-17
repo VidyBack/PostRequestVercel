@@ -75,7 +75,7 @@
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": false,
-	"createdOn": "2025-12-15T11:34:45.418Z",
+	"createdOn": "2025-12-17T06:26:56.270Z",
 	"extraComps": [
 		{
 			"index": 4,
@@ -91,7 +91,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_eLX4e_1765798480100_01-reel-type-post-template-new.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_DnMSs_1765952811735_01-reel-type-post-template-new.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -105,8 +105,8 @@
 	"category": [
 		"p_Image"
 	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__dfBK_1765798480106_01-reel-type-post-template-new.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_BctTM_1765798480103_01-reel-type-post-template-new.jpg",
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XuM4t_1765952811739_01-reel-type-post-template-new.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_A6ksW_1765952811737_01-reel-type-post-template-new.jpg",
 	"imageType": "Instagram Posts",
 	"outroType": null,
 	"introType": null,
@@ -122,8 +122,142 @@
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": false,
-	"templateId": "scornpiodsgg67ghuk",
-	"id": "scornpiodsgg67ghuk",
+	"templateId": "mokolornpioshuk",
+	"id": "mokolornpioshuk",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZY8bf_1735207473711_hey-782 .mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2025-12-17T06:29:22.398Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_E6Ak5_1765952957146_03-reel-type-story-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "03-reel-type-story-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_Image"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_JRdpm_1765952957150_03-reel-type-story-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8txK3_1765952957148_03-reel-type-story-template.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "loljfdlornpioshuk",
+	"id": "loljfdlornpioshuk",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_IkuA4_1718105998087_this-our-year-happy-new-year-927.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2025-12-16T12:23:06.765Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_0eHaX_1765887782112_02-reel-type-story-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "02-reel-type-story-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_Image"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_dlL-8_1765887782118_02-reel-type-story-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__jAtA_1765887782115_02-reel-type-story-template.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "gujhlornpidsdvgukikl",
+	"id": "gujhlornpidsdvgukikl",
 	"previews": []
 },
  {
@@ -106887,73 +107021,6 @@
 	"id": "koljtataHxw6ccvg",
 	"previews": []
 },
-    {
-	"version": 1,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_XZA4S_1671198521738_hollidays-690-christmas.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": false,
-	"createdOn": "2025-11-14T13:21:04.941Z",
-	"extraComps": [
-		{
-			"index": 4,
-			"compId": "1705322724854_19 Brand Outro portrait with elements "
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_0kncB_1763126461023_35-christmas-new-arrival-portrait-templatenew.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Post 4:5",
-	"name": "35-christmas-new-arrival-portrait-templatenew",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_na"
-	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zxyLE_1763126461027_35-christmas-new-arrival-portrait-templatenew.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_krfN4_1763126461025_35-christmas-new-arrival-portrait-templatenew.jpg",
-	"imageType": "Instagram Posts",
-	"outroType": null,
-	"introType": null,
-	"Height": 1350,
-	"Width": 1080,
-	"height": 1350,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"volume": 1,
-	"noBlur": false,
-	"month": "january",
-	"isMultipleTemplate": true,
-	"templateId": "kgflkadHxw6cQInmn",
-    "id": "kgflkadHxw6cQInmn",
-	"previews": []
-},
 {
 	"version": 1,
 	"gifUrl": "",
@@ -106966,11 +107033,11 @@
 	"bgImageUrl": [
 		""
 	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_XZA4S_1671198521738_hollidays-690-christmas.mp3",
+	"bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Festive/mixkit-a-very-happy-christmas-897.mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": false,
-	"createdOn": "2025-11-14T13:21:04.941Z",
+	"createdOn": "2025-12-16T06:22:41.567Z",
 	"extraComps": [
 		{
 			"index": 4,
@@ -106986,7 +107053,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_0kncB_1763126461023_35-christmas-new-arrival-portrait-templatenew.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_D9g-S_1765866158016_35-christmas-new-arrival-portrait-templatenew.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -107000,8 +107067,8 @@
 	"category": [
 		"p_na"
 	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zxyLE_1763126461027_35-christmas-new-arrival-portrait-templatenew.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_krfN4_1763126461025_35-christmas-new-arrival-portrait-templatenew.jpg",
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Pqln1_1765866158019_35-christmas-new-arrival-portrait-templatenew.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yVe1c_1765866158017_35-christmas-new-arrival-portrait-templatenew.jpg",
 	"imageType": "Instagram Posts",
 	"outroType": null,
 	"introType": null,
@@ -107017,8 +107084,75 @@
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": false,
-	"templateId": "kgflkadHxw6cQInmn",
-    "id": "kgflkadHxw6cQInmn",
+	"templateId": "molksnpidsdvgs",
+	"id": "molksnpidsdvgs",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Festive/mixkit-a-very-happy-christmas-897.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2025-12-16T06:22:41.567Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_D9g-S_1765866158016_35-christmas-new-arrival-portrait-templatenew.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "35-christmas-new-arrival-portrait-templatenew",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_na"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Pqln1_1765866158019_35-christmas-new-arrival-portrait-templatenew.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yVe1c_1765866158017_35-christmas-new-arrival-portrait-templatenew.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "molksnpidsdvgs",
+	"id": "molksnpidsdvgs",
 	"previews": []
 },
 {
