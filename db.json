@@ -339,11 +339,78 @@
 	"bgImageUrl": [
 		""
 	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_IkuA4_1718105998087_this-our-year-happy-new-year-927.mp3",
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rl9kO_1758113166162_Celebration.mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": false,
-	"createdOn": "2025-12-16T12:23:06.765Z",
+	"createdOn": "2025-12-18T12:08:59.362Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_IK0hS_1766059734780_03-reel-type-portrait-template-new.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "03-reel-type-portrait-template-new",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_Image"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_16SDm_1766059734785_03-reel-type-portrait-template-new.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XstzR_1766059734782_03-reel-type-portrait-template-new.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "fgflordfhhhgidsdd",
+	"id": "fgflordfhhhgidsdd",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_cVz66_1735207421291_happy-chinese-new-year-1065.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2025-12-18T12:18:29.954Z",
 	"extraComps": [
 		{
 			"index": 4,
@@ -359,7 +426,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_0eHaX_1765887782112_02-reel-type-story-template.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_acOqb_1766060304671_02-reel-type-story-template.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -373,8 +440,8 @@
 	"category": [
 		"p_Image"
 	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_dlL-8_1765887782118_02-reel-type-story-template.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__jAtA_1765887782115_02-reel-type-story-template.jpg",
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Enj0t_1766060304677_02-reel-type-story-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tYKxO_1766060304674_02-reel-type-story-template.jpg",
 	"imageType": "Instagram Stories",
 	"outroType": null,
 	"introType": null,
@@ -390,8 +457,8 @@
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": false,
-	"templateId": "gujhlornpidsdvgukikl",
-	"id": "gujhlornpidsdvgukikl",
+	"templateId": "kujhlornpidsdvgukikl",
+	"id": "kujhlornpidsdvgukikl",
 	"previews": []
 },
  {
