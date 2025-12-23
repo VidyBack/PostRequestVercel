@@ -6868,8 +6868,8 @@
 	"volume": 1,
 	"month": "january",
 	"isMultipleTemplate": true,
-	"templateId": "nmprmn6uiiemkuoik",
-    "id": "nmprmn6uiiemkuoik",
+	"templateId": "nmprmnuiiemkuoik",
+    "id": "nmprmnuiiemkuoik",
 	"previews": []
 },
 {
@@ -7340,8 +7340,8 @@
 	"volume": 1,
 	"month": "january",
 	"isMultipleTemplate": false,
-	"templateId": "nmprmn6uiiemkuoik",
-    "id": "nmprmn6uiiemkuoik",
+	"templateId": "nmprmnuiiemkuoik",
+    "id": "nmprmnuiiemkuoik",
 	"previews": []
 },
 {
@@ -152010,8 +152010,8 @@
 	"name": "23-promotional-portrait-template",
 	"brandEnabled": false,
 	"brandType": "X1",
-  "category": [
-		"p_linkedin"
+	"category": [
+		"p_basicPromo"
 	],
 	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6n1o0_1766478465450_23-promotional-portrait-template.mp4",
 	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ck60n_1766478465447_23-promotional-portrait-template.jpg",
@@ -152029,9 +152029,9 @@
 	"noBlur": false,
 	"volume": 1,
 	"month": "january",
-	"isMultipleTemplate": true,
-	"templateId": "nmprmn6uiiemkuoik",
-    "id": "nmprmn6uiiemkuoik",
+	"isMultipleTemplate": false,
+	"templateId": "nmprmnuiiemkuoik",
+    "id": "nmprmnuiiemkuoik",
 	"previews": []
 },
 {
