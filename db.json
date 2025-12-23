@@ -150,11 +150,11 @@
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": false,
-	"createdOn": "2025-12-23T08:32:19.527Z",
+	"createdOn": "2025-12-23T12:07:26.165Z",
 	"extraComps": [
 		{
 			"index": 4,
-			"compId": "1705396727541_20-brand-outro-story-design 2"
+			"compId": "1705320145920_19-brnad Outro-with elements"
 		}
 	],
 	"widgetsDefinition": [
@@ -166,7 +166,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_k5w1w_1766478734097_08-reel-type-story-template.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_5LJV5_1766491641757_08-reel-type-story-template.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -180,8 +180,8 @@
 	"category": [
 		"p_Image"
 	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_E-cbY_1766478734100_08-reel-type-story-template.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qQWwf_1766478734098_08-reel-type-story-template.jpg",
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_F2wAG_1766491641760_08-reel-type-story-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-0Chs_1766491641759_08-reel-type-story-template.jpg",
 	"imageType": "Instagram Stories",
 	"outroType": null,
 	"introType": null,
@@ -193,15 +193,14 @@
 	"outroId": null,
 	"isTransparent": false,
 	"AddId": "",
-	"volume": 0.9,
+	"volume": 0.8,
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": false,
-	"templateId": "mahfhjikopkhjiok",
-	"id": "mahfhjikopkhjiok",
+	"templateId": "nkolplijhddhsb",
+	"id": "nkolplijhddhsb",
 	"previews": []
 },
-
 {
 	"version": 1,
 	"gifUrl": "",
@@ -218,11 +217,11 @@
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": false,
-	"createdOn": "2025-12-22T11:11:13.788Z",
+	"createdOn": "2025-12-23T11:41:08.697Z",
 	"extraComps": [
 		{
 			"index": 4,
-			"compId": "1705405173163_21-outro-portrait-with-elements"
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
 		}
 	],
 	"widgetsDefinition": [
@@ -234,7 +233,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_mQ807_1766401869716_05-reel-type-portrait-template-new.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_rfsVQ_1766490064878_05-reel-type-portrait-template-new.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -248,8 +247,8 @@
 	"category": [
 		"p_Image"
 	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_4PsWV_1766401869720_05-reel-type-portrait-template-new.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GBcCV_1766401869718_05-reel-type-portrait-template-new.jpg",
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_otpXs_1766490064881_05-reel-type-portrait-template-new.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_WeGen_1766490064880_05-reel-type-portrait-template-new.jpg",
 	"imageType": "Post 4:5",
 	"outroType": null,
 	"introType": null,
@@ -261,12 +260,12 @@
 	"outroId": null,
 	"isTransparent": false,
 	"AddId": "",
-	"volume": 0.7,
+	"volume": 0.8,
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": false,
-	"templateId": "trgduidfuiolpkh",
-	"id": "trgduidfuiolpkh",
+	"templateId": "huolijhddfcolb",
+	"id": "huolijhddfcolb",
 	"previews": []
 },
 {
@@ -289,7 +288,7 @@
 	"extraComps": [
 		{
 			"index": 4,
-			"compId": "1705403061437_21-brandoutro-story-Design 3"
+			"compId": "1705320145920_19-brnad Outro-with elements"
 		}
 	],
 	"widgetsDefinition": [
@@ -490,7 +489,7 @@
 	"extraComps": [
 		{
 			"index": 4,
-			"compId": "1705403061437_21-brandoutro-story-Design 3"
+			"compId": "1705320145920_19-brnad Outro-with elements"
 		}
 	],
 	"widgetsDefinition": [
