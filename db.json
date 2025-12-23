@@ -6867,7 +6867,7 @@
 	"noBlur": false,
 	"volume": 1,
 	"month": "january",
-	"isMultipleTemplate": true,
+	"isMultipleTemplate": false,
 	"templateId": "promffnuioyuikjht",
     "id": "promffnuioyuikjht",
 	"previews": []
