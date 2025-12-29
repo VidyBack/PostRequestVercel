@@ -482,6 +482,73 @@
 	"bgImageUrl": [
 		""
 	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_x6g5h_1719917202471_back-to-you-790.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2025-12-29T08:30:52.001Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705920078168_19 Youtube Outro"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_rfnW0_1766997040868_01-image-gallery-youtube-size-temlplate.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Youtube Videos",
+	"name": "01-image-gallery-youtube-size-temlplate",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_Image"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_uCczi_1766997040876_01-image-gallery-youtube-size-temlplate.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2Ld5t_1766997040874_01-image-gallery-youtube-size-temlplate.jpg",
+	"imageType": "Youtube Videos",
+	"outroType": null,
+	"introType": null,
+	"Height": 1080,
+	"Width": 1920,
+	"height": 1080,
+	"width": 1920,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.6,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "molksnhcvjguhkjhf",
+	"id": "molksnhcvjguhkjhf",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
 	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LwCiT_1756191205340_Dreams of You (till the end 1158).mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
