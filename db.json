@@ -8677,6 +8677,7 @@
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": true,
+  "enabledSecondaryColor":true,
 	"templateId": "mblnwssmsngultrpr",
   "id": "mblnwssmsngultrpr",
 	"previews": []
@@ -9283,6 +9284,7 @@
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": false,
+  "enabledSecondaryColor":true,
 	"templateId": "mblnwssmsngultrpr",
     "id": "mblnwssmsngultrpr",
 	"previews": []
@@ -154507,6 +154509,7 @@
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": true,
+  "enabledSecondaryColor":true,
 	"templateId": "mblnwssmsngultrpr",
     "id": "mblnwssmsngultrpr",
 	"previews": []
