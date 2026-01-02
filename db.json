@@ -33050,6 +33050,140 @@
   ],
   "p_pr": [
     {
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Ry7vI_1719917498446_brothers-love-825.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-01-02T10:09:16.797Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_SApUt_1767348553503_02-star-rating-new-portrait-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "02-star-rating-new-portrait-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_pr"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kcVln_1767348553508_02-star-rating-new-portrait-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_oWJxU_1767348553506_02-star-rating-new-portrait-template.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.8,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "konachnaahdioinn",
+	"id": "konachnaahdioinn",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_lJpPT_1718105538572_its-a-cool-thing-1164.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-01-02T07:28:54.632Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe__ul6c_1767338931221_01-star-rating-new-portrait-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "01-star-rating-new-portrait-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_pr"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6axt0_1767338931224_01-star-rating-new-portrait-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RzPMF_1767338931223_01-star-rating-new-portrait-template.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.7,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "moyldreamsdiomm",
+	"id": "moyldreamsdiomm",
+	"previews": []
+},
+	{
       "latest": true,
       "version": 1,
       "gifUrl": "",
@@ -111148,8 +111282,8 @@
 	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_ttyHi_1717754185790_mixkit-house-vibes-129.mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
-	"pro": true,
-	"createdOn": "2025-12-30T13:17:09.588Z",
+	"pro": false,
+	"createdOn": "2026-01-02T10:19:35.651Z",
 	"extraComps": [
 		{
 			"index": 4,
@@ -111165,7 +111299,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_UZl8J_1767100626398_38-new-arrival-portrait-template.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_pzoYQ_1767349172607_38-new-arrival-portrait-template.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -111179,9 +111313,9 @@
 	"category": [
 		"p_na"
 	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_U60D-_1767100626403_38-new-arrival-portrait-template.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_95Wbn_1767100626400_38-new-arrival-portrait-template.jpg",
-	"imageType": "Post 4:5",
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yuLJA_1767349172611_38-new-arrival-portrait-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bbjn0_1767349172608_38-new-arrival-portrait-template.jpg",
+	"imageType": "Instagram Stories",
 	"outroType": null,
 	"introType": null,
 	"Height": 1350,
@@ -111196,8 +111330,8 @@
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": true,
-	"templateId": "mollygkohlsisyte",
-	"id": "mollygkohlsisyte",
+	"templateId": "jolabhsinzdsvgy",
+	"id": "jolabhsinzdsvgy",
 	"previews": []
 },
 {
@@ -111215,8 +111349,8 @@
 	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_ttyHi_1717754185790_mixkit-house-vibes-129.mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
-	"pro": true,
-	"createdOn": "2025-12-30T13:17:09.588Z",
+	"pro": false,
+	"createdOn": "2026-01-02T10:19:35.651Z",
 	"extraComps": [
 		{
 			"index": 4,
@@ -111232,7 +111366,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_UZl8J_1767100626398_38-new-arrival-portrait-template.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_pzoYQ_1767349172607_38-new-arrival-portrait-template.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -111246,9 +111380,9 @@
 	"category": [
 		"p_na"
 	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_U60D-_1767100626403_38-new-arrival-portrait-template.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_95Wbn_1767100626400_38-new-arrival-portrait-template.jpg",
-	"imageType": "Post 4:5",
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yuLJA_1767349172611_38-new-arrival-portrait-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bbjn0_1767349172608_38-new-arrival-portrait-template.jpg",
+	"imageType": "Instagram Stories",
 	"outroType": null,
 	"introType": null,
 	"Height": 1350,
@@ -111263,8 +111397,8 @@
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": false,
-	"templateId": "mollygkohlsisyte",
-	"id": "mollygkohlsisyte",
+	"templateId": "jolabhsinzdsvgy",
+	"id": "jolabhsinzdsvgy",
 	"previews": []
 },
  {
