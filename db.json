@@ -8245,7 +8245,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_5Ow04_1767342335613_18-promotional-portrait-template-2secs.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_bBfQT_1767702886212_18-promotional-portrait-template-2secs.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -9119,7 +9119,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_5Ow04_1767342335613_18-promotional-portrait-template-2secs.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_bBfQT_1767702886212_18-promotional-portrait-template-2secs.json",
 
 			"X": "0.0%",
 			"Y": "0.0%",
@@ -26187,6 +26187,74 @@
 	"bgImageUrl": [
 		""
 	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Z-rnL_1767700346697_Royal Dhol Beats.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-01-06T12:06:15.384Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_QTpbS_1767700997725_47-lohri-new-portrait-greeting.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "47-lohri-new-portrait-greeting",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_fest"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_f2SCo_1767700997728_47-lohri-new-portrait-greeting.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Qe1vL_1767700997727_47-lohri-new-portrait-greeting.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"date": 13,
+	"isMultipleTemplate": false,
+	"templateId": "lokolopopkolaldh",
+	"id": "lokolopopkolaldh",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
 	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8h_DX_1767615420888_SunBeats.mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
@@ -26241,6 +26309,74 @@
 	"date": 17,
 	"templateId": "juhmonldhujjis",
 	"id": "juhmonldhujjis",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-D6m5_1767695638724_Pure Traditions.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-01-06T10:44:54.432Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_HTOPj_1767696290609_48-pongal-new-portrait-greeting.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "48-pongal-new-portrait-greeting",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_fest"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_x9MD__1767696290613_48-pongal-new-portrait-greeting.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9rn3a_1767696290611_48-pongal-new-portrait-greeting.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"date": 14,
+	"isMultipleTemplate": false,
+	"templateId": "aasnsdjkfdflosdhs",
+	"id": "aasnsdjkfdflosdhs",
 	"previews": []
 },
     {
@@ -155584,7 +155720,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_5Ow04_1767342335613_18-promotional-portrait-template-2secs.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_bBfQT_1767702886212_18-promotional-portrait-template-2secs.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -156051,7 +156187,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_5Ow04_1767342335613_18-promotional-portrait-template-2secs.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_bBfQT_1767702886212_18-promotional-portrait-template-2secs.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
