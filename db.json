@@ -26257,6 +26257,74 @@
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": false,
+	"createdOn": "2026-01-07T08:45:00.425Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705389346749_19- brand outro-post-wth-elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_wxZCF_1767775471625_32-sankranti-new-greeting-square.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Posts",
+	"name": "32-sankranti-new-greeting-square",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_fest"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_sL8jJ_1767775471630_32-sankranti-new-greeting-square.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ws3Sw_1767775471628_32-sankranti-new-greeting-square.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1080,
+	"Width": 1080,
+	"height": 1080,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"date": 14,
+	"isMultipleTemplate": false,
+	"templateId": "ghhhyfgfgddvbnjj",
+	"id": "ghhhyfgfgddvbnjj",
+	"previews": []
+},
+	{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GTpNs_1767610383393_Flutify.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
 	"createdOn": "2026-01-05T11:02:17.230Z",
 	"extraComps": [
 		{
@@ -26443,6 +26511,74 @@
 	"date": 17,
 	"templateId": "juhmonldhujjis",
 	"id": "juhmonldhujjis",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8h_DX_1767615420888_SunBeats.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-01-07T11:05:02.583Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_NVSMa_1767783898344_49-sankranti-new-portrait-greeting.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "49-sankranti-new-portrait-greeting",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_fest"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_g0yqd_1767783898347_49-sankranti-new-portrait-greeting.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lF3hE_1767783898345_49-sankranti-new-portrait-greeting.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"date": 14,
+	"isMultipleTemplate": false,
+	"templateId": "nuhfdgbvffjjkng",
+	"id": "nuhfdgbvffjjkng",
 	"previews": []
 },
 {
