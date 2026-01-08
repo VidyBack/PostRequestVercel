@@ -8346,7 +8346,74 @@
 	"id": "tempjgolkanewtempla",
 	"previews": []
 },
-    {
+{
+	"version": 2,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_nPdSG_1719917618182_cotton-candy-rb-beat-1094.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-01-08T08:49:11.723Z",
+	"extraComps": [
+		{
+			"index": 3,
+			"compId": "1705396128575_20-brand-outro-portrait-design 2"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_IvzEF_1767862148834_33-promotional-portrait-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "33-promotional-portrait-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_basicPromo"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pTqGs_1767862148840_33-promotional-portrait-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xja-5_1767862148837_33-promotional-portrait-template.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "zeeighzeotsxmlt",
+	"id": "zeeighzeotsxmlt",
+	"previews": []
+},
+{
 	"version": 2,
 	"gifUrl": "",
 	"bgVideoUrl": [
@@ -9355,7 +9422,74 @@
 	"id": "tempjgolkanewtempla",
 	"previews": []
 },
-    {
+{
+	"version": 2,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_nPdSG_1719917618182_cotton-candy-rb-beat-1094.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-01-08T08:49:11.723Z",
+	"extraComps": [
+		{
+			"index": 3,
+			"compId": "1705396128575_20-brand-outro-portrait-design 2"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_IvzEF_1767862148834_33-promotional-portrait-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "33-promotional-portrait-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_basicPromo"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pTqGs_1767862148840_33-promotional-portrait-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xja-5_1767862148837_33-promotional-portrait-template.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "zeeighzeotsxmlt",
+	"id": "zeeighzeotsxmlt",
+	"previews": []
+},
+{
 	"version": 2,
 	"gifUrl": "",
 	"bgVideoUrl": [
@@ -156757,6 +156891,73 @@
 	"isMultipleTemplate": true,
   	"templateId": "tempjgolkanewtempla",
 	"id": "tempjgolkanewtempla",
+	"previews": []
+},
+{
+	"version": 2,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_nPdSG_1719917618182_cotton-candy-rb-beat-1094.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-01-08T08:49:11.723Z",
+	"extraComps": [
+		{
+			"index": 3,
+			"compId": "1705396128575_20-brand-outro-portrait-design 2"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_IvzEF_1767862148834_33-promotional-portrait-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "33-promotional-portrait-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+  "category": [
+		"p_linkedin"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pTqGs_1767862148840_33-promotional-portrait-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xja-5_1767862148837_33-promotional-portrait-template.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "zeeighzeotsxmlt",
+	"id": "zeeighzeotsxmlt",
 	"previews": []
 },
 {
