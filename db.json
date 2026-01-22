@@ -29506,7 +29506,7 @@
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": false,
-	"date": 17,
+	"date": 14,
 	"templateId": "jidddhfhmasalakd",
 	"id": "jidddhfhmasalakd",
 	"previews": []
@@ -36492,7 +36492,7 @@
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": false,
-	"createdOn": "2026-01-19T11:45:36.988Z",
+	"createdOn": "2026-01-22T11:49:40.159Z",
 	"extraComps": [
 		{
 			"index": 4,
@@ -36508,7 +36508,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_nTaUK_1768823132074_01-star-rating-new-story-template.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_hJ7Dz_1769082574829_01-star-rating-new-story-template.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -36522,8 +36522,8 @@
 	"category": [
 		"p_pr"
 	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-PQ0r_1768823132079_01-star-rating-new-story-template.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p17B-_1768823132077_01-star-rating-new-story-template.jpg",
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_UWK53_1769082574834_01-star-rating-new-story-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_anpjq_1769082574833_01-star-rating-new-story-template.jpg",
 	"imageType": "Instagram Stories",
 	"outroType": null,
 	"introType": null,
@@ -36535,12 +36535,12 @@
 	"outroId": null,
 	"isTransparent": false,
 	"AddId": "",
-	"volume": 0.9,
+	"volume": 0.6,
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": false,
-	"templateId": "dfhjudfjhfghgnmd",
-	"id": "dfhjudfjhfghgnmd",
+	"templateId": "kdyhskalkajkyshc",
+	"id": "kdyhskalkajkyshc",
 	"previews": []
 },
 	{
@@ -45880,6 +45880,140 @@
 	"bgImageUrl": [
 		""
 	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Zvnjx_1696999421381_mixkit-africa-218.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-01-22T11:30:51.602Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705389346749_19- brand outro-post-wth-elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Xao4T_1769081446788_01-festive-offers-new-valentines-day-square.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Posts",
+	"name": "01-festive-offers-new-valentines-day-square",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_dpercentage"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9zB-v_1769081446793_01-festive-offers-new-valentines-day-square.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9zF7v_1769081446790_01-festive-offers-new-valentines-day-square.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1080,
+	"Width": 1080,
+	"height": 1080,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.5,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "satircjdhorsv",
+	"id": "satircjdhorsv",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Zvnjx_1696999421381_mixkit-africa-218.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-01-22T11:30:51.602Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705389346749_19- brand outro-post-wth-elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Xao4T_1769081446788_01-festive-offers-new-valentines-day-square.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Posts",
+	"name": "01-festive-offers-new-valentines-day-square",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_dpercentage"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9zB-v_1769081446793_01-festive-offers-new-valentines-day-square.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9zF7v_1769081446790_01-festive-offers-new-valentines-day-square.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1080,
+	"Width": 1080,
+	"height": 1080,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.5,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "satircjdhorsv",
+	"id": "satircjdhorsv",
+	"previews": []
+},
+	{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
 	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_AiCBt_1756191704967_Thinking about you 234.mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
@@ -46305,8 +46439,8 @@
 	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Dll4J_1697456631840_mixkit-babe-783.mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
-	"pro": true,
-	"createdOn": "2026-01-20T08:02:43.083Z",
+	"pro": false,
+	"createdOn": "2026-01-22T11:42:08.760Z",
 	"extraComps": [
 		{
 			"index": 4,
@@ -46322,7 +46456,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_PX7Fn_1768896159305_26-festive-offer-new-valentines-day-story.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_5vjwW_1769082124105_26-festive-offer-new-valentines-day-story.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -46336,9 +46470,9 @@
 	"category": [
 		"p_dpercentage"
 	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GShkJ_1768896159309_26-festive-offer-new-valentines-day-story.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_eWY-G_1768896159308_26-festive-offer-new-valentines-day-story.jpg",
-	"imageType": "Instagram Stories",
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VutB3_1769082124108_26-festive-offer-new-valentines-day-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_mBzrK_1769082124106_26-festive-offer-new-valentines-day-story.jpg",
+	"imageType": "Instagram Posts",
 	"outroType": null,
 	"introType": null,
 	"Height": 1920,
@@ -46349,12 +46483,12 @@
 	"outroId": null,
 	"isTransparent": false,
 	"AddId": "",
-	"volume": 1,
+	"volume": 0.7,
 	"noBlur": false,
 	"month": "january",
-	"isMultipleTemplate": false,
-	"templateId": "hujinnggfbbvvdhcfv",
-	"id": "hujinnggfbbvvdhcfv",
+	"isMultipleTemplate": true,
+	"templateId": "bhfidnbombeyhsdg",
+	"id": "bhfidnbombeyhsdg",
 	"previews": []
 },
 {
@@ -46372,8 +46506,8 @@
 	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Dll4J_1697456631840_mixkit-babe-783.mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
-	"pro": true,
-	"createdOn": "2026-01-20T08:02:43.083Z",
+	"pro": false,
+	"createdOn": "2026-01-22T11:42:08.760Z",
 	"extraComps": [
 		{
 			"index": 4,
@@ -46389,7 +46523,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_PX7Fn_1768896159305_26-festive-offer-new-valentines-day-story.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_5vjwW_1769082124105_26-festive-offer-new-valentines-day-story.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -46403,9 +46537,9 @@
 	"category": [
 		"p_dpercentage"
 	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GShkJ_1768896159309_26-festive-offer-new-valentines-day-story.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_eWY-G_1768896159308_26-festive-offer-new-valentines-day-story.jpg",
-	"imageType": "Instagram Stories",
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VutB3_1769082124108_26-festive-offer-new-valentines-day-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_mBzrK_1769082124106_26-festive-offer-new-valentines-day-story.jpg",
+	"imageType": "Instagram Posts",
 	"outroType": null,
 	"introType": null,
 	"Height": 1920,
@@ -46416,146 +46550,146 @@
 	"outroId": null,
 	"isTransparent": false,
 	"AddId": "",
-	"volume": 1,
-	"noBlur": false,
-	"month": "january",
-	"isMultipleTemplate": true,
-	"templateId": "hujinnggfbbvvdhcfv",
-	"id": "hujinnggfbbvvdhcfv",
-	"previews": []
-},
-{
-	"version": 1,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xDJT__1756901920267_Happy Love.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": true,
-	"createdOn": "2026-01-21T11:34:14.557Z",
-	"extraComps": [
-		{
-			"index": 4,
-			"compId": "1705320145920_19-brnad Outro-with elements"
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_2ZZvd_1768995250877_27-festive-offer-new-valentines-day-story.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Instagram Stories",
-	"name": "27-festive-offer-new-valentines-day-story",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_dpercentage"
-	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_08kPc_1768995250881_27-festive-offer-new-valentines-day-story.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2rJ_N_1768995250879_27-festive-offer-new-valentines-day-story.jpg",
-	"imageType": "Instagram Stories",
-	"outroType": null,
-	"introType": null,
-	"Height": 1920,
-	"Width": 1080,
-	"height": 1920,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"volume": 1,
-	"noBlur": false,
-	"month": "january",
-	"isMultipleTemplate": true,
-	"templateId": "lokgijhdfhmsdvbhgdr",
-	"id": "lokgijhdfhmsdvbhgdr",
-	"previews": []
-},
-{
-	"version": 1,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xDJT__1756901920267_Happy Love.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": true,
-	"createdOn": "2026-01-21T11:34:14.557Z",
-	"extraComps": [
-		{
-			"index": 4,
-			"compId": "1705320145920_19-brnad Outro-with elements"
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_2ZZvd_1768995250877_27-festive-offer-new-valentines-day-story.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Instagram Stories",
-	"name": "27-festive-offer-new-valentines-day-story",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_dpercentage"
-	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_08kPc_1768995250881_27-festive-offer-new-valentines-day-story.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2rJ_N_1768995250879_27-festive-offer-new-valentines-day-story.jpg",
-	"imageType": "Instagram Stories",
-	"outroType": null,
-	"introType": null,
-	"Height": 1920,
-	"Width": 1080,
-	"height": 1920,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"volume": 1,
+	"volume": 0.7,
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": false,
-	"templateId": "lokgijhdfhmsdvbhgdr",
-	"id": "lokgijhdfhmsdvbhgdr",
+	"templateId": "bhfidnbombeyhsdg",
+	"id": "bhfidnbombeyhsdg",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OI2st_1756464032591_A Special Feeling 1087.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-01-22T11:25:38.182Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_9ED9Y_1769081134030_27-festive-offer-new-valentines-day-story.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "27-festive-offer-new-valentines-day-story",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_dpercentage"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_eI-6D_1769081134034_27-festive-offer-new-valentines-day-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_jvIJF_1769081134032_27-festive-offer-new-valentines-day-story.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.8,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "acavatarafdgrtv",
+	"id": "acavatarafdgrtv",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OI2st_1756464032591_A Special Feeling 1087.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-01-22T11:25:38.182Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_9ED9Y_1769081134030_27-festive-offer-new-valentines-day-story.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "27-festive-offer-new-valentines-day-story",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_dpercentage"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_eI-6D_1769081134034_27-festive-offer-new-valentines-day-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_jvIJF_1769081134032_27-festive-offer-new-valentines-day-story.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.8,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "acavatarafdgrtv",
+	"id": "acavatarafdgrtv",
 	"previews": []
 },
     {
@@ -46847,298 +46981,6 @@
       "speedX": 2,
       "id": "bIE3s5yjBogptDEuTAwaT",
       "templateId": "bIE3s5yjBogptDEuTAwaT"
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_i57ch_1702905724733_mixkit-holidays-2-691.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2024-12-03T05:11:08.070Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1705405173163_21-outro-portrait-with-elements"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_sFUBF_1733202519238_08-festive-offer-christmas-portrait-updated-1.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "08-festive-offer-christmas-portrait-updated-1",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": ["p_occasional"],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lV5Eu_1733202519244_08-festive-offer-christmas-portrait-updated-1.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_uED9__1733202519241_08-festive-offer-christmas-portrait-updated-1.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 0.5,
-      "month": "december",
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Accessories": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0LYMx_1733202659136_08-festive-offer-christmas-portrait-updated-1-Accessories.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_y_waP_1733202663896_08-festive-offer-christmas-portrait-updated-1-Accessories.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ScqpL_1733202659137_08-festive-offer-christmas-portrait-updated-1-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kLp5o_1733202663898_08-festive-offer-christmas-portrait-updated-1-HealthFitness.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_o8Ys0_1733202659139_08-festive-offer-christmas-portrait-updated-1-Perfumes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8ZHfv_1733202663900_08-festive-offer-christmas-portrait-updated-1-Perfumes.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_MWt04_1733202659141_08-festive-offer-christmas-portrait-updated-1-BagPurse.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZgBwf_1733202663902_08-festive-offer-christmas-portrait-updated-1-BagPurse.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SiKqp_1733202659142_08-festive-offer-christmas-portrait-updated-1-HealthBeauty.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_I8Dvr_1733202663903_08-festive-offer-christmas-portrait-updated-1-HealthBeauty.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ahiBz_1733202659144_08-festive-offer-christmas-portrait-updated-1-MobileElec.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EnncE_1733202663904_08-festive-offer-christmas-portrait-updated-1-MobileElec.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "ToysHobbie": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Q0NPF_1733202659145_08-festive-offer-christmas-portrait-updated-1-ToysHobbie.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rmnha_1733202663907_08-festive-offer-christmas-portrait-updated-1-ToysHobbie.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_CKpU0_1733202659147_08-festive-offer-christmas-portrait-updated-1-Clothings.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZSDUq_1733202663908_08-festive-offer-christmas-portrait-updated-1-Clothings.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_G_QMo_1733202659148_08-festive-offer-christmas-portrait-updated-1-Jewellery.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_19HuV_1733202663909_08-festive-offer-christmas-portrait-updated-1-Jewellery.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Wearables": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_u3RWa_1733202659149_08-festive-offer-christmas-portrait-updated-1-Wearables.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1vENO_1733202663911_08-festive-offer-christmas-portrait-updated-1-Wearables.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HomeDecor": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0it9g_1733202659151_08-festive-offer-christmas-portrait-updated-1-HomeDecor.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3NCcf_1733202663912_08-festive-offer-christmas-portrait-updated-1-HomeDecor.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Furniture": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zoI0g_1733202659152_08-festive-offer-christmas-portrait-updated-1-Furniture.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_RIbkw_1733202663914_08-festive-offer-christmas-portrait-updated-1-Furniture.mp4",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "eHwC3Yjh1kdIKjweGMETV",
-      "templateId": "eHwC3Yjh1kdIKjweGMETV",
-      "speedXfortwoImage": 1,
-      "speedX": 1.25
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_i57ch_1702905724733_mixkit-holidays-2-691.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2024-12-03T05:11:08.070Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1705405173163_21-outro-portrait-with-elements"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_sFUBF_1733202519238_08-festive-offer-christmas-portrait-updated-1.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "08-festive-offer-christmas-portrait-updated-1",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": ["p_occasional"],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lV5Eu_1733202519244_08-festive-offer-christmas-portrait-updated-1.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_uED9__1733202519241_08-festive-offer-christmas-portrait-updated-1.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "noBlur": false,
-      "volume": 0.5,
-      "month": "december",
-      "isMultipleTemplate": true,
-      "previews": [
-        {
-          "Accessories": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0LYMx_1733202659136_08-festive-offer-christmas-portrait-updated-1-Accessories.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_y_waP_1733202663896_08-festive-offer-christmas-portrait-updated-1-Accessories.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ScqpL_1733202659137_08-festive-offer-christmas-portrait-updated-1-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kLp5o_1733202663898_08-festive-offer-christmas-portrait-updated-1-HealthFitness.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_o8Ys0_1733202659139_08-festive-offer-christmas-portrait-updated-1-Perfumes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8ZHfv_1733202663900_08-festive-offer-christmas-portrait-updated-1-Perfumes.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_MWt04_1733202659141_08-festive-offer-christmas-portrait-updated-1-BagPurse.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZgBwf_1733202663902_08-festive-offer-christmas-portrait-updated-1-BagPurse.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SiKqp_1733202659142_08-festive-offer-christmas-portrait-updated-1-HealthBeauty.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_I8Dvr_1733202663903_08-festive-offer-christmas-portrait-updated-1-HealthBeauty.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ahiBz_1733202659144_08-festive-offer-christmas-portrait-updated-1-MobileElec.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EnncE_1733202663904_08-festive-offer-christmas-portrait-updated-1-MobileElec.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "ToysHobbie": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Q0NPF_1733202659145_08-festive-offer-christmas-portrait-updated-1-ToysHobbie.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rmnha_1733202663907_08-festive-offer-christmas-portrait-updated-1-ToysHobbie.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_CKpU0_1733202659147_08-festive-offer-christmas-portrait-updated-1-Clothings.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZSDUq_1733202663908_08-festive-offer-christmas-portrait-updated-1-Clothings.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_G_QMo_1733202659148_08-festive-offer-christmas-portrait-updated-1-Jewellery.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_19HuV_1733202663909_08-festive-offer-christmas-portrait-updated-1-Jewellery.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Wearables": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_u3RWa_1733202659149_08-festive-offer-christmas-portrait-updated-1-Wearables.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1vENO_1733202663911_08-festive-offer-christmas-portrait-updated-1-Wearables.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HomeDecor": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0it9g_1733202659151_08-festive-offer-christmas-portrait-updated-1-HomeDecor.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3NCcf_1733202663912_08-festive-offer-christmas-portrait-updated-1-HomeDecor.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Furniture": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zoI0g_1733202659152_08-festive-offer-christmas-portrait-updated-1-Furniture.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_RIbkw_1733202663914_08-festive-offer-christmas-portrait-updated-1-Furniture.mp4",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "eHwC3Yjh1kdIKjweGMETV",
-      "templateId": "eHwC3Yjh1kdIKjweGMETV",
-      "speedXfortwoImage": 1,
-      "speedX": 1.25
     },
     {
       "version": 1,
@@ -59510,6 +59352,298 @@
       "speedX": 1.25,
       "id": "791_punZo6wK1u5ZcU1y5",
       "templateId": "791_punZo6wK1u5ZcU1y5"
+    },
+	{
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_i57ch_1702905724733_mixkit-holidays-2-691.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-12-03T05:11:08.070Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705405173163_21-outro-portrait-with-elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_sFUBF_1733202519238_08-festive-offer-christmas-portrait-updated-1.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "08-festive-offer-christmas-portrait-updated-1",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": ["p_occasional"],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lV5Eu_1733202519244_08-festive-offer-christmas-portrait-updated-1.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_uED9__1733202519241_08-festive-offer-christmas-portrait-updated-1.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 0.5,
+      "month": "december",
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0LYMx_1733202659136_08-festive-offer-christmas-portrait-updated-1-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_y_waP_1733202663896_08-festive-offer-christmas-portrait-updated-1-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ScqpL_1733202659137_08-festive-offer-christmas-portrait-updated-1-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kLp5o_1733202663898_08-festive-offer-christmas-portrait-updated-1-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_o8Ys0_1733202659139_08-festive-offer-christmas-portrait-updated-1-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8ZHfv_1733202663900_08-festive-offer-christmas-portrait-updated-1-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_MWt04_1733202659141_08-festive-offer-christmas-portrait-updated-1-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZgBwf_1733202663902_08-festive-offer-christmas-portrait-updated-1-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SiKqp_1733202659142_08-festive-offer-christmas-portrait-updated-1-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_I8Dvr_1733202663903_08-festive-offer-christmas-portrait-updated-1-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ahiBz_1733202659144_08-festive-offer-christmas-portrait-updated-1-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EnncE_1733202663904_08-festive-offer-christmas-portrait-updated-1-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "ToysHobbie": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Q0NPF_1733202659145_08-festive-offer-christmas-portrait-updated-1-ToysHobbie.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rmnha_1733202663907_08-festive-offer-christmas-portrait-updated-1-ToysHobbie.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_CKpU0_1733202659147_08-festive-offer-christmas-portrait-updated-1-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZSDUq_1733202663908_08-festive-offer-christmas-portrait-updated-1-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_G_QMo_1733202659148_08-festive-offer-christmas-portrait-updated-1-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_19HuV_1733202663909_08-festive-offer-christmas-portrait-updated-1-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_u3RWa_1733202659149_08-festive-offer-christmas-portrait-updated-1-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1vENO_1733202663911_08-festive-offer-christmas-portrait-updated-1-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0it9g_1733202659151_08-festive-offer-christmas-portrait-updated-1-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3NCcf_1733202663912_08-festive-offer-christmas-portrait-updated-1-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Furniture": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zoI0g_1733202659152_08-festive-offer-christmas-portrait-updated-1-Furniture.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_RIbkw_1733202663914_08-festive-offer-christmas-portrait-updated-1-Furniture.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "eHwC3Yjh1kdIKjweGMETV",
+      "templateId": "eHwC3Yjh1kdIKjweGMETV",
+      "speedXfortwoImage": 1,
+      "speedX": 1.25
+    },
+{
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_i57ch_1702905724733_mixkit-holidays-2-691.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-12-03T05:11:08.070Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705405173163_21-outro-portrait-with-elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_sFUBF_1733202519238_08-festive-offer-christmas-portrait-updated-1.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "08-festive-offer-christmas-portrait-updated-1",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": ["p_occasional"],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lV5Eu_1733202519244_08-festive-offer-christmas-portrait-updated-1.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_uED9__1733202519241_08-festive-offer-christmas-portrait-updated-1.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "noBlur": false,
+      "volume": 0.5,
+      "month": "december",
+      "isMultipleTemplate": true,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0LYMx_1733202659136_08-festive-offer-christmas-portrait-updated-1-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_y_waP_1733202663896_08-festive-offer-christmas-portrait-updated-1-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ScqpL_1733202659137_08-festive-offer-christmas-portrait-updated-1-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kLp5o_1733202663898_08-festive-offer-christmas-portrait-updated-1-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_o8Ys0_1733202659139_08-festive-offer-christmas-portrait-updated-1-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8ZHfv_1733202663900_08-festive-offer-christmas-portrait-updated-1-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_MWt04_1733202659141_08-festive-offer-christmas-portrait-updated-1-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZgBwf_1733202663902_08-festive-offer-christmas-portrait-updated-1-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SiKqp_1733202659142_08-festive-offer-christmas-portrait-updated-1-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_I8Dvr_1733202663903_08-festive-offer-christmas-portrait-updated-1-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ahiBz_1733202659144_08-festive-offer-christmas-portrait-updated-1-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EnncE_1733202663904_08-festive-offer-christmas-portrait-updated-1-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "ToysHobbie": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Q0NPF_1733202659145_08-festive-offer-christmas-portrait-updated-1-ToysHobbie.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rmnha_1733202663907_08-festive-offer-christmas-portrait-updated-1-ToysHobbie.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_CKpU0_1733202659147_08-festive-offer-christmas-portrait-updated-1-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZSDUq_1733202663908_08-festive-offer-christmas-portrait-updated-1-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_G_QMo_1733202659148_08-festive-offer-christmas-portrait-updated-1-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_19HuV_1733202663909_08-festive-offer-christmas-portrait-updated-1-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_u3RWa_1733202659149_08-festive-offer-christmas-portrait-updated-1-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1vENO_1733202663911_08-festive-offer-christmas-portrait-updated-1-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0it9g_1733202659151_08-festive-offer-christmas-portrait-updated-1-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3NCcf_1733202663912_08-festive-offer-christmas-portrait-updated-1-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Furniture": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zoI0g_1733202659152_08-festive-offer-christmas-portrait-updated-1-Furniture.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_RIbkw_1733202663914_08-festive-offer-christmas-portrait-updated-1-Furniture.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "eHwC3Yjh1kdIKjweGMETV",
+      "templateId": "eHwC3Yjh1kdIKjweGMETV",
+      "speedXfortwoImage": 1,
+      "speedX": 1.25
     },
     {
       "version": 1,
@@ -116041,65 +116175,6 @@
 	"previews": []
 },
     {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/behtarads/music/predefined/mixkit-a-very-happy-christmas-897-_AudioTrimmer.com_.aac",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2025-10-27T08:14:23.642Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1705320145920_19-brnad Outro-with elements"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Oi0WA_1761552859551_38-new-arrival-christmas-festive-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "38-new-arrival-christmas-festive-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": ["p_na"],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_IGtEn_1761552859558_38-new-arrival-christmas-festive-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yKDe__1761552859556_38-new-arrival-christmas-festive-story.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 1,
-      "noBlur": false,
-      "month": "january",
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "KcZFg4zgO4sV_GdC_iK7q",
-      "templateId": "KcZFg4zgO4sV_GdC_iK7q"
-    },
-    {
 	"version": 1,
 	"gifUrl": "",
 	"bgVideoUrl": [
@@ -116231,140 +116306,6 @@
 	"isMultipleTemplate": false,
 	"templateId": "koljtataHxw6ccvg",
 	"id": "koljtataHxw6ccvg",
-	"previews": []
-},
-{
-	"version": 1,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Festive/mixkit-a-very-happy-christmas-897.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": false,
-	"createdOn": "2025-12-16T06:22:41.567Z",
-	"extraComps": [
-		{
-			"index": 4,
-			"compId": "1705322724854_19 Brand Outro portrait with elements "
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_D9g-S_1765866158016_35-christmas-new-arrival-portrait-templatenew.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Post 4:5",
-	"name": "35-christmas-new-arrival-portrait-templatenew",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_na"
-	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Pqln1_1765866158019_35-christmas-new-arrival-portrait-templatenew.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yVe1c_1765866158017_35-christmas-new-arrival-portrait-templatenew.jpg",
-	"imageType": "Instagram Posts",
-	"outroType": null,
-	"introType": null,
-	"Height": 1350,
-	"Width": 1080,
-	"height": 1350,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"volume": 1,
-	"noBlur": false,
-	"month": "january",
-	"isMultipleTemplate": false,
-	"templateId": "molksnpidsdvgs",
-	"id": "molksnpidsdvgs",
-	"previews": []
-},
-{
-	"version": 1,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Festive/mixkit-a-very-happy-christmas-897.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": false,
-	"createdOn": "2025-12-16T06:22:41.567Z",
-	"extraComps": [
-		{
-			"index": 4,
-			"compId": "1705322724854_19 Brand Outro portrait with elements "
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_D9g-S_1765866158016_35-christmas-new-arrival-portrait-templatenew.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Post 4:5",
-	"name": "35-christmas-new-arrival-portrait-templatenew",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_na"
-	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Pqln1_1765866158019_35-christmas-new-arrival-portrait-templatenew.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yVe1c_1765866158017_35-christmas-new-arrival-portrait-templatenew.jpg",
-	"imageType": "Instagram Posts",
-	"outroType": null,
-	"introType": null,
-	"Height": 1350,
-	"Width": 1080,
-	"height": 1350,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"volume": 1,
-	"noBlur": false,
-	"month": "january",
-	"isMultipleTemplate": true,
-	"templateId": "molksnpidsdvgs",
-	"id": "molksnpidsdvgs",
 	"previews": []
 },
 {
@@ -133880,6 +133821,199 @@
       "id": "jJcn5_DPnc8AXmle-qR6A",
       "templateId": "jJcn5_DPnc8AXmle-qR6A"
     },
+	{
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [""],
+      "fontUrl": [""],
+      "bgImageUrl": [""],
+      "bgMusicUrl": "https://cdn.hootout.com/behtarads/music/predefined/mixkit-a-very-happy-christmas-897-_AudioTrimmer.com_.aac",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": true,
+      "createdOn": "2025-10-27T08:14:23.642Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705320145920_19-brnad Outro-with elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Oi0WA_1761552859551_38-new-arrival-christmas-festive-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "38-new-arrival-christmas-festive-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": ["p_na"],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_IGtEn_1761552859558_38-new-arrival-christmas-festive-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yKDe__1761552859556_38-new-arrival-christmas-festive-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "KcZFg4zgO4sV_GdC_iK7q",
+      "templateId": "KcZFg4zgO4sV_GdC_iK7q"
+    },
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Festive/mixkit-a-very-happy-christmas-897.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2025-12-16T06:22:41.567Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_D9g-S_1765866158016_35-christmas-new-arrival-portrait-templatenew.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "35-christmas-new-arrival-portrait-templatenew",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_na"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Pqln1_1765866158019_35-christmas-new-arrival-portrait-templatenew.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yVe1c_1765866158017_35-christmas-new-arrival-portrait-templatenew.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "molksnpidsdvgs",
+	"id": "molksnpidsdvgs",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Festive/mixkit-a-very-happy-christmas-897.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2025-12-16T06:22:41.567Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_D9g-S_1765866158016_35-christmas-new-arrival-portrait-templatenew.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "35-christmas-new-arrival-portrait-templatenew",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_na"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Pqln1_1765866158019_35-christmas-new-arrival-portrait-templatenew.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yVe1c_1765866158017_35-christmas-new-arrival-portrait-templatenew.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "molksnpidsdvgs",
+	"id": "molksnpidsdvgs",
+	"previews": []
+},
     {
       "version": 1,
       "gifUrl": "",
