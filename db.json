@@ -115885,15 +115885,15 @@
 	"bgImageUrl": [
 		""
 	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_b1221_1717753895369_mixkit-better-times-are-coming-173.mp3",
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Y0re1_1726052810237_solitude-179.mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": true,
-	"createdOn": "2026-01-30T12:19:21.277Z",
+	"createdOn": "2026-01-30T12:09:59.525Z",
 	"extraComps": [
 		{
 			"index": 4,
-			"compId": "1705320145920_19-brnad Outro-with elements"
+			"compId": "1705389346749_19- brand outro-post-wth-elements"
 		}
 	],
 	"widgetsDefinition": [
@@ -115905,39 +115905,39 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_8uLUp_1769775557890_50-new-arrival-story-template.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_NnrNf_1769774995836_11-new-arrival-square-template.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
 			"duration": 10
 		}
 	],
-	"type": "Instagram Stories",
-	"name": "50-new-arrival-story-template",
+	"type": "Instagram Posts",
+	"name": "11-new-arrival-square-template",
 	"brandEnabled": false,
 	"brandType": "X1",
 	"category": [
 		"p_na"
 	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_o6IM6_1769775557893_50-new-arrival-story-template.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tgK8y_1769775557892_50-new-arrival-story-template.jpg",
-	"imageType": "Instagram Stories",
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_U563q_1769774995840_11-new-arrival-square-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XOhsX_1769774995838_11-new-arrival-square-template.jpg",
+	"imageType": "Instagram Posts",
 	"outroType": null,
 	"introType": null,
-	"Height": 1920,
+	"Height": 1080,
 	"Width": 1080,
-	"height": 1920,
+	"height": 1080,
 	"width": 1080,
 	"introId": null,
 	"outroId": null,
 	"isTransparent": false,
 	"AddId": "",
-	"volume": 0.9,
+	"volume": 0.8,
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": true,
-	"templateId": "komkomlokkdn",
-	"id": "komkomlokkdn",
+	"templateId": "huimgnsikfsvgn",
+	"id": "huimgnsikfsvgn",
 	"previews": []
 },
 {
@@ -115952,15 +115952,15 @@
 	"bgImageUrl": [
 		""
 	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_b1221_1717753895369_mixkit-better-times-are-coming-173.mp3",
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_Y0re1_1726052810237_solitude-179.mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": true,
-	"createdOn": "2026-01-30T12:19:21.277Z",
+	"createdOn": "2026-01-30T12:09:59.525Z",
 	"extraComps": [
 		{
 			"index": 4,
-			"compId": "1705320145920_19-brnad Outro-with elements"
+			"compId": "1705389346749_19- brand outro-post-wth-elements"
 		}
 	],
 	"widgetsDefinition": [
@@ -115972,39 +115972,39 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_8uLUp_1769775557890_50-new-arrival-story-template.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_NnrNf_1769774995836_11-new-arrival-square-template.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
 			"duration": 10
 		}
 	],
-	"type": "Instagram Stories",
-	"name": "50-new-arrival-story-template",
+	"type": "Instagram Posts",
+	"name": "11-new-arrival-square-template",
 	"brandEnabled": false,
 	"brandType": "X1",
 	"category": [
 		"p_na"
 	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_o6IM6_1769775557893_50-new-arrival-story-template.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tgK8y_1769775557892_50-new-arrival-story-template.jpg",
-	"imageType": "Instagram Stories",
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_U563q_1769774995840_11-new-arrival-square-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XOhsX_1769774995838_11-new-arrival-square-template.jpg",
+	"imageType": "Instagram Posts",
 	"outroType": null,
 	"introType": null,
-	"Height": 1920,
+	"Height": 1080,
 	"Width": 1080,
-	"height": 1920,
+	"height": 1080,
 	"width": 1080,
 	"introId": null,
 	"outroId": null,
 	"isTransparent": false,
 	"AddId": "",
-	"volume": 0.9,
+	"volume": 0.8,
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": false,
-	"templateId": "komkomlokkdn",
-	"id": "komkomlokkdn",
+	"templateId": "huimgnsikfsvgn",
+	"id": "huimgnsikfsvgn",
 	"previews": []
 },
 	{
