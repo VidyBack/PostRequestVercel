@@ -13469,140 +13469,6 @@
 	"id": "updtedfsddtemplg",
 	"previews": []
 },
-{
-	"version": 2,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": true,
-	"createdOn": "2026-02-19T06:21:13.853Z",
-	"extraComps": [
-		{
-			"index": 3,
-			"compId": "1705389346749_19- brand outro-post-wth-elements"
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_IdiUZ_1771482069797_02-promotional-post-new-template-again-for-test.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Instagram Posts",
-	"name": "02-promotional-post-new-template-again-for-test",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_basicPromo"
-	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8NEjd_1771482069800_02-promotional-post-new-template-again-for-test.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xjCZG_1771482069798_02-promotional-post-new-template-again-for-test.jpg",
-	"imageType": "Instagram Posts",
-	"outroType": null,
-	"introType": null,
-	"Height": 1080,
-	"Width": 1080,
-	"height": 1080,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"noBlur": false,
-	"volume": 1,
-	"month": "january",
-	"isMultipleTemplate": true,
-	"templateId": "tesghdjsbsdgg",
-	"id": "tesghdjsbsdgg",
-	"previews": []
-},
-{
-	"version": 2,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": true,
-	"createdOn": "2026-02-19T06:21:13.853Z",
-	"extraComps": [
-		{
-			"index": 3,
-			"compId": "1705389346749_19- brand outro-post-wth-elements"
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_IdiUZ_1771482069797_02-promotional-post-new-template-again-for-test.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Instagram Posts",
-	"name": "02-promotional-post-new-template-again-for-test",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_basicPromo"
-	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8NEjd_1771482069800_02-promotional-post-new-template-again-for-test.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xjCZG_1771482069798_02-promotional-post-new-template-again-for-test.jpg",
-	"imageType": "Instagram Posts",
-	"outroType": null,
-	"introType": null,
-	"Height": 1080,
-	"Width": 1080,
-	"height": 1080,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"noBlur": false,
-	"volume": 1,
-	"month": "january",
-	"isMultipleTemplate": false,
-	"templateId": "tesghdjsbsdgg",
-	"id": "tesghdjsbsdgg",
-	"previews": []
-},
   {
 	"version": 2,
 	"gifUrl": "",
@@ -29511,6 +29377,142 @@
 	"id": "trenfghhuarltd",
 	"previews": []
 },
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QnYxj_1771411245157_Colors.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-02-19T11:16:33.399Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Z8ioR_1771499789657_45-gudi-padwa-festive-greeting-story-new.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "45-gudi-padwa-festive-greeting-story-new",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_fest"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_L3Oey_1771499789660_45-gudi-padwa-festive-greeting-story-new.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Qh8GD_1771499789659_45-gudi-padwa-festive-greeting-story-new.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "march",
+	"date": 19,
+	"isMultipleTemplate": false,
+	"templateId": "festichdvsntema",
+	"id": "festichdvsntema",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OI2st_1756464032591_A Special Feeling 1087.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-02-19T11:35:59.829Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_l8cM5_1771500956268_20-good-friday-festive-greeting-v1.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "20-good-friday-festive-greeting-v1",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_fest"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fnyra_1771500956272_20-good-friday-festive-greeting-v1.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_drTZz_1771500956269_20-good-friday-festive-greeting-v1.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "april",
+	"date": 3,
+	"isMultipleTemplate": false,
+	"templateId": "ndguhhbjfgikhsnts",
+	"id": "ndguhhbjfgikhsnts",
+	"previews": []
+},
 	{
 	"version": 1,
 	"gifUrl": "",
@@ -32541,125 +32543,6 @@
       "previews": [],
       "id": "YXHOQxJolDaWGJy531z6V",
       "templateId": "YXHOQxJolDaWGJy531z6V"
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "id": "mlpn_307_cftyrs",
-      "templateId": "mlpn_307_cftyrs",
-      "month": "march",
-      "date": 19,
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Am050_1705389444280_break-away-85.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2024-04-05T05:29:10.841Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705396727541_20-brand-outro-story-design 2"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_xg0Sw_1712294943751_45-gudi-padwa-festive-greeting.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "45-gudi-padwa-festive-greeting",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": ["p_fest"],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qw-Y8_1712294943952_45-gudi-padwa-festive-greeting.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kH1PU_1712294943914_45-gudi-padwa-festive-greeting.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.5,
-      "isMultipleTemplate": false,
-      "previews": []
-    },
-    {
-      "version": 1,
-      "id": "mlpn_101_cftyr",
-      "templateId": "mlpn_101_cftyr",
-      "month": "march",
-      "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZzyCr_1706012158932_a-fathers-magic-1017.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2024-03-29T10:26:43.795Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705403061437_21-brandoutro-story-Design 3"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_TRL63_1711708000814_43-good-friday-festive-greeting.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "43-good-friday-festive-greeting",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": ["p_fest"],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pu2ib_1711708000818_43-good-friday-festive-greeting.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-UfRi_1711708000816_43-good-friday-festive-greeting.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "date": 18,
-      "month ": "april",
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.8,
-      "isMultipleTemplate": false,
-      "previews": []
     },
     {
       "id": "mlpn_100_cftyr",
@@ -164401,6 +164284,140 @@
       "id": "sdsddsbhnmjff8gs",
       "previews": []
     },
+	{
+	"version": 2,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-02-19T06:04:18.523Z",
+	"extraComps": [
+		{
+			"index": 3,
+			"compId": "1705389346749_19- brand outro-post-wth-elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_qwPwL_1771481054253_03-promotional-post-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Posts",
+	"name": "03-promotional-post-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_linkedin"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_WEdx4_1771481054257_03-promotional-post-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YWLQH_1771481054255_03-promotional-post-template.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1080,
+	"Width": 1080,
+	"height": 1080,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"noBlur": false,
+	"volume": 1,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "updtedfsddtemplg",
+	"id": "updtedfsddtemplg",
+	"previews": []
+},
+{
+	"version": 2,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-02-19T06:04:18.523Z",
+	"extraComps": [
+		{
+			"index": 3,
+			"compId": "1705389346749_19- brand outro-post-wth-elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_qwPwL_1771481054253_03-promotional-post-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Posts",
+	"name": "03-promotional-post-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_linkedin"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_WEdx4_1771481054257_03-promotional-post-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YWLQH_1771481054255_03-promotional-post-template.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1080,
+	"Width": 1080,
+	"height": 1080,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"noBlur": false,
+	"volume": 1,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "updtedfsddtemplg",
+	"id": "updtedfsddtemplg",
+	"previews": []
+},
     {
       "version": 2,
       "gifUrl": "",
