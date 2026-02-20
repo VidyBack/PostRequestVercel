@@ -117,6 +117,73 @@
   "previews": []
 },
 {
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xDJT__1756901920267_Happy Love.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-02-20T09:13:01.193Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_qxDQG_1771578777681_01-video-templaate-story.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "01-video-templaate-story",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_Video"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zNS1r_1771578777695_01-video-templaate-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3CNqt_1771578777689_01-video-templaate-story.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"id": "bitmpfst7394kdji",
+	"templateId": "bitmpfst7394kdji",
+	"previews": []
+},
+{
   "version": 2,
   "gifUrl": "",
   "bgVideoUrl": [""],
@@ -118820,7 +118887,7 @@
 	"templateId": "polokolkadHxw6cQIlo",
 	"id": "polokolkadHxw6cQIlo",
 	"previews": []
-},	
+},
 {
 	"version": 1,
 	"gifUrl": "",
