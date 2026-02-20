@@ -32516,66 +32516,210 @@
       "id": "YXHOQxJolDaWGJy531z6V",
       "templateId": "YXHOQxJolDaWGJy531z6V"
     },
-    {
-      "id": "mlpn_100_cftyr",
-      "templateId": "mlpn_100_cftyr",
-      "month": "march",
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bRaoQ_1705389742089_goals-are-ahead-146.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2024-03-29T10:21:58.508Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705575891091_22-outro-story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_c2gCg_1711707712493_44-easter-festive-greeting-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "44-easter-festive-greeting-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": ["p_fest"],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RGdk4_1711707712506_44-easter-festive-greeting-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_q-f2f_1711707712505_44-easter-festive-greeting-story.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "date": 20,
-      "month ": "april",
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.5,
-      "isMultipleTemplate": false,
-      "previews": []
-    },
+	{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_z7KCJ_1666164835041_mixkit-classical-vibes-5-688.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-02-20T08:31:30.645Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705389346749_19- brand outro-post-wth-elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_HiHwr_1771576284391_34-good-friday-greeting-square.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Posts",
+	"name": "34-good-friday-greeting-square",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_fest"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bCpG3_1771576284394_34-good-friday-greeting-square.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_vfwYN_1771576284393_34-good-friday-greeting-square.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1080,
+	"Width": 1080,
+	"height": 1080,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "april",
+	"date": 3,
+	"isMultipleTemplate": false,
+	"templateId": "vxdsuhfgdgyyhu",
+	"id": "vxdsuhfgdgyyhu",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rl9kO_1758113166162_Celebration.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-02-20T12:25:53.017Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_KFw80_1771590348785_45-easter-new-portrait-greeting.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "45-easter-new-portrait-greeting",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_fest"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_20VeH_1771590348788_45-easter-new-portrait-greeting.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fkAqt_1771590348786_45-easter-new-portrait-greeting.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "april",
+	"date": 5,
+	"isMultipleTemplate": false,
+	"templateId": "dfdgjuyvcdbu",
+	"id": "dfdgjuyvcdbu",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iQUIl_1756901839889_Happy Everyday.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-02-20T12:44:03.680Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_2M1p7_1771591438376_21-easter-festive-greeting-story.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "21-easter-festive-greeting-story",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_fest"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_stmOl_1771591438380_21-easter-festive-greeting-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TPHq5_1771591438379_21-easter-festive-greeting-story.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "april",
+	"date": 5,
+	"isMultipleTemplate": false,
+	"templateId": "hhugjuhhukolfd",
+	"id": "hhugjuhhukolfd",
+	"previews": []
+},
     {
       "id": "mlpn_15_cftyr",
       "templateId": "mlpn_15_cftyr",
@@ -32688,7 +32832,7 @@
       "volume": 0.9,
       "noBlur": false,
       "month": "march",
-      "date": 31,
+      "date": 19,
       "isMultipleTemplate": false,
       "previews": [],
       "id": "RNLjH5DdkAD7YnhQx1GQn",
@@ -32928,7 +33072,7 @@
       "volume": 0.8,
       "noBlur": false,
       "month": "march",
-      "date": 31,
+      "date": 19,
       "isMultipleTemplate": false,
       "previews": [],
       "id": "6NGQqYN2IpGuzGyRcg8Fi",
