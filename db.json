@@ -66990,74 +66990,6 @@
 	"bgImageUrl": [
 		""
 	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_7qWKv_1719918137774_island-beat-250.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": false,
-	"createdOn": "2026-02-24T11:25:10.855Z",
-	"extraComps": [
-		{
-			"index": 4,
-			"compId": "1705320145920_19-brnad Outro-with elements"
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Ls8PY_1771932307730_01-story-most-popular-2025.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Instagram Stories",
-	"name": "01-story-most-popular-2025",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_mp"
-	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kC9uW_1771932307741_01-story-most-popular-2025.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_adhWB_1771932307736_01-story-most-popular-2025.jpg",
-	"imageType": "Instagram Stories",
-	"outroType": null,
-	"introType": null,
-	"Height": 1920,
-	"Width": 1080,
-	"height": 1920,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"volume": 1,
-	"noBlur": false,
-	"month": "january",
-	"isMultipleTemplate": false,
-	"id": "thisistesttemplate#9284348",
-	"templateId": "thisistesttemplate#9284348",
-	"previews": []
-},
-
-	{
-	"version": 1,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
 	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iQUIl_1756901839889_Happy Everyday.mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
@@ -69581,60 +69513,68 @@
       "version": 1,
       "id": "gzUrBVOOPmdLVZbY8KpKS_mp",
       "templateId": "gzUrBVOOPmdLVZbY8KpKS_mp",
-      "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_pWUkQ_1696923381895_mixkit-its-because-of-you-1180.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-10-14T10:27:44.395Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1705581105932_23 Outro Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_xLwxO_1760437661283_01-story-most-popular-2025.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "01-story-most-popular-2025",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": ["p_mp"],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6JnK5_1760437661288_01-story-most-popular-2025.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_59_nj_1760437661285_01-story-most-popular-2025.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 1,
-      "noBlur": false,
-      "month": "january",
-      "isMultipleTemplate": false,
-      "previews": []
+			"gifUrl": "",
+		"bgVideoUrl": [
+			""
+		],
+		"fontUrl": [
+			""
+		],
+		"bgImageUrl": [
+			""
+		],
+		"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_7qWKv_1719918137774_island-beat-250.mp3",
+		"fillEnabled": true,
+		"forWebsites": [],
+		"pro": false,
+		"createdOn": "2026-02-24T11:25:10.855Z",
+		"extraComps": [
+			{
+				"index": 4,
+				"compId": "1705320145920_19-brnad Outro-with elements"
+			}
+		],
+		"widgetsDefinition": [
+			{
+				"mappingKeyMandatory": false,
+				"Height": "100%",
+				"Width": "100%",
+				"StartTime": 0,
+				"EndTime": -1,
+				"URLS": [],
+				"mappingKeyValue": "",
+				"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Ls8PY_1771932307730_01-story-most-popular-2025.json",
+				"X": "0.0%",
+				"Y": "0.0%",
+				"type": "SVG_SINGLE",
+				"duration": 10
+			}
+		],
+		"type": "Instagram Stories",
+		"name": "01-story-most-popular-2025",
+		"brandEnabled": false,
+		"brandType": "X1",
+		"category": [
+			"p_mp"
+		],
+		"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kC9uW_1771932307741_01-story-most-popular-2025.mp4",
+		"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_adhWB_1771932307736_01-story-most-popular-2025.jpg",
+		"imageType": "Instagram Stories",
+		"outroType": null,
+		"introType": null,
+		"Height": 1920,
+		"Width": 1080,
+		"height": 1920,
+		"width": 1080,
+		"introId": null,
+		"outroId": null,
+		"isTransparent": false,
+		"AddId": "",
+		"volume": 1,
+		"noBlur": false,
+		"month": "january",
+		"isMultipleTemplate": false,
+		"previews": []
     },
     {
       "version": 1,
