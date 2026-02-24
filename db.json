@@ -32351,66 +32351,6 @@
       "templateId": "7bPxdcsjZKB55wlUorm7b"
     },
     {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_vNo4p_1706013764520_im-fine-1002.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-04-15T12:17:26.096Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1705320145920_19-brnad Outro-with elements"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_s5-cr_1744719442520_20-good-friday-festive-greeting-v1.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "20-good-friday-festive-greeting-v1",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": ["p_fest"],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CAn9K_1744719442525_20-good-friday-festive-greeting-v1.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8IzOw_1744719442523_20-good-friday-festive-greeting-v1.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 1,
-      "noBlur": false,
-      "month": "april",
-      "date": 18,
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "WFn-qNKvSy4MUBdDXeOjI",
-      "templateId": "WFn-qNKvSy4MUBdDXeOjI"
-    },
-    {
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [""],
@@ -32469,66 +32409,6 @@
       "previews": [],
       "id": "LoFFa2WdCT9C26AWTiZXQ",
       "templateId": "LoFFa2WdCT9C26AWTiZXQ"
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_7WrqO_1666164631737_mixkit-a-happy-child-532.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2025-04-15T08:44:39.697Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1705320145920_19-brnad Outro-with elements"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_0H60K_1744706675977_21-easter-festive-greeting-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "21-easter-festive-greeting-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": ["p_fest"],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_AX9xJ_1744706675980_21-easter-festive-greeting-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Q9wuf_1744706675979_21-easter-festive-greeting-story.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.8,
-      "noBlur": false,
-      "month": "april",
-      "date": 20,
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "Cre-8Mt4fy_dUjQfNf18E",
-      "templateId": "Cre-8Mt4fy_dUjQfNf18E"
     },
     {
       "version": 1,
