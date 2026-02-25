@@ -116604,140 +116604,6 @@
       "id": "JwEWW9K68PwxSQN3Kr8DV",
       "templateId": "JwEWW9K68PwxSQN3Kr8DV"
     },
-	{
-	"version": 1,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iQUIl_1756901839889_Happy Everyday.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": false,
-	"createdOn": "2026-02-24T08:43:54.623Z",
-	"extraComps": [
-		{
-			"index": 4,
-			"compId": "1771921612581_19 Branoutro portrait with drop shadow"
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ENudK_1771922628750_01-new-arrival-24-portrait-naveen-updated-with-test-drop-shadow.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Post 4:5",
-	"name": "01-new-arrival-24-portrait-naveen-updated-with-test-drop-shadow",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_na"
-	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_z4BuZ_1771922628754_01-new-arrival-24-portrait-naveen-updated-with-test-drop-shadow.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_WLM8G_1771922628752_01-new-arrival-24-portrait-naveen-updated-with-test-drop-shadow.jpg",
-	"imageType": "Post 4:5",
-	"outroType": null,
-	"introType": null,
-	"Height": 1350,
-	"Width": 1080,
-	"height": 1350,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"volume": 1,
-	"noBlur": false,
-	"month": "january",
-	"isMultipleTemplate": false,
-	"templateId": "hanumasskdttata",
-	"id": "hanumasskdttata",
-	"previews": []
-},
-{
-	"version": 1,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iQUIl_1756901839889_Happy Everyday.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": false,
-	"createdOn": "2026-02-24T08:43:54.623Z",
-	"extraComps": [
-		{
-			"index": 4,
-			"compId": "1771921612581_19 Branoutro portrait with drop shadow"
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ENudK_1771922628750_01-new-arrival-24-portrait-naveen-updated-with-test-drop-shadow.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Post 4:5",
-	"name": "01-new-arrival-24-portrait-naveen-updated-with-test-drop-shadow",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_na"
-	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_z4BuZ_1771922628754_01-new-arrival-24-portrait-naveen-updated-with-test-drop-shadow.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_WLM8G_1771922628752_01-new-arrival-24-portrait-naveen-updated-with-test-drop-shadow.jpg",
-	"imageType": "Post 4:5",
-	"outroType": null,
-	"introType": null,
-	"Height": 1350,
-	"Width": 1080,
-	"height": 1350,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"volume": 1,
-	"noBlur": false,
-	"month": "january",
-	"isMultipleTemplate": true,
-	"templateId": "hanumasskdttata",
-	"id": "hanumasskdttata",
-	"previews": []
-},
 {
       "version": 1,
       "gifUrl": "",
@@ -118274,6 +118140,87 @@
       "speedXfortwoImage": 1,
       "speedX": 1.25
     },
+	{
+  "version": 1,
+  "gifUrl": "",
+  "bgVideoUrl": [
+    ""
+  ],
+  "fontUrl": [
+    ""
+  ],
+  "bgImageUrl": [
+    ""
+  ],
+  "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iQUIl_1756901839889_Happy Everyday.mp3",
+  "fillEnabled": true,
+  "forWebsites": [],
+  "pro": false,
+  "createdOn": "2026-02-25T06:07:57.828Z",
+  "extraComps": [
+    {
+      "index": 4,
+      "compId": "1705322724854_19 Brand Outro portrait with elements "
+    }
+  ],
+  "widgetsDefinition": [
+    {
+      "mappingKeyMandatory": false,
+      "Height": "100%",
+      "Width": "100%",
+      "StartTime": 0,
+      "EndTime": -1,
+      "URLS": [],
+      "mappingKeyValue": "",
+      "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_6yYnr_1771999673844_01-new-arrival-24-portrait-naveen-updated-without-test-drop-shadow2.json",
+      "X": "0.0%",
+      "Y": "0.0%",
+      "type": "SVG_SINGLE",
+      "duration": 10
+    }
+  ],
+  "type": "Post 4:5",
+  "name": "01-new-arrival-24-portrait-naveen-updated-without-test-drop-shadow2",
+  "brandEnabled": false,
+  "brandType": "X1",
+  "category": [
+    "p_na"
+  ],
+  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RwkOa_1771999673848_01-new-arrival-24-portrait-naveen-updated-without-test-drop-shadow2.mp4",
+  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_mQS65_1771999673845_01-new-arrival-24-portrait-naveen-updated-without-test-drop-shadow2.jpg",
+  "imageType": "Post 4:5",
+  "outroType": null,
+  "introType": null,
+  "Height": 1350,
+  "Width": 1080,
+  "height": 1350,
+  "width": 1080,
+  "introId": null,
+  "outroId": null,
+  "isTransparent": false,
+  "AddId": "",
+  "volume": 1,
+  "noBlur": false,
+  "month": "january",
+  "isMultipleTemplate": false,
+  "templateId": "newssdjf6cQdcf",
+  "id": "newssdjf6cQdcf",
+  "previews": [],
+  "globalStyles": {
+    "text": {
+      "dropShadow": {
+        "enabled": true,
+        "applyTo": "all",
+        "filterId": "dynamicTextShadow",
+        "dx": 3,
+        "dy": 4,
+        "stdDeviation": 6,
+        "color": "#000000",
+        "opacity": 0.35
+      }
+    }
+  }
+},
 {
       "version": 1,
       "gifUrl": "",
