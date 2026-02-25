@@ -75601,7 +75601,7 @@
       "isTransparent": false,
       "AddId": "",
       "volume": 1,
-      "noBlur": false,
+      "noBlur": true,
       "month": "january",
       "isMultipleTemplate": false,
       "previews": [
