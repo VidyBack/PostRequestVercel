@@ -28955,6 +28955,74 @@
       "id": "c-h7lXXsxZLodhAY58rBa",
       "templateId": "c-h7lXXsxZLodhAY58rBa"
     },
+	{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OI2st_1756464032591_A Special Feeling 1087.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-03-02T11:51:42.551Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_GoFoP_1772452298544_08-world-book-day-festive-greeting-story.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "08-world-book-day-festive-greeting-story",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_fest"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ogvRW_1772452298548_08-world-book-day-festive-greeting-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_oZ69j_1772452298546_08-world-book-day-festive-greeting-story.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "april",
+	"date": 23,
+	"isMultipleTemplate": false,
+	"templateId": "junikoljddonep",
+	"id": "junikoljddonep",
+	"previews": []
+},
 {
 	"version": 1,
 	"gifUrl": "",
@@ -33151,62 +33219,6 @@
       "previews": [],
       "id": "-rVFE0Qi0VWhpzcEw6Xce",
       "templateId": "-rVFE0Qi0VWhpzcEw6Xce"
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [""],
-      "fontUrl": [""],
-      "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3safL_1666165205619_mixkit-my-little-prince-815.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-02-17T09:52:32.814Z",
-      "extraComps": [
-        {
-          "index": 7,
-          "compId": "1666244855005_15-BrandOutro-post-square"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_DmvqB_1676627548539_06-wolrd-books-day-14-02-23.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "06-wolrd-books-day-14-02-23",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": ["p_fest"],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Lbo6v_1676627548543_06-wolrd-books-day-14-02-23.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PHThy_1676627548541_06-wolrd-books-day-14-02-23.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [],
-      "id": "2Lmc0tA3UveQ1Ghn0i2OM",
-      "templateId": "2Lmc0tA3UveQ1Ghn0i2OM",
-      "month": "april",
-      "priorityNumber": false,
-      "isMultipleTemplate": false
     },
     {
       "version": 1,
@@ -90952,6 +90964,140 @@
 	"isMultipleTemplate": false,
 	"templateId": "jaihunmusnd",
 	"id": "jaihunmusnd",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_x6g5h_1719917202471_back-to-you-790.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-02-12T11:33:04.331Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_DmBcC_1770895981008_46-display-ads-new-story-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "46-display-ads-new-story-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_ps"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Jnnwb_1770895981012_46-display-ads-new-story-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_D8lf6_1770895981011_46-display-ads-new-story-template.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "koikjdhsfgcxod",
+	"id": "koikjdhsfgcxod",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_x6g5h_1719917202471_back-to-you-790.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-02-12T11:33:04.331Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_DmBcC_1770895981008_46-display-ads-new-story-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "46-display-ads-new-story-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_ps"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Jnnwb_1770895981012_46-display-ads-new-story-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_D8lf6_1770895981011_46-display-ads-new-story-template.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "koikjdhsfgcxod",
+	"id": "koikjdhsfgcxod",
 	"previews": []
 },
 	{
