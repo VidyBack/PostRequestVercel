@@ -79,6 +79,73 @@
 	"bgImageUrl": [
 		""
 	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pJJHo_1773647478224_Ascent_to_Zenith.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-03-16T07:59:49.707Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Ebdgi_1773647985484_05-video-template-story.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "05-video-template-story",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_Video"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_F1bkg_1773647985547_05-video-template-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0l184_1773647985509_05-video-template-story.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "nstttmo#$&jio",
+	"id": "nstttmo#$&jio",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
 	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2DL3c_1772785892653_midnight.mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
