@@ -68487,6 +68487,140 @@
 	"previews": []
 },
 {
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PraKC_1773922429783_AH_music.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-03-19T12:20:38.220Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_YhE_8_1773922834327_05-story-mostpopular-2026.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "05-story-mostpopular-2026",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_mp"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_h57o-_1773922834339_05-story-mostpopular-2026.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Wt9I2_1773922834331_05-story-mostpopular-2026.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"id": "stihfbvh#jhg-fghy45",
+  "templateId": "stihfbvh#jhg-fghy45",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PraKC_1773922429783_AH_music.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-03-19T12:20:38.220Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_YhE_8_1773922834327_05-story-mostpopular-2026.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "05-story-mostpopular-2026",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_mp"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_h57o-_1773922834339_05-story-mostpopular-2026.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Wt9I2_1773922834331_05-story-mostpopular-2026.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"id": "stihfbvh#jhg-fghy45",
+  "templateId": "stihfbvh#jhg-fghy45",
+	"previews": []
+},
+{
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [""],
@@ -71004,140 +71138,6 @@
 	"isMultipleTemplate": false,
 	"id": "dfjhsdf#jdsfoidk#434",
     "templateId": "dfjhsdf#jdsfoidk#434",
-	"previews": []
-},
-{
-	"version": 1,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PraKC_1773922429783_AH_music.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": false,
-	"createdOn": "2026-03-19T12:20:38.220Z",
-	"extraComps": [
-		{
-			"index": 4,
-			"compId": "1705320145920_19-brnad Outro-with elements"
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_YhE_8_1773922834327_05-story-mostpopular-2026.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Instagram Stories",
-	"name": "05-story-mostpopular-2026",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_mp"
-	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_h57o-_1773922834339_05-story-mostpopular-2026.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Wt9I2_1773922834331_05-story-mostpopular-2026.jpg",
-	"imageType": "Instagram Stories",
-	"outroType": null,
-	"introType": null,
-	"Height": 1920,
-	"Width": 1080,
-	"height": 1920,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"volume": 1,
-	"noBlur": false,
-	"month": "january",
-	"isMultipleTemplate": true,
-	"id": "stihfbvh#jhg-fghy45",
-    "templateId": "stihfbvh#jhg-fghy45",
-	"previews": []
-},
-{
-	"version": 1,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PraKC_1773922429783_AH_music.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": false,
-	"createdOn": "2026-03-19T12:20:38.220Z",
-	"extraComps": [
-		{
-			"index": 4,
-			"compId": "1705320145920_19-brnad Outro-with elements"
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_YhE_8_1773922834327_05-story-mostpopular-2026.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Instagram Stories",
-	"name": "05-story-mostpopular-2026",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_mp"
-	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_h57o-_1773922834339_05-story-mostpopular-2026.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Wt9I2_1773922834331_05-story-mostpopular-2026.jpg",
-	"imageType": "Instagram Stories",
-	"outroType": null,
-	"introType": null,
-	"Height": 1920,
-	"Width": 1080,
-	"height": 1920,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"volume": 1,
-	"noBlur": false,
-	"month": "january",
-	"isMultipleTemplate": false,
-	"id": "stihfbvh#jhg-fghy45",
-    "templateId": "stihfbvh#jhg-fghy45",
 	"previews": []
 },
 {
@@ -92214,7 +92214,7 @@
 				"id": "tmiofnn#94kosjdoj",
 			   "templateId": "tmiofnn#94kosjdoj",
 				"previews": []
-			},	
+			},
 	{
 	"version": 1,
 	"gifUrl": "",
