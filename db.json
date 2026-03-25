@@ -29325,7 +29325,7 @@
       "bgVideoUrl": [""],
       "fontUrl": [""],
       "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Viaxt_1756215954386_Sukhkarta Dukhharta.mp3",
+      "bgMusicUrl": "https://hootout.s3.ap-south-1.amazonaws.com/vidyback/music/Whispers_of_the_Ganges.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -120051,6 +120051,274 @@
 	"isMultipleTemplate": false,
 	"templateId": "fgnumuninottiy",
 	"id": "fgnumuninottiy",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_G3YAM_1774437146330_Starlight_Strut.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-03-25T11:15:42.761Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_z-LeU_1774437339538_08-newarrival-portait-2026.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "08-newarrival-portait-2026",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_na"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SJcbG_1774437339547_08-newarrival-portait-2026.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p8CnI_1774437339542_08-newarrival-portait-2026.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"id": "prtnewarr2237#wdsui",
+	"templateId": "prtnewarr2237#wdsui",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_G3YAM_1774437146330_Starlight_Strut.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-03-25T11:15:42.761Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_z-LeU_1774437339538_08-newarrival-portait-2026.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "08-newarrival-portait-2026",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_na"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SJcbG_1774437339547_08-newarrival-portait-2026.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p8CnI_1774437339542_08-newarrival-portait-2026.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"id": "prtnewarr2237#wdsui",
+	"templateId": "prtnewarr2237#wdsui",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VbBO3_1774437091515_Starchild_Groove.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-03-25T11:19:50.199Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Wbg56_1774437587088_09-newarrival-portait-2026.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "09-newarrival-portait-2026",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_na"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_r_gfb_1774437587093_09-newarrival-portait-2026.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_NHC6U_1774437587090_09-newarrival-portait-2026.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"id": "tetetneeeri2ksd#djj",
+	"templateId": "tetetneeeri2ksd#djj",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VbBO3_1774437091515_Starchild_Groove.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-03-25T11:19:50.199Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Wbg56_1774437587088_09-newarrival-portait-2026.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "09-newarrival-portait-2026",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_na"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_r_gfb_1774437587093_09-newarrival-portait-2026.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_NHC6U_1774437587090_09-newarrival-portait-2026.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"id": "tetetneeeri2ksd#djj",
+	"templateId": "tetetneeeri2ksd#djj",
 	"previews": []
 },
 	{
