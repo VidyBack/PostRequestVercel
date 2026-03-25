@@ -49038,7 +49038,7 @@
 	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_7hvpM_1719917969746_fashion-228.mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
-	"pro": true,
+	"pro": false,
 	"createdOn": "2026-03-24T10:51:26.428Z",
 	"extraComps": [
 		{
@@ -49105,7 +49105,7 @@
 	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_7hvpM_1719917969746_fashion-228.mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
-	"pro": true,
+	"pro": false,
 	"createdOn": "2026-03-24T10:51:26.428Z",
 	"extraComps": [
 		{
@@ -49155,6 +49155,274 @@
 	"isMultipleTemplate": false,
 	"templateId": "gundfydfrajjki",
 	"id": "gundfydfrajjki",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TZ2ej_1773745059640_Momentum_Shift.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-03-25T10:58:27.764Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ElDAC_1774436300445_20-discount-in-percentage-story.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "20-discount-in-percentage-story",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_dpercentage"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iwAZP_1774436300450_20-discount-in-percentage-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Fl1s__1774436300448_20-discount-in-percentage-story.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "newksumesdvc",
+	"id": "newksumesdvc",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TZ2ej_1773745059640_Momentum_Shift.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-03-25T10:58:27.764Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ElDAC_1774436300445_20-discount-in-percentage-story.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "20-discount-in-percentage-story",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_dpercentage"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iwAZP_1774436300450_20-discount-in-percentage-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Fl1s__1774436300448_20-discount-in-percentage-story.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "newksumesdvc",
+	"id": "newksumesdvc",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__5ggI_1773743900284_Ethereal_Echoes.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-03-25T09:25:19.152Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ntA1e_1774430715195_02-discount-in-percentage-new-portrait-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "02-discount-in-percentage-new-portrait-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_dpercentage"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SFZV-_1774430715205_02-discount-in-percentage-new-portrait-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8N9Ow_1774430715202_02-discount-in-percentage-new-portrait-template.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.8,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "ghafurisndkit",
+	"id": "ghafurisndkit",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__5ggI_1773743900284_Ethereal_Echoes.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-03-25T09:25:19.152Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ntA1e_1774430715195_02-discount-in-percentage-new-portrait-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "02-discount-in-percentage-new-portrait-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_dpercentage"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SFZV-_1774430715205_02-discount-in-percentage-new-portrait-template.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8N9Ow_1774430715202_02-discount-in-percentage-new-portrait-template.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.8,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "ghafurisndkit",
+	"id": "ghafurisndkit",
 	"previews": []
 },
 	{
