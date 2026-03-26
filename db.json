@@ -34858,7 +34858,7 @@
       "bgVideoUrl": [""],
       "fontUrl": [""],
       "bgImageUrl": [""],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_bRaoQ_1705389742089_goals-are-ahead-146.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Zrso7_1774509339940_Dawn_in_the_Inner_Sanctum.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -48301,7 +48301,142 @@
     }
   ],
   "p_dpercentage": [
-    {
+
+	{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VbBO3_1774437091515_Starchild_Groove.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-03-26T10:51:59.345Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_eT6D__1774522314475_11-discount-in-percentage-new-story.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "11-discount-in-percentage-new-story",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_dpercentage"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_k3tza_1774522314480_11-discount-in-percentage-new-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ELhur_1774522314478_11-discount-in-percentage-new-story.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "jaaduhdfkdfufhf",
+	"id": "jaaduhdfkdfufhf",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VbBO3_1774437091515_Starchild_Groove.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-03-26T10:51:59.345Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_eT6D__1774522314475_11-discount-in-percentage-new-story.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "11-discount-in-percentage-new-story",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_dpercentage"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_k3tza_1774522314480_11-discount-in-percentage-new-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ELhur_1774522314478_11-discount-in-percentage-new-story.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "jaaduhdfkdfufhf",
+	"id": "jaaduhdfkdfufhf",
+	"previews": []
+},
+	{
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [""],
@@ -49173,7 +49308,7 @@
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": false,
-	"createdOn": "2026-03-25T10:58:27.764Z",
+	"createdOn": "2026-03-26T12:24:14.845Z",
 	"extraComps": [
 		{
 			"index": 4,
@@ -49189,7 +49324,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ElDAC_1774436300445_20-discount-in-percentage-story.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_yENGM_1774527849105_20-discount-in-percentage-story.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -49203,8 +49338,8 @@
 	"category": [
 		"p_dpercentage"
 	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iwAZP_1774436300450_20-discount-in-percentage-story.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Fl1s__1774436300448_20-discount-in-percentage-story.jpg",
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kkyuJ_1774527849111_20-discount-in-percentage-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_hmsHm_1774527849109_20-discount-in-percentage-story.jpg",
 	"imageType": "Instagram Stories",
 	"outroType": null,
 	"introType": null,
@@ -49220,8 +49355,8 @@
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": true,
-	"templateId": "newksumesdvc",
-	"id": "newksumesdvc",
+	"templateId": "yuhuhdhfgfsds",
+	"id": "yuhuhdhfgfsds",
 	"previews": []
 },
 {
@@ -49240,7 +49375,7 @@
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": false,
-	"createdOn": "2026-03-25T10:58:27.764Z",
+	"createdOn": "2026-03-26T12:24:14.845Z",
 	"extraComps": [
 		{
 			"index": 4,
@@ -49256,7 +49391,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ElDAC_1774436300445_20-discount-in-percentage-story.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_yENGM_1774527849105_20-discount-in-percentage-story.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -49270,8 +49405,8 @@
 	"category": [
 		"p_dpercentage"
 	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iwAZP_1774436300450_20-discount-in-percentage-story.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Fl1s__1774436300448_20-discount-in-percentage-story.jpg",
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kkyuJ_1774527849111_20-discount-in-percentage-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_hmsHm_1774527849109_20-discount-in-percentage-story.jpg",
 	"imageType": "Instagram Stories",
 	"outroType": null,
 	"introType": null,
@@ -49287,8 +49422,142 @@
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": false,
-	"templateId": "newksumesdvc",
-	"id": "newksumesdvc",
+	"templateId": "yuhuhdhfgfsds",
+	"id": "yuhuhdhfgfsds",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_G3YAM_1774437146330_Starlight_Strut.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-03-26T12:14:52.508Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_HBDbC_1774527287234_10-discount-in-percentage-story.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "10-discount-in-percentage-story",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_dpercentage"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lMWOh_1774527287238_10-discount-in-percentage-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_O_V-n_1774527287236_10-discount-in-percentage-story.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "gulsodjbfdymun",
+	"id": "gulsodjbfdymun",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_G3YAM_1774437146330_Starlight_Strut.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-03-26T12:14:52.508Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_HBDbC_1774527287234_10-discount-in-percentage-story.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "10-discount-in-percentage-story",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_dpercentage"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lMWOh_1774527287238_10-discount-in-percentage-story.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_O_V-n_1774527287236_10-discount-in-percentage-story.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "gulsodjbfdymun",
+	"id": "gulsodjbfdymun",
 	"previews": []
 },
 {
@@ -120185,6 +120454,274 @@
 	"isMultipleTemplate": false,
 	"templateId": "mkiolodsdsdcc",
 	"id": "mkiolodsdsdcc",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_4jr9-_1774526987568_Copper_Street_Strut.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-03-26T12:15:11.903Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_FHVvl_1774527308631_10-newarrival-portait-2026.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "10-newarrival-portait-2026",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_na"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qgWtu_1774527308643_10-newarrival-portait-2026.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tUYHJ_1774527308638_10-newarrival-portait-2026.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "ewr48#9fsjd",
+	"id": "ewr48#9fsjd",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_4jr9-_1774526987568_Copper_Street_Strut.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-03-26T12:15:11.903Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_FHVvl_1774527308631_10-newarrival-portait-2026.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "10-newarrival-portait-2026",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_na"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qgWtu_1774527308643_10-newarrival-portait-2026.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tUYHJ_1774527308638_10-newarrival-portait-2026.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "ewr48#9fsjd",
+	"id": "ewr48#9fsjd",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TZ2ej_1773745059640_Momentum_Shift.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-03-26T12:23:39.899Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_cRF0j_1774527816464_11-newarrival-portait-2026.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "11-newarrival-portait-2026",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_na"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FuZnu_1774527816476_11-newarrival-portait-2026.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0WxsB_1774527816472_11-newarrival-portait-2026.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "ifunnc#sdksd",
+	"id": "ifunnc#sdksd",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TZ2ej_1773745059640_Momentum_Shift.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-03-26T12:23:39.899Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_cRF0j_1774527816464_11-newarrival-portait-2026.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "11-newarrival-portait-2026",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_na"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FuZnu_1774527816476_11-newarrival-portait-2026.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0WxsB_1774527816472_11-newarrival-portait-2026.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "ifunnc#sdksd",
+	"id": "ifunnc#sdksd",
 	"previews": []
 },
 {
