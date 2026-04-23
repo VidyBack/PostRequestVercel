@@ -73193,6 +73193,73 @@
 			]
 		},
 		{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qUGJC_1773045874045_Executive_Suite_Serenade_comp.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-04-23T07:06:03.328Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1771921612581_19 Branoutro portrait with drop shadow"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/new-template-test-2026.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "new-template-test2-2026",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_ps"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rl06e_1776927959740_new-template-test2-2026.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2u2M__1776927959736_new-template-test2-2026.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"id": "templatetestn#2237dduij",
+	"templateId": "templatetestn#2237dduij",
+	"previews": []
+},
+		{
 			"version": 1,
 			"gifUrl": "",
 			"bgVideoUrl": [
