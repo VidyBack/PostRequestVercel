@@ -13153,6 +13153,278 @@
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
+      "createdOn": "2026-04-23T12:07:20.224Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_3gUG0_1778138423922_11-did-you-know-portrait-new-updatedfont.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "11-did-you-know-portrait-new",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_basicPromo"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Xv-JO_1778138423931_11-did-you-know-portrait-new-updatedfont.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_a90c7_1778138423928_11-did-you-know-portrait-new-updatedfont.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": true,
+      "templateId": "newmosuchidnfcQf",
+      "id": "newmosuchidnfcQf",
+      "previews": [],
+      "brandTag": false
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2026-04-23T12:07:20.224Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_3gUG0_1778138423922_11-did-you-know-portrait-new-updatedfont.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "11-did-you-know-portrait-new",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_basicPromo"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Xv-JO_1778138423931_11-did-you-know-portrait-new-updatedfont.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_a90c7_1778138423928_11-did-you-know-portrait-new-updatedfont.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "templateId": "newmosuchidnfcQf",
+      "id": "newmosuchidnfcQf",
+      "previews": [],
+      "brandTag": false
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2026-04-25T06:46:49.487Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ez32p_1777099605886_06-promotional-portrait-template-v2.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "06-promotional-portrait-template-v2",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_basicPromo"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_C4FuQ_1777099605889_06-promotional-portrait-template-v2.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_asMs4_1777099605887_06-promotional-portrait-template-v2.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": true,
+      "templateId": "jokarnahsjghdbhk",
+      "id": "jokarnahsjghdbhk",
+      "previews": [],
+      "brandTag": false
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2026-04-25T06:46:49.487Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705322724854_19 Brand Outro portrait with elements "
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ez32p_1777099605886_06-promotional-portrait-template-v2.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "06-promotional-portrait-template-v2",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_basicPromo"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_C4FuQ_1777099605889_06-promotional-portrait-template-v2.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_asMs4_1777099605887_06-promotional-portrait-template-v2.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "noBlur": false,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "templateId": "jokarnahsjghdbhk",
+      "id": "jokarnahsjghdbhk",
+      "previews": [],
+      "brandTag": false
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
       "createdOn": "2026-05-11T10:02:41.059Z",
       "extraComps": [
         {
@@ -13544,142 +13816,6 @@
       "id": "smlnwtmp730jip",
       "brandTag": true,
       "previews": []
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2026-04-23T12:07:20.224Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_3gUG0_1778138423922_11-did-you-know-portrait-new-updatedfont.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "11-did-you-know-portrait-new",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_basicPromo"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Xv-JO_1778138423931_11-did-you-know-portrait-new-updatedfont.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_a90c7_1778138423928_11-did-you-know-portrait-new-updatedfont.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 1,
-      "noBlur": false,
-      "month": "january",
-      "isMultipleTemplate": true,
-      "templateId": "newmosuchidnfcQf",
-      "id": "newmosuchidnfcQf",
-      "previews": [],
-      "brandTag": false
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2026-04-23T12:07:20.224Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_3gUG0_1778138423922_11-did-you-know-portrait-new-updatedfont.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "11-did-you-know-portrait-new",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_basicPromo"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Xv-JO_1778138423931_11-did-you-know-portrait-new-updatedfont.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_a90c7_1778138423928_11-did-you-know-portrait-new-updatedfont.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 1,
-      "noBlur": false,
-      "month": "january",
-      "isMultipleTemplate": false,
-      "templateId": "newmosuchidnfcQf",
-      "id": "newmosuchidnfcQf",
-      "previews": [],
-      "brandTag": false
     },
     {
       "version": 2,
@@ -14770,142 +14906,6 @@
       "isMultipleTemplate": false,
       "templateId": "gillmkumgyshubhm",
       "id": "gillmkumgyshubhm",
-      "previews": [],
-      "brandTag": false
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2026-04-25T06:46:49.487Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ez32p_1777099605886_06-promotional-portrait-template-v2.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "06-promotional-portrait-template-v2",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_basicPromo"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_C4FuQ_1777099605889_06-promotional-portrait-template-v2.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_asMs4_1777099605887_06-promotional-portrait-template-v2.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 1,
-      "noBlur": false,
-      "month": "january",
-      "isMultipleTemplate": true,
-      "templateId": "jokarnahsjghdbhk",
-      "id": "jokarnahsjghdbhk",
-      "previews": [],
-      "brandTag": false
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2026-04-25T06:46:49.487Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1705322724854_19 Brand Outro portrait with elements "
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ez32p_1777099605886_06-promotional-portrait-template-v2.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "06-promotional-portrait-template-v2",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_basicPromo"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_C4FuQ_1777099605889_06-promotional-portrait-template-v2.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_asMs4_1777099605887_06-promotional-portrait-template-v2.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 1,
-      "noBlur": false,
-      "month": "january",
-      "isMultipleTemplate": false,
-      "templateId": "jokarnahsjghdbhk",
-      "id": "jokarnahsjghdbhk",
       "previews": [],
       "brandTag": false
     },
