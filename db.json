@@ -13680,6 +13680,140 @@
       "brandTag": false
     },
     {
+	"version": 2,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PraKC_1773922429783_AH_music.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-05-12T10:19:08.608Z",
+	"extraComps": [
+    {
+      "index": 3,
+      "compId": "1705322724854_19 Brand Outro portrait with elements "
+    }
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_da7u6_1778581144649_04-promotional-portrait-new-template-v1-font-update.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "04-promotional-portrait-new-template-v1-font-update",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_basicPromo"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8sw9l_1778581144667_04-promotional-portrait-new-template-v1-font-update.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SZcEw_1778581144658_04-promotional-portrait-new-template-v1-font-update.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "pernsx#dsd84dui",
+    "id": "pernsx#dsd84dui",
+	"previews": []
+},
+{
+	"version": 2,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PraKC_1773922429783_AH_music.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-05-12T10:19:08.608Z",
+	"extraComps": [
+    {
+      "index": 3,
+      "compId": "1705322724854_19 Brand Outro portrait with elements "
+    }
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_da7u6_1778581144649_04-promotional-portrait-new-template-v1-font-update.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "04-promotional-portrait-new-template-v1-font-update",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_basicPromo"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8sw9l_1778581144667_04-promotional-portrait-new-template-v1-font-update.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SZcEw_1778581144658_04-promotional-portrait-new-template-v1-font-update.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "pernsx#dsd84dui",
+  "id": "pernsx#dsd84dui",
+	"previews": []
+},
+    {
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
