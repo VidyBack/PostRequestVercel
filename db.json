@@ -14029,7 +14029,7 @@
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": false,
-	"createdOn": "2026-05-18T08:55:09.696Z",
+	"createdOn": "2026-05-25T11:11:14.000Z",
 	"extraComps": [
 		{
 			"index": 3,
@@ -14045,22 +14045,22 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-      "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_bR-N2_1779707468376_39-promotional-portrait-new.json",
-    "X": "0.0%",
-    "Y": "0.0%",
-    "type": "SVG_SINGLE",
-    "duration": 10
-  }
-],
-"type": "Post 4:5",
-"name": "39-promotional-portrait-new",
-"brandEnabled": false,
-"brandType": "X1",
-"category": [
-  "p_basicPromo"
-],
-"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6nHWF_1779707468382_39-promotional-portrait-new.mp4",
-"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_39sXz_1779707468380_39-promotional-portrait-new.jpg",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_bR-N2_1779707468376_39-promotional-portrait-new.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "39-promotional-portrait-new",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_basicPromo"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6nHWF_1779707468382_39-promotional-portrait-new.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_39sXz_1779707468380_39-promotional-portrait-new.jpg",
 	"imageType": "Post 4:5",
 	"outroType": null,
 	"introType": null,
@@ -14077,7 +14077,7 @@
 	"month": "january",
 	"isMultipleTemplate": false,
 	"templateId": "termusd8ruerifg",
-    "id": "termusd8ruerifg",
+  "id": "termusd8ruerifg",
 	"previews": []
 },
 {
@@ -14096,7 +14096,7 @@
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": false,
-	"createdOn": "2026-05-18T08:55:09.696Z",
+	"createdOn": "2026-05-25T11:11:14.000Z",
 	"extraComps": [
 		{
 			"index": 3,
@@ -14112,7 +14112,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-      "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_bR-N2_1779707468376_39-promotional-portrait-new.json",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_bR-N2_1779707468376_39-promotional-portrait-new.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -182264,7 +182264,7 @@
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": false,
-	"createdOn": "2026-05-18T08:55:09.696Z",
+	"createdOn": "2026-05-25T11:11:14.000Z",
 	"extraComps": [
 		{
 			"index": 3,
@@ -182292,9 +182292,9 @@
 	"brandEnabled": false,
 	"brandType": "X1",
 	"category": [
-	   "p_linkedin"
+		"p_linkedin"
 	],
-  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6nHWF_1779707468382_39-promotional-portrait-new.mp4",
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6nHWF_1779707468382_39-promotional-portrait-new.mp4",
 	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_39sXz_1779707468380_39-promotional-portrait-new.jpg",
 	"imageType": "Post 4:5",
 	"outroType": null,
@@ -182310,7 +182310,7 @@
 	"volume": 1,
 	"noBlur": false,
 	"month": "january",
-	"isMultipleTemplate": true,
+	"isMultipleTemplate": false,
 	"templateId": "termusd8ruerifg",
     "id": "termusd8ruerifg",
 	"previews": []
