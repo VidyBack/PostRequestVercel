@@ -184470,74 +184470,7 @@
 			"brandTag": true,
 			"previews": []
 		},
-		{
-			"version": 2,
-			"gifUrl": "",
-			"bgVideoUrl": [
-				""
-			],
-			"fontUrl": [
-				""
-			],
-			"bgImageUrl": [
-				""
-			],
-			"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
-			"fillEnabled": true,
-			"forWebsites": [],
-			"pro": false,
-			"createdOn": "2026-05-13T11:05:43.188Z",
-			"extraComps": [
-				{
-					"index": 3,
-					"compId": "1705322724854_19 Brand Outro portrait with elements "
-				}
-			],
-			"widgetsDefinition": [
-				{
-					"mappingKeyMandatory": false,
-					"Height": "100%",
-					"Width": "100%",
-					"StartTime": 0,
-					"EndTime": -1,
-					"URLS": [],
-					"mappingKeyValue": "",
-					"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_lf-Mv_1778670338443_10-linkedin-portrait-new-template.json",
-					"X": "0.0%",
-					"Y": "0.0%",
-					"type": "SVG_SINGLE",
-					"duration": 10
-				}
-			],
-			"type": "Post 4:5",
-			"name": "10-linkedin-portrait-new-template",
-			"brandEnabled": false,
-			"brandType": "X1",
-			"category": [
-				"p_linkedin"
-			],
-			"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-5cul_1778670338448_10-linkedin-portrait-new-template.mp4",
-			"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_mB39l_1778670338445_10-linkedin-portrait-new-template.jpg",
-			"imageType": "Youtube Videos",
-			"outroType": null,
-			"introType": null,
-			"Height": 1350,
-			"Width": 1080,
-			"height": 1350,
-			"width": 1080,
-			"introId": null,
-			"outroId": null,
-			"isTransparent": false,
-			"AddId": "",
-			"volume": 1,
-			"noBlur": false,
-			"month": "january",
-			"isMultipleTemplate": false,
-			"templateId": "uuoonnmmeenntn",
-			"id": "uuoonnmmeenntn",
-			"brandTag": true,
-			"previews": []
-		},
+	
 		{
 			"version": 2,
 			"gifUrl": "",
