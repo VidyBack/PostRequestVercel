@@ -41212,7 +41212,7 @@
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": false,
-	"createdOn": "2026-06-03T08:31:23.044Z",
+	"createdOn": "2026-06-04T05:16:38.248Z",
 	"extraComps": [
 		{
 			"index": 4,
@@ -41228,7 +41228,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_ZhlFe_1780475480179_03-customer-review-youtube-new.json",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_My0cF_1780550195210_03-customer-review-youtube-new.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -41242,8 +41242,8 @@
 	"category": [
 		"p_cr"
 	],
-	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_uAKow_1780475480189_03-customer-review-youtube-new.mp4",
-	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_-oMbu_1780475480186_03-customer-review-youtube-new.jpg",
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_R2gBP_1780550195216_03-customer-review-youtube-new.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_hmwaa_1780550195213_03-customer-review-youtube-new.jpg",
 	"imageType": "Instagram Posts",
 	"outroType": null,
 	"introType": null,
@@ -41255,12 +41255,12 @@
 	"outroId": null,
 	"isTransparent": false,
 	"AddId": "",
-	"volume": 0.7,
+	"volume": 0.8,
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": false,
-	"templateId": "huujffgfvvvni",
-	"id": "huujffgfvvvni",
+	"templateId": "baahdsudnkdsds",
+	"id": "baahdsudnkdsds",
 	"previews": []
 },
 		{
@@ -90771,151 +90771,6 @@
 			"bgImageUrl": [
 				""
 			],
-			"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RDkpS_1663063611709_Rebecca.mp3",
-			"fillEnabled": true,
-			"forWebsites": [],
-			"pro": true,
-			"createdOn": "2023-09-15T10:17:37.191Z",
-			"extraComps": [
-				{
-					"index": 4,
-					"compId": "1688557660289_15-youtube-1920x1080"
-				}
-			],
-			"widgetsDefinition": [
-				{
-					"mappingKeyMandatory": false,
-					"Height": "100%",
-					"Width": "100%",
-					"StartTime": 0,
-					"EndTime": -1,
-					"URLS": [],
-					"mappingKeyValue": "",
-					"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_XEBUm_1694772656504_01-most-popular-youtube.json",
-					"X": "0.0%",
-					"Y": "0.0%",
-					"type": "SVG_SINGLE",
-					"duration": 10
-				}
-			],
-			"type": "Youtube Videos",
-			"name": "01-most-popular-youtube",
-			"brandEnabled": false,
-			"brandType": "X1",
-			"category": [
-				"p_mp"
-			],
-			"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_JNDsg_1694772656507_01-most-popular-youtube.mp4",
-			"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tKu5w_1694772656506_01-most-popular-youtube.jpg",
-			"imageType": "Instagram Posts",
-			"outroType": null,
-			"introType": null,
-			"Height": 1080,
-			"Width": 1920,
-			"height": 1080,
-			"width": 1920,
-			"introId": null,
-			"outroId": null,
-			"isTransparent": false,
-			"AddId": "",
-			"volume": 0.3,
-			"isMultipleTemplate": false,
-			"previews": [
-				{
-					"Accessories": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_PK9rk_1694773044547_01-most-popular-youtube-Accessories.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_D3_zu_1694773048315_01-most-popular-youtube-Accessories.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Toys": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_-c47i_1694773044548_01-most-popular-youtube-Toys.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Jj02g_1694773048327_01-most-popular-youtube-Toys.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"HealthFitness": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_2cROm_1694773044549_01-most-popular-youtube-HealthFitness.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cVCTb_1694773048347_01-most-popular-youtube-HealthFitness.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Perfumes": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_epG5f_1694773044551_01-most-popular-youtube-Perfumes.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_pMPXn_1694773048349_01-most-popular-youtube-Perfumes.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"BagPurse": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_oAsRY_1694773044552_01-most-popular-youtube-BagPurse.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5of5G_1694773048351_01-most-popular-youtube-BagPurse.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"HealthBeauty": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Vzj1E_1694773044554_01-most-popular-youtube-HealthBeauty.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_doz-5_1694773048353_01-most-popular-youtube-HealthBeauty.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"MobileElec": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_XXqCO_1694773044555_01-most-popular-youtube-MobileElec.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_pUkHp_1694773048355_01-most-popular-youtube-MobileElec.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Footwear": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7tcbM_1694773044557_01-most-popular-youtube-Footwear.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_B30Lz_1694773048368_01-most-popular-youtube-Footwear.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Jewellery": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GLeog_1694773044558_01-most-popular-youtube-Jewellery.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_H-Wmc_1694773048369_01-most-popular-youtube-Jewellery.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Wearables": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JFbBv_1694773044559_01-most-popular-youtube-Wearables.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_wpCE-_1694773048371_01-most-popular-youtube-Wearables.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"HomeDecor": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_CzZCA_1694773044561_01-most-popular-youtube-HomeDecor.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kFB1V_1694773048374_01-most-popular-youtube-HomeDecor.mp4",
-						"promoHeading": ""
-					}
-				}
-			],
-			"speedXfortwoImage": 1.25,
-			"speedX": 2,
-			"id": "DpPY0Pf64_1MnbDBfjk1x1",
-			"templateId": "DpPY0Pf64_1MnbDBfjk1x1"
-		},
-		{
-			"version": 1,
-			"gifUrl": "",
-			"bgVideoUrl": [
-				""
-			],
-			"fontUrl": [
-				""
-			],
-			"bgImageUrl": [
-				""
-			],
 			"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bAX--_1663652120460_mixkit-savana-186.mp3",
 			"fillEnabled": true,
 			"forWebsites": [],
@@ -93080,6 +92935,73 @@
 			"speedX": 2,
 			"templateId": "lW_XfXrF_S21_XyZ2"
 		},
+		{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_iK4AD_1717754319976_mixkit-me-and-you-851.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-06-04T05:35:00.144Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705920078168_19 Youtube Outro"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_8pxYg_1780551297173_01-most-popular-youtube-updated.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Youtube Videos",
+	"name": "01-most-popular-youtube-updated",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_mp"
+	],
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_7qxLJ_1780551297177_01-most-popular-youtube-updated.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_dr6di_1780551297175_01-most-popular-youtube-updated.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1080,
+	"Width": 1920,
+	"height": 1080,
+	"width": 1920,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.7,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "muskshdgsvrsnd",
+	"id": "muskshdgsvrsnd",
+	"previews": []
+},
 		{
 			"version": 1,
 			"gifUrl": "",
@@ -157943,141 +157865,72 @@
 			"templateId": "qdC7A0YlRik5XyzeqeBg4"
 		},
 		{
-			"version": 1,
-			"gifUrl": "",
-			"bgVideoUrl": [
-				""
-			],
-			"fontUrl": [
-				""
-			],
-			"bgImageUrl": [
-				""
-			],
-			"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6PfGw_1674197085363_Summer Uplifting Dance (Full).mp3",
-			"fillEnabled": true,
-			"forWebsites": [],
-			"pro": true,
-			"createdOn": "2023-09-08T05:46:42.001Z",
-			"extraComps": [
-				{
-					"index": 4,
-					"compId": "1688557660289_15-youtube-1920x1080"
-				}
-			],
-			"widgetsDefinition": [
-				{
-					"mappingKeyMandatory": false,
-					"Height": "100%",
-					"Width": "100%",
-					"StartTime": 0,
-					"EndTime": -1,
-					"URLS": [],
-					"mappingKeyValue": "",
-					"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_pCWsC_1694151619521_01-new-arrival-youtube.json",
-					"X": "0.0%",
-					"Y": "0.0%",
-					"type": "SVG_SINGLE",
-					"duration": 10
-				}
-			],
-			"type": "Youtube Videos",
-			"name": "01-new-arrival-youtube",
-			"brandEnabled": false,
-			"brandType": "X1",
-			"category": [
-				"p_na"
-			],
-			"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FtdNn_1694151619566_01-new-arrival-youtube.mp4",
-			"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qQAzj_1694151619563_01-new-arrival-youtube.jpg",
-			"imageType": "Instagram Posts",
-			"outroType": null,
-			"introType": null,
-			"Height": 1080,
-			"Width": 1920,
-			"height": 1080,
-			"width": 1920,
-			"introId": null,
-			"outroId": null,
-			"isTransparent": false,
-			"AddId": "",
-			"volume": 0.3,
-			"isMultipleTemplate": false,
-			"previews": [
-				{
-					"Toys": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_M2eLe_1694151981237_01-new-arrival-youtube-Toys.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LDZF6_1694151991520_01-new-arrival-youtube-Toys.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"HealthFitness": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_G3-6q_1694151981238_01-new-arrival-youtube-HealthFitness.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BpZaE_1694151991522_01-new-arrival-youtube-HealthFitness.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Perfumes": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_lu6m6_1694151981240_01-new-arrival-youtube-Perfumes.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Pz3Bl_1694151991523_01-new-arrival-youtube-Perfumes.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"BagPurse": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_p6YaJ_1694151981241_01-new-arrival-youtube-BagPurse.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_v1Ct3_1694151991526_01-new-arrival-youtube-BagPurse.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"HealthBeauty": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BMRBf_1694151981242_01-new-arrival-youtube-HealthBeauty.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rruQD_1694151991527_01-new-arrival-youtube-HealthBeauty.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"MobileElec": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_aF7-3_1694151981243_01-new-arrival-youtube-MobileElec.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hNgg5_1694151991530_01-new-arrival-youtube-MobileElec.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Clothings": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UMAuQ_1694151981244_01-new-arrival-youtube-Clothings.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_v7uhx_1694151991531_01-new-arrival-youtube-Clothings.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Footwear": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Nm4_a_1694151981245_01-new-arrival-youtube-Footwear.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_wT2jC_1694151991534_01-new-arrival-youtube-Footwear.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Jewellery": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OKJE9_1694151981246_01-new-arrival-youtube-Jewellery.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_nE_8a_1694151991536_01-new-arrival-youtube-Jewellery.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Wearables": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_v54BM_1694151981247_01-new-arrival-youtube-Wearables.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gBbDN_1694151991538_01-new-arrival-youtube-Wearables.mp4",
-						"promoHeading": ""
-					}
-				}
-			],
-			"id": "O8DpPY0Pf64_QMnbDBfdX",
-			"templateId": "O8DpPY0Pf64_QMnbDBfdX"
-		},
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_M7aUc_1719921238556_truth-hurts-888.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-06-04T08:58:40.115Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705920078168_19 Youtube Outro"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_wUGSh_1780563517352_01-new-arrival-youtube-new.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Youtube Videos",
+	"name": "01-new-arrival-youtube-new",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_na"
+	],
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe__BlKW_1780563517363_01-new-arrival-youtube-new.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_3O0Bx_1780563517360_01-new-arrival-youtube-new.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1080,
+	"Width": 1920,
+	"height": 1080,
+	"width": 1920,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.6,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "chandhfidfdkfdsc",
+	"id": "chandhfidfdkfdsc",
+	"previews": []
+},
 		{
 			"version": 1,
 			"gifUrl": "",
