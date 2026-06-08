@@ -71238,281 +71238,206 @@
 			"speedX": 2
 		},
 		{
-			"version": 1,
-			"gifUrl": "",
-			"bgVideoUrl": [
-				""
-			],
-			"fontUrl": [
-				""
-			],
-			"bgImageUrl": [
-				""
-			],
-			"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ry1dI_Sunset Dream - Cheel.mp3",
-			"fillEnabled": true,
-			"forWebsites": [],
-			"pro": true,
-			"createdOn": "2023-11-17T10:03:21.107Z",
-			"extraComps": [
-				{
-					"index": 4,
-					"compId": "1688557723816_16-youtube-1920x1080"
-				}
-			],
-			"widgetsDefinition": [
-				{
-					"mappingKeyMandatory": false,
-					"Height": "100%",
-					"Width": "100%",
-					"StartTime": 0,
-					"EndTime": -1,
-					"URLS": [],
-					"mappingKeyValue": "",
-					"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_qIx0I_1700215110291_02-discount-in-percentage-youtube.json",
-					"X": "0.0%",
-					"Y": "0.0%",
-					"type": "SVG_SINGLE",
-					"duration": 10
-				}
-			],
-			"type": "Youtube Videos",
-			"name": "02-discount-in-percentage-youtube",
-			"brandEnabled": false,
-			"brandType": "X1",
-			"category": [
-				"p_dpercentage"
-			],
-			"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_IQ-Ir_1700215110300_02-discount-in-percentage-youtube.mp4",
-			"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Klou6_1700215110296_02-discount-in-percentage-youtube.jpg",
-			"imageType": "Instagram Posts",
-			"outroType": null,
-			"introType": null,
-			"Height": 1080,
-			"Width": 1920,
-			"height": 1080,
-			"width": 1920,
-			"introId": null,
-			"outroId": null,
-			"isTransparent": false,
-			"AddId": "",
-			"volume": 0.4,
-			"isMultipleTemplate": true,
-			"previews": [
-				{
-					"Accessories": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pXhjm_1700215390878_02-discount-in-percentage-youtube-Accessories.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XvruJ_1700215394480_02-discount-in-percentage-youtube-Accessories.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Toys": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JUHir_1700215390879_02-discount-in-percentage-youtube-Toys.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gqLtz_1700215394482_02-discount-in-percentage-youtube-Toys.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"HealthFitness": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WX6h1_1700215390881_02-discount-in-percentage-youtube-HealthFitness.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qkGPr_1700215394484_02-discount-in-percentage-youtube-HealthFitness.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Perfumes": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rHS3T_1700215390882_02-discount-in-percentage-youtube-Perfumes.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_sBmyE_1700215394486_02-discount-in-percentage-youtube-Perfumes.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"BagPurse": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BJdlI_1700215390883_02-discount-in-percentage-youtube-BagPurse.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_c8lvy_1700215394488_02-discount-in-percentage-youtube-BagPurse.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"MobileElec": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8vBSk_1700215390885_02-discount-in-percentage-youtube-MobileElec.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4e8JK_1700215394490_02-discount-in-percentage-youtube-MobileElec.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Clothings": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pfFd5_1700215390886_02-discount-in-percentage-youtube-Clothings.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cYQxP_1700215394492_02-discount-in-percentage-youtube-Clothings.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Footwear": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vq8JQ_1700215390887_02-discount-in-percentage-youtube-Footwear.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dH1Ue_1700215394494_02-discount-in-percentage-youtube-Footwear.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Jewellery": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_oQu6c_1700215390889_02-discount-in-percentage-youtube-Jewellery.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Sp18f_1700215394497_02-discount-in-percentage-youtube-Jewellery.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Wearables": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__LHFu_1700215390890_02-discount-in-percentage-youtube-Wearables.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5wnxt_1700215394499_02-discount-in-percentage-youtube-Wearables.mp4",
-						"promoHeading": ""
-					}
-				}
-			],
-			"id": "EXVOES18",
-			"templateId": "EXVOES18",
-			"speedXfortwoImage": 1.25,
-			"speedX": 2
-		},
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TiHzJ_1757326343601_(Neon vibes)deja vu 793.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-06-08T12:08:56.266Z",
+	"extraComps": [
 		{
-			"version": 1,
-			"gifUrl": "",
-			"bgVideoUrl": [
-				""
-			],
-			"fontUrl": [
-				""
-			],
-			"bgImageUrl": [
-				""
-			],
-			"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ry1dI_Sunset Dream - Cheel.mp3",
-			"fillEnabled": true,
-			"forWebsites": [],
-			"pro": true,
-			"createdOn": "2023-11-17T10:03:21.107Z",
-			"extraComps": [
-				{
-					"index": 4,
-					"compId": "1688557723816_16-youtube-1920x1080"
-				}
-			],
-			"widgetsDefinition": [
-				{
-					"mappingKeyMandatory": false,
-					"Height": "100%",
-					"Width": "100%",
-					"StartTime": 0,
-					"EndTime": -1,
-					"URLS": [],
-					"mappingKeyValue": "",
-					"URL": "https://cdn.hootout.com/VidyBack-videos/vbe_qIx0I_1700215110291_02-discount-in-percentage-youtube.json",
-					"X": "0.0%",
-					"Y": "0.0%",
-					"type": "SVG_SINGLE",
-					"duration": 10
-				}
-			],
-			"type": "Youtube Videos",
-			"name": "02-discount-in-percentage-youtube",
-			"brandEnabled": false,
-			"brandType": "X1",
-			"category": [
-				"p_dpercentage"
-			],
-			"vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_IQ-Ir_1700215110300_02-discount-in-percentage-youtube.mp4",
-			"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Klou6_1700215110296_02-discount-in-percentage-youtube.jpg",
-			"imageType": "Instagram Posts",
-			"outroType": null,
-			"introType": null,
-			"Height": 1080,
-			"Width": 1920,
-			"height": 1080,
-			"width": 1920,
-			"introId": null,
-			"outroId": null,
-			"isTransparent": false,
-			"AddId": "",
-			"volume": 0.4,
-			"isMultipleTemplate": false,
-			"previews": [
-				{
-					"Accessories": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pXhjm_1700215390878_02-discount-in-percentage-youtube-Accessories.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XvruJ_1700215394480_02-discount-in-percentage-youtube-Accessories.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Toys": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JUHir_1700215390879_02-discount-in-percentage-youtube-Toys.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gqLtz_1700215394482_02-discount-in-percentage-youtube-Toys.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"HealthFitness": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WX6h1_1700215390881_02-discount-in-percentage-youtube-HealthFitness.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qkGPr_1700215394484_02-discount-in-percentage-youtube-HealthFitness.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Perfumes": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rHS3T_1700215390882_02-discount-in-percentage-youtube-Perfumes.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_sBmyE_1700215394486_02-discount-in-percentage-youtube-Perfumes.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"BagPurse": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BJdlI_1700215390883_02-discount-in-percentage-youtube-BagPurse.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_c8lvy_1700215394488_02-discount-in-percentage-youtube-BagPurse.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"MobileElec": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8vBSk_1700215390885_02-discount-in-percentage-youtube-MobileElec.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4e8JK_1700215394490_02-discount-in-percentage-youtube-MobileElec.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Clothings": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pfFd5_1700215390886_02-discount-in-percentage-youtube-Clothings.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cYQxP_1700215394492_02-discount-in-percentage-youtube-Clothings.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Footwear": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vq8JQ_1700215390887_02-discount-in-percentage-youtube-Footwear.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dH1Ue_1700215394494_02-discount-in-percentage-youtube-Footwear.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Jewellery": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_oQu6c_1700215390889_02-discount-in-percentage-youtube-Jewellery.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Sp18f_1700215394497_02-discount-in-percentage-youtube-Jewellery.mp4",
-						"promoHeading": ""
-					}
-				},
-				{
-					"Wearables": {
-						"thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__LHFu_1700215390890_02-discount-in-percentage-youtube-Wearables.jpg",
-						"preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5wnxt_1700215394499_02-discount-in-percentage-youtube-Wearables.mp4",
-						"promoHeading": ""
-					}
-				}
-			],
-			"id": "EXVOES18",
-			"templateId": "EXVOES18",
-			"speedXfortwoImage": 1.25,
-			"speedX": 2
-		},
+			"index": 4,
+			"compId": "1705920078168_19 Youtube Outro"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_fiod2_1780920533481_02-discount-in-percentage-youtube-new.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Youtube Videos",
+	"name": "02-discount-in-percentage-youtube-new",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_dpercentage"
+	],
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_rAisF_1780920533486_02-discount-in-percentage-youtube-new.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_eSHdS_1780920533484_02-discount-in-percentage-youtube-new.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1080,
+	"Width": 1920,
+	"height": 1080,
+	"width": 1920,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.7,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "ffgyjiykujddh",
+	"id": "ffgyjiykujddh",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TiHzJ_1757326343601_(Neon vibes)deja vu 793.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-06-08T12:08:56.266Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705920078168_19 Youtube Outro"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_fiod2_1780920533481_02-discount-in-percentage-youtube-new.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Youtube Videos",
+	"name": "02-discount-in-percentage-youtube-new",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_dpercentage"
+	],
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_rAisF_1780920533486_02-discount-in-percentage-youtube-new.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_eSHdS_1780920533484_02-discount-in-percentage-youtube-new.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1080,
+	"Width": 1920,
+	"height": 1080,
+	"width": 1920,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.7,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "ffgyjiykujddh",
+	"id": "ffgyjiykujddh",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TZ2ej_1773745059640_Momentum_Shift.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-06-08T12:41:11.887Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705920078168_19 Youtube Outro"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_Jqg3m_1780922469239_11-multi-discount-percentage-youtube-new-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Youtube Videos",
+	"name": "11-multi-discount-percentage-youtube-new-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_dpercentage"
+	],
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_-0501_1780922469243_11-multi-discount-percentage-youtube-new-template.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_sJ2CJ_1780922469240_11-multi-discount-percentage-youtube-new-template.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1080,
+	"Width": 1920,
+	"height": 1080,
+	"width": 1920,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.8,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "hyhussdcnjmidd",
+	"id": "hyhussdcnjmidd",
+	"previews": []
+},
 		{
 			"version": 2,
 			"gifUrl": "",
@@ -153948,7 +153873,7 @@
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": true,
-	"createdOn": "2026-06-05T11:31:45.363Z",
+	"createdOn": "2026-06-05T13:06:41.405Z",
 	"extraComps": [
 		{
 			"index": 4,
@@ -153964,7 +153889,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_55SK0_1780659102738_04-multi-new-arrival-youtube-new-template.json",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_1UYUe_1780664798130_04-multi-new-arrival-youtube-new-template.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -153978,8 +153903,8 @@
 	"category": [
 		"p_na"
 	],
-	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_y7LkE_1780659102742_04-multi-new-arrival-youtube-new-template.mp4",
-	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_QOGJn_1780659102740_04-multi-new-arrival-youtube-new-template.jpg",
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_Zkoxd_1780664798140_04-multi-new-arrival-youtube-new-template.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_huwWR_1780664798138_04-multi-new-arrival-youtube-new-template.jpg",
 	"imageType": "Instagram Posts",
 	"outroType": null,
 	"introType": null,
@@ -153995,8 +153920,8 @@
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": true,
-	"templateId": "askmshimsdhh",
-	"id": "askmshimsdhh",
+	"templateId": "gguhhdvfgfgiggded",
+	"id": "gguhhdvfgfgiggded",
 	"previews": []
 },
 		{
