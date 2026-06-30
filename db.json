@@ -3430,6 +3430,274 @@
 	"bgImageUrl": [
 		""
 	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TZ2ej_1773745059640_Momentum_Shift.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-06-30T12:51:57.889Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_wIYFd_1782823914423_11-reel-type-portrait-template-new.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "11-reel-type-portrait-template-new",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_Image"
+	],
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_JtwgJ_1782823914432_11-reel-type-portrait-template-new.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_kBNup_1782823914427_11-reel-type-portrait-template-new.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.9,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "montijusdvgffs",
+	"id": "montijusdvgffs",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TZ2ej_1773745059640_Momentum_Shift.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-06-30T12:51:57.889Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_wIYFd_1782823914423_11-reel-type-portrait-template-new.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "11-reel-type-portrait-template-new",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_Image"
+	],
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_JtwgJ_1782823914432_11-reel-type-portrait-template-new.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_kBNup_1782823914427_11-reel-type-portrait-template-new.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.9,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "montijusdvgffs",
+	"id": "montijusdvgffs",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_wi7PC_1697196412429_mixkit-infectious-groove-142.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-06-30T11:17:02.111Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_NOLRW_1782818219207_10-reel-type-portrait-template-new.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "10-reel-type-portrait-template-new",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_Image"
+	],
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_vwBWy_1782818219212_10-reel-type-portrait-template-new.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_rT_Ax_1782818219210_10-reel-type-portrait-template-new.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.7,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "jnnimokolsdsfj",
+	"id": "jnnimokolsdsfj",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_wi7PC_1697196412429_mixkit-infectious-groove-142.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": true,
+	"createdOn": "2026-06-30T11:17:02.111Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_NOLRW_1782818219207_10-reel-type-portrait-template-new.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "10-reel-type-portrait-template-new",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_Image"
+	],
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_vwBWy_1782818219212_10-reel-type-portrait-template-new.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_rT_Ax_1782818219210_10-reel-type-portrait-template-new.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.7,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "jnnimokolsdsfj",
+	"id": "jnnimokolsdsfj",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
 	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_4jr9-_1774526987568_Copper_Street_Strut.mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
