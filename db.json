@@ -39285,6 +39285,142 @@
 			"templateId": "mjSpBd3vP8hLmEexH0JjD"
 		},
 		{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_09pod_1760439621673_Festival Spirit.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-07-20T11:42:05.459Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_Fe__L_1784547721520_62-raksha-bandhan-greeting-story.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "62-raksha-bandhan-greeting-story",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_fest"
+	],
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_iEr3K_1784547721524_62-raksha-bandhan-greeting-story.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_LmSMk_1784547721523_62-raksha-bandhan-greeting-story.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.8,
+	"noBlur": false,
+	"month": "august",
+	"date": 28,
+	"isMultipleTemplate": false,
+	"templateId": "ghujibkntonemidn",
+	"id": "ghujibkntonemidn",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rl9kO_1758113166162_Celebration.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-07-20T11:18:50.714Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705320145920_19-brnad Outro-with elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_kpHBs_1784546327218_64-independence-day-new-festive-greeting-story.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Stories",
+	"name": "64-independence-day-new-festive-greeting-story",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_fest"
+	],
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_Ssg8-_1784546327223_64-independence-day-new-festive-greeting-story.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_tXJyV_1784546327221_64-independence-day-new-festive-greeting-story.jpg",
+	"imageType": "Instagram Stories",
+	"outroType": null,
+	"introType": null,
+	"Height": 1920,
+	"Width": 1080,
+	"height": 1920,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "august",
+	"date": 15,
+	"isMultipleTemplate": false,
+	"templateId": "fesjtkigjusbnumil",
+	"id": "fesjtkigjusbnumil",
+	"previews": []
+},
+		{
 			"version": 1,
 			"gifUrl": "",
 			"bgVideoUrl": [
