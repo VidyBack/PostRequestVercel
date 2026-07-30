@@ -83,6 +83,73 @@
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": false,
+	"createdOn": "2026-07-30T08:06:35.779Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705389346749_19- brand outro-post-wth-elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_AO00q_1785398793559_03-video-new-square-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Posts",
+	"name": "03-video-new-square-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_Video"
+	],
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_s197m_1785397880809_03-video-new-square-template.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_O-RCo_1785397880807_03-video-new-square-template.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1080,
+	"Width": 1080,
+	"height": 1080,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "jodsvcxvv",
+	"id": "jodsvcxvv",
+	"previews": []
+},
+		{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
 	"createdOn": "2026-06-09T06:22:00.890Z",
 	"extraComps": [
 		{
@@ -199,6 +266,73 @@
 	"isMultipleTemplate": false,
 	"templateId": "jagghymunits",
 	"id": "jagghymunits",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1f4Gm_1747221578847_blank-music.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-07-30T07:43:52.547Z",
+	"extraComps": [
+		{
+			"index": 2,
+			"compId": "1705389346749_19- brand outro-post-wth-elements"
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_cTWrN_1785397430476_02-video-new-square-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Instagram Posts",
+	"name": "02-video-new-square-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_Video"
+	],
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_d_CQZ_1785397245872_02-video-new-square-template.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_jqt6Q_1785397245871_02-video-new-square-template.jpg",
+	"imageType": "Instagram Posts",
+	"outroType": null,
+	"introType": null,
+	"Height": 1080,
+	"Width": 1080,
+	"height": 1080,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 1,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "gdtgrdsfdfsfcx",
+	"id": "gdtgrdsfdfsfcx",
 	"previews": []
 },
 		{
@@ -78457,6 +78591,140 @@
 	"id": "jofjgyhtuehjsdsh",
 	"previews": []
 },
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_TMzdi_1726052706671_purple-js-453.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-07-28T11:08:04.456Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_85sAU_1785236881597_35-most-popular-portrait-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "35-most-popular-portrait-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_mp"
+	],
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_n6Gd5_1785236881601_35-most-popular-portrait-template.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_9Z5nu_1785236881599_35-most-popular-portrait-template.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.8,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "hskfhkdscc",
+	"id": "hskfhkdscc",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_TMzdi_1726052706671_purple-js-453.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-07-28T11:08:04.456Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_85sAU_1785236881597_35-most-popular-portrait-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "35-most-popular-portrait-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_mp"
+	],
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_n6Gd5_1785236881601_35-most-popular-portrait-template.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_9Z5nu_1785236881599_35-most-popular-portrait-template.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.8,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": false,
+	"templateId": "hskfhkdscc",
+	"id": "hskfhkdscc",
+	"previews": []
+},
 		{
 			"version": 1,
 			"gifUrl": "",
@@ -132926,11 +133194,11 @@
 	"bgImageUrl": [
 		""
 	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_bZX6e_1696574207413_mixkit-our-nights-627.mp3",
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_G3YAM_1774437146330_Starlight_Strut.mp3",
 	"fillEnabled": true,
 	"forWebsites": [],
 	"pro": false,
-	"createdOn": "2026-07-27T10:16:20.396Z",
+	"createdOn": "2026-07-27T13:23:03.597Z",
 	"extraComps": [
 		{
 			"index": 4,
@@ -132946,7 +133214,7 @@
 			"EndTime": -1,
 			"URLS": [],
 			"mappingKeyValue": "",
-			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_FZ71y_1785147377901_51-new-arrival-portrait-template.json",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_IjzqE_1785158579914_51-new-arrival-portrait-template.json",
 			"X": "0.0%",
 			"Y": "0.0%",
 			"type": "SVG_SINGLE",
@@ -132960,75 +133228,8 @@
 	"category": [
 		"p_na"
 	],
-	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_3xbJv_1785147377904_51-new-arrival-portrait-template.mp4",
-	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_CUea9_1785147377903_51-new-arrival-portrait-template.jpg",
-	"imageType": "Post 4:5",
-	"outroType": null,
-	"introType": null,
-	"Height": 1350,
-	"Width": 1080,
-	"height": 1350,
-	"width": 1080,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"volume": 0.7,
-	"noBlur": false,
-	"month": "january",
-	"isMultipleTemplate": true,
-	"templateId": "hfufgskhfcccsdsd",
-	"id": "hfufgskhfcccsdsd",
-	"previews": []
-},
-{
-	"version": 1,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_bZX6e_1696574207413_mixkit-our-nights-627.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": false,
-	"createdOn": "2026-07-27T10:16:20.396Z",
-	"extraComps": [
-		{
-			"index": 4,
-			"compId": "1705322724854_19 Brand Outro portrait with elements "
-		}
-	],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_FZ71y_1785147377901_51-new-arrival-portrait-template.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 10
-		}
-	],
-	"type": "Post 4:5",
-	"name": "51-new-arrival-portrait-template",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_na"
-	],
-	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_3xbJv_1785147377904_51-new-arrival-portrait-template.mp4",
-	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_CUea9_1785147377903_51-new-arrival-portrait-template.jpg",
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_iAD6Y_1785158579917_51-new-arrival-portrait-template.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_xJEJv_1785158579915_51-new-arrival-portrait-template.jpg",
 	"imageType": "Post 4:5",
 	"outroType": null,
 	"introType": null,
@@ -133044,8 +133245,75 @@
 	"noBlur": false,
 	"month": "january",
 	"isMultipleTemplate": false,
-	"templateId": "hfufgskhfcccsdsd",
-	"id": "hfufgskhfcccsdsd",
+	"templateId": "ewhjshshhhhchgd",
+	"id": "ewhjshshhhhchgd",
+	"previews": []
+},
+{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_G3YAM_1774437146330_Starlight_Strut.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-07-27T13:23:03.597Z",
+	"extraComps": [
+		{
+			"index": 4,
+			"compId": "1705322724854_19 Brand Outro portrait with elements "
+		}
+	],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_IjzqE_1785158579914_51-new-arrival-portrait-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 10
+		}
+	],
+	"type": "Post 4:5",
+	"name": "51-new-arrival-portrait-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_na"
+	],
+	"vidUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_iAD6Y_1785158579917_51-new-arrival-portrait-template.mp4",
+	"thumbUrl": "https://pub-495b494257cf4ce5ae140865b45d1c06.r2.dev/VidyBack-videos/vbe_xJEJv_1785158579915_51-new-arrival-portrait-template.jpg",
+	"imageType": "Post 4:5",
+	"outroType": null,
+	"introType": null,
+	"Height": 1350,
+	"Width": 1080,
+	"height": 1350,
+	"width": 1080,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.7,
+	"noBlur": false,
+	"month": "january",
+	"isMultipleTemplate": true,
+	"templateId": "ewhjshshhhhchgd",
+	"id": "ewhjshshhhhchgd",
 	"previews": []
 },
 	{
