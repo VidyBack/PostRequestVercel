@@ -35876,7 +35876,9 @@
 			"bgImageUrl": [
 				""
 			],
-			"bgMusicUrl": "https://hootout.s3.ap-south-1.amazonaws.com/vidyback/music/Whispers_of_the_Ganges.mp3",
+			
+			"bgMusicUrl":  "https://cdn.hootout.com/VidyBack-videos/vbe_Viaxt_1756215954386_Sukhkarta Dukhharta.mp3",
+		
 			"fillEnabled": true,
 			"forWebsites": [],
 			"pro": false,
@@ -36964,7 +36966,8 @@
 			"bgImageUrl": [
 				""
 			],
-			"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Viaxt_1756215954386_Sukhkarta Dukhharta.mp3",
+			"bgMusicUrl": "https://hootout.s3.ap-south-1.amazonaws.com/vidyback/music/Whispers_of_the_Ganges.mp3",
+			
 			"fillEnabled": true,
 			"forWebsites": [],
 			"pro": false,
