@@ -8457,6 +8457,140 @@
 			"bgImageUrl": [
 				""
 			],
+			"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TZ2ej_1773745059640_Momentum_Shift.mp3",
+			"fillEnabled": true,
+			"forWebsites": [],
+			"pro": false,
+			"createdOn": "2026-11-11T15:23:36.000Z",
+			"extraComps": [
+				{
+					"index": 5,
+					"compId": "1705578045857_22 Outro Portrait"
+				}
+			],
+			"widgetsDefinition": [
+				{
+					"mappingKeyMandatory": false,
+					"Height": "100%",
+					"Width": "100%",
+					"StartTime": 0,
+					"EndTime": -1,
+					"URLS": [],
+					"mappingKeyValue": "",
+					"URL": "https://cdn.hootout.com/VidyBack-videos/templates/17-feature-spotlight-portrait-template-1794409422244.json",
+					"X": "0.0%",
+					"Y": "0.0%",
+					"type": "SVG_SINGLE",
+					"duration": 10
+				}
+			],
+			"type": "Post 4:5",
+			"name": "17-feature-spotlight-portrait-template",
+			"brandEnabled": false,
+			"brandType": "X1",
+			"category": [
+				"p_ecomFeature"
+			],
+			"vidUrl": "https://cdn.hootout.com/VidyBack-videos/HPPaDctgF5UP63QYPLqotr9kg5I2/api/oHbkn1e5auFWIyJpIAWx.mp4",
+			"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/HPPaDctgF5UP63QYPLqotr9kg5I2/api/tQ0W62INMaTI6wyozov9.jpg",
+			"imageType": "Post 4:5",
+			"outroType": null,
+			"introType": null,
+			"Height": 1350,
+			"Width": 1080,
+			"height": 1350,
+			"width": 1080,
+			"introId": null,
+			"outroId": null,
+			"isTransparent": false,
+			"AddId": "",
+			"volume": 0.9,
+			"noBlur": true,
+			"month": "november",
+			"isMultipleTemplate": true,
+			"id": "uYF4vP4q2Fpr70xWfY7vH",
+			"templateId": "uYF4vP4q2Fpr70xWfY7vH",
+			"previews": []
+		},
+		{
+			"version": 1,
+			"gifUrl": "",
+			"bgVideoUrl": [
+				""
+			],
+			"fontUrl": [
+				""
+			],
+			"bgImageUrl": [
+				""
+			],
+			"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TZ2ej_1773745059640_Momentum_Shift.mp3",
+			"fillEnabled": true,
+			"forWebsites": [],
+			"pro": false,
+			"createdOn": "2026-11-11T15:23:36.000Z",
+			"extraComps": [
+				{
+					"index": 5,
+					"compId": "1705578045857_22 Outro Portrait"
+				}
+			],
+			"widgetsDefinition": [
+				{
+					"mappingKeyMandatory": false,
+					"Height": "100%",
+					"Width": "100%",
+					"StartTime": 0,
+					"EndTime": -1,
+					"URLS": [],
+					"mappingKeyValue": "",
+					"URL": "https://cdn.hootout.com/VidyBack-videos/templates/17-feature-spotlight-portrait-template-1794409422244.json",
+					"X": "0.0%",
+					"Y": "0.0%",
+					"type": "SVG_SINGLE",
+					"duration": 10
+				}
+			],
+			"type": "Post 4:5",
+			"name": "17-feature-spotlight-portrait-template",
+			"brandEnabled": false,
+			"brandType": "X1",
+			"category": [
+				"p_ecomFeature"
+			],
+			"vidUrl": "https://cdn.hootout.com/VidyBack-videos/HPPaDctgF5UP63QYPLqotr9kg5I2/api/oHbkn1e5auFWIyJpIAWx.mp4",
+			"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/HPPaDctgF5UP63QYPLqotr9kg5I2/api/tQ0W62INMaTI6wyozov9.jpg",
+			"imageType": "Post 4:5",
+			"outroType": null,
+			"introType": null,
+			"Height": 1350,
+			"Width": 1080,
+			"height": 1350,
+			"width": 1080,
+			"introId": null,
+			"outroId": null,
+			"isTransparent": false,
+			"AddId": "",
+			"volume": 0.9,
+			"noBlur": true,
+			"month": "november",
+			"isMultipleTemplate": false,
+			"id": "uYF4vP4q2Fpr70xWfY7vH",
+			"templateId": "uYF4vP4q2Fpr70xWfY7vH",
+			"previews": []
+		},
+		{
+			"version": 1,
+			"gifUrl": "",
+			"bgVideoUrl": [
+				""
+			],
+			"fontUrl": [
+				""
+			],
+			"bgImageUrl": [
+				""
+			],
 			"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_9hmP-_1702275647929_mixkit-the-hamptons-331-updated.mp3.mp3",
 			"fillEnabled": true,
 			"forWebsites": [],
