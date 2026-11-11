@@ -133962,8 +133962,8 @@
 	"category": [
 		"p_na"
 	],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/NoR7xOsDzQ6KSdDyjxni.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/jnN8PulrWNzi5e9yBAHe.jpg",
+	  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/gH93mfFfVNGwuikdTPZ1.mp4",
+  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/0phUxOaMRfoPGHtGGjt5.jpg",
 	"imageType": "Pin 2:3",
 	"outroType": null,
 	"introType": null,
@@ -134009,7 +134009,7 @@
       "EndTime": -1,
       "URLS": [],
       "mappingKeyValue": "",
-      "URL": "https://cdn.hootout.com/VidyBack-videos/16-new-arrivals-pin-template.json",
+      "URL": "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/16-new-arrivals-pin-template.json",
       "X": "0.0%",
       "Y": "0.0%",
       "type": "SVG_SINGLE",
@@ -134023,8 +134023,8 @@
   "category": [
     "p_na"
   ],
-  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/NoR7xOsDzQ6KSdDyjxni.mp4",
-  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/jnN8PulrWNzi5e9yBAHe.jpg",
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/NoR7xOsDzQ6KSdDyjxni.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/jnN8PulrWNzi5e9yBAHe.jpg",
   "imageType": "Post 4:5",
   "outroType": null,
   "introType": null,
