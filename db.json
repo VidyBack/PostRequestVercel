@@ -133921,6 +133921,67 @@
 		}
 	],
 		"p_na": [
+	{
+	"version": 1,
+	"gifUrl": "",
+	"bgVideoUrl": [
+		""
+	],
+	"fontUrl": [
+		""
+	],
+	"bgImageUrl": [
+		""
+	],
+	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_lJpPT_1718105538572_its-a-cool-thing-1164.mp3",
+	"fillEnabled": true,
+	"forWebsites": [],
+	"pro": false,
+	"createdOn": "2026-11-11T03:25:47.000Z",
+	"extraComps": [],
+	"widgetsDefinition": [
+		{
+			"mappingKeyMandatory": false,
+			"Height": "100%",
+			"Width": "100%",
+			"StartTime": 0,
+			"EndTime": -1,
+			"URLS": [],
+			"mappingKeyValue": "",
+			"URL": "https://cdn.hootout.com/VidyBack-videos/16-new-arrivals-pin-template.json",
+			"X": "0.0%",
+			"Y": "0.0%",
+			"type": "SVG_SINGLE",
+			"duration": 8
+		}
+	],
+	"type": "Pin 2:3",
+	"name": "16-new-arrivals-pin-template",
+	"brandEnabled": false,
+	"brandType": "X1",
+	"category": [
+		"p_na"
+	],
+	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/NoR7xOsDzQ6KSdDyjxni.mp4",
+	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/jnN8PulrWNzi5e9yBAHe.jpg",
+	"imageType": "Pin 2:3",
+	"outroType": null,
+	"introType": null,
+	"Height": 1500,
+	"Width": 1000,
+	"height": 1500,
+	"width": 1000,
+	"introId": null,
+	"outroId": null,
+	"isTransparent": false,
+	"AddId": "",
+	"volume": 0.9,
+	"noBlur": true,
+	"month": "november",
+	"isMultipleTemplate": true,
+	"id": "Vrk3eTFwDNTx7lwOhS9Ec",
+	"templateId": "Vrk3eTFwDNTx7lwOhS9Ec"
+	},
 	
 	{
 	"version": 1,
