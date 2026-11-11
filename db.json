@@ -133921,68 +133921,7 @@
 		}
 	],
 		"p_na": [
-	{
-	"version": 1,
-	"gifUrl": "",
-	"bgVideoUrl": [
-		""
-	],
-	"fontUrl": [
-		""
-	],
-	"bgImageUrl": [
-		""
-	],
-	"bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_lJpPT_1718105538572_its-a-cool-thing-1164.mp3",
-	"fillEnabled": true,
-	"forWebsites": [],
-	"pro": false,
-	"createdOn": "2026-11-11T03:25:47.000Z",
-	"extraComps": [],
-	"widgetsDefinition": [
-		{
-			"mappingKeyMandatory": false,
-			"Height": "100%",
-			"Width": "100%",
-			"StartTime": 0,
-			"EndTime": -1,
-			"URLS": [],
-			"mappingKeyValue": "",
-			"URL": "https://cdn.hootout.com/VidyBack-videos/16-new-arrivals-pin-template.json",
-			"X": "0.0%",
-			"Y": "0.0%",
-			"type": "SVG_SINGLE",
-			"duration": 8
-		}
-	],
-	"type": "Post 4:5",
-	"name": "16-new-arrivals-pin-template",
-	"brandEnabled": false,
-	"brandType": "X1",
-	"category": [
-		"p_na"
-	],
-	  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/gH93mfFfVNGwuikdTPZ1.mp4",
-  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/0phUxOaMRfoPGHtGGjt5.jpg",
-	"imageType": "Pin 2:3",
-	"outroType": null,
-	"introType": null,
-	"Height": 1500,
-	"Width": 1000,
-	"height": 1500,
-	"width": 1000,
-	"introId": null,
-	"outroId": null,
-	"isTransparent": false,
-	"AddId": "",
-	"volume": 0.9,
-	"noBlur": true,
-	"month": "november",
-	"isMultipleTemplate": true,
-	"id": "Vrk3eTFwDNTx7lwOhS9Ec",
-	"templateId": "Vrk3eTFwDNTx7lwOhS9Ec"
-	},
-	{
+			{
   "version": 1,
   "gifUrl": "",
   "bgVideoUrl": [
@@ -133999,7 +133938,12 @@
   "forWebsites": [],
   "pro": false,
   "createdOn": "2026-11-11T03:25:47.000Z",
-  "extraComps": [],
+  "extraComps": [
+    {
+      "index": 4,
+      "compId": "1705322724854_19 Brand Outro portrait with elements "
+    }
+  ],
   "widgetsDefinition": [
     {
       "mappingKeyMandatory": false,
@@ -134009,7 +133953,7 @@
       "EndTime": -1,
       "URLS": [],
       "mappingKeyValue": "",
-      "URL": "https://hootout.s3.ap-south-1.amazonaws.com/VidyBack-videos/16-new-arrivals-pin-template.json",
+      "URL": "https://cdn.hootout.com/VidyBack-videos/VidyBack-videos/16-new-arrivals-portrait-template.json",
       "X": "0.0%",
       "Y": "0.0%",
       "type": "SVG_SINGLE",
@@ -134017,21 +133961,88 @@
     }
   ],
   "type": "Post 4:5",
-  "name": "16-new-arrivals-pin-template",
+  "name": "16-new-arrivals-portrait-template",
   "brandEnabled": false,
   "brandType": "X1",
   "category": [
     "p_na"
   ],
-	"vidUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/NoR7xOsDzQ6KSdDyjxni.mp4",
-	"thumbUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/jnN8PulrWNzi5e9yBAHe.jpg",
+  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/qo88Bt2yPeLMBaGXN65x.mp4",
+  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/s6Nh5Dylga6513ie2x1q.jpg",
   "imageType": "Post 4:5",
   "outroType": null,
   "introType": null,
-  "Height": 1500,
-  "Width": 1000,
-  "height": 1500,
-  "width": 1000,
+  "Height": 1350,
+  "Width": 1080,
+  "height": 1350,
+  "width": 1080,
+  "introId": null,
+  "outroId": null,
+  "isTransparent": false,
+  "AddId": "",
+  "volume": 0.9,
+  "noBlur": true,
+  "month": "november",
+  "isMultipleTemplate": true,
+  "id": "Vrk3eTFwDNTx7lwOhS9Ec",
+  "templateId": "Vrk3eTFwDNTx7lwOhS9Ec",
+  "previews": []
+},
+{
+  "version": 1,
+  "gifUrl": "",
+  "bgVideoUrl": [
+    ""
+  ],
+  "fontUrl": [
+    ""
+  ],
+  "bgImageUrl": [
+    ""
+  ],
+  "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/updated_music/vbe_lJpPT_1718105538572_its-a-cool-thing-1164.mp3",
+  "fillEnabled": true,
+  "forWebsites": [],
+  "pro": false,
+  "createdOn": "2026-11-11T03:25:47.000Z",
+  "extraComps": [
+    {
+      "index": 4,
+      "compId": "1705322724854_19 Brand Outro portrait with elements "
+    }
+  ],
+  "widgetsDefinition": [
+    {
+      "mappingKeyMandatory": false,
+      "Height": "100%",
+      "Width": "100%",
+      "StartTime": 0,
+      "EndTime": -1,
+      "URLS": [],
+      "mappingKeyValue": "",
+      "URL": "https://cdn.hootout.com/VidyBack-videos/VidyBack-videos/16-new-arrivals-portrait-template.json",
+      "X": "0.0%",
+      "Y": "0.0%",
+      "type": "SVG_SINGLE",
+      "duration": 8
+    }
+  ],
+  "type": "Post 4:5",
+  "name": "16-new-arrivals-portrait-template",
+  "brandEnabled": false,
+  "brandType": "X1",
+  "category": [
+    "p_na"
+  ],
+  "vidUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/qo88Bt2yPeLMBaGXN65x.mp4",
+  "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/shopify:78702870751/api/s6Nh5Dylga6513ie2x1q.jpg",
+  "imageType": "Post 4:5",
+  "outroType": null,
+  "introType": null,
+  "Height": 1350,
+  "Width": 1080,
+  "height": 1350,
+  "width": 1080,
   "introId": null,
   "outroId": null,
   "isTransparent": false,
@@ -134041,8 +134052,10 @@
   "month": "november",
   "isMultipleTemplate": false,
   "id": "Vrk3eTFwDNTx7lwOhS9Ec",
-  "templateId": "Vrk3eTFwDNTx7lwOhS9Ec"
+  "templateId": "Vrk3eTFwDNTx7lwOhS9Ec",
+  "previews": []
 },
+
 	{
 	"version": 1,
 	"gifUrl": "",
